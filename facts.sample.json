@@ -1,0 +1,220 @@
+[
+  {
+    "fact_id": "physiology-homeostasis-is-the-activity-of-cells-throughout-t",
+    "canonical": "Homeostasis is the activity of cells throughout the body to maintain the physiological state within a narrow range compatible with life.",
+    "domain": [
+      "physiology"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": "ILLUSTRATIVE: PubMed evidence added by hand to show 2-source agreement",
+    "consensus": "agreement",
+    "votes": 2,
+    "same_publisher": false,
+    "needs_review": false,
+    "evidence": [
+      {
+        "source": "anatomy-and-physiology-2e",
+        "publisher": "openstax",
+        "book": "anatomy-and-physiology-2e",
+        "repo": "osbooks-anatomy-physiology",
+        "module": "m45989",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e",
+        "tier": "trusted",
+        "verbatim": "Homeostasis is the activity of cells throughout the body to maintain the physiological state within a narrow range that is compatible with life.",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      },
+      {
+        "source": "pubmed-XXXXXX",
+        "publisher": "pubmed",
+        "book": null,
+        "repo": null,
+        "module": "pmid",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/",
+        "tier": "solid",
+        "verbatim": "(illustrative second source)",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "DEFINITION",
+    "expires": null
+  },
+  {
+    "fact_id": "physiology-homeostasis-is-regulated-mainly-by-negative-feedb",
+    "canonical": "Homeostasis is regulated mainly by negative feedback loops and, much less frequently, by positive feedback loops.",
+    "domain": [
+      "physiology"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "votes": 1,
+    "same_publisher": true,
+    "needs_review": false,
+    "evidence": [
+      {
+        "source": "anatomy-and-physiology-2e",
+        "publisher": "openstax",
+        "book": "anatomy-and-physiology-2e",
+        "repo": "osbooks-anatomy-physiology",
+        "module": "m45989",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e",
+        "tier": "trusted",
+        "verbatim": "Homeostasis is regulated by negative feedback loops and, much less frequently, by positive feedback loops.",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "MECHANISM",
+    "expires": null
+  },
+  {
+    "fact_id": "physiology-metabolism-is-the-sum-of-all-catabolic-and-anabol",
+    "canonical": "Metabolism is the sum of all catabolic and anabolic reactions in the body.",
+    "domain": [
+      "physiology",
+      "biochemistry"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "votes": 1,
+    "same_publisher": true,
+    "needs_review": false,
+    "evidence": [
+      {
+        "source": "anatomy-and-physiology-2e",
+        "publisher": "openstax",
+        "book": "anatomy-and-physiology-2e",
+        "repo": "osbooks-anatomy-physiology",
+        "module": "m46489",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e",
+        "tier": "trusted",
+        "verbatim": "Metabolism is the sum of all catabolic (break down) and anabolic (synthesis) reactions in the body.",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "DEFINITION",
+    "expires": null
+  },
+  {
+    "fact_id": "physiology-metabolism-includes-both-anabolic-and-catabolic-r",
+    "canonical": "Metabolism includes both anabolic and catabolic reactions.",
+    "domain": [
+      "physiology"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "votes": 1,
+    "same_publisher": true,
+    "needs_review": false,
+    "evidence": [
+      {
+        "source": "anatomy-and-physiology-2e",
+        "publisher": "openstax",
+        "book": "anatomy-and-physiology-2e",
+        "repo": "osbooks-anatomy-physiology",
+        "module": "m45986",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e",
+        "tier": "trusted",
+        "verbatim": "Metabolism includes both anabolic and catabolic reactions.",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "anatomy-the-adult-human-skeleton-has-206-bones",
+    "canonical": "The adult human skeleton has 206 bones.",
+    "domain": [
+      "anatomy"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "votes": 1,
+    "same_publisher": true,
+    "needs_review": false,
+    "evidence": [
+      {
+        "source": "anatomy-and-physiology-2e",
+        "publisher": "openstax",
+        "book": "anatomy-and-physiology-2e",
+        "repo": "osbooks-anatomy-physiology",
+        "module": "m46300",
+        "url": "https://openstax.org/books/anatomy-and-physiology-2e",
+        "tier": "trusted",
+        "verbatim": "The adult human skeleton has 206 bones.",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "QUANTITY",
+    "expires": null
+  },
+  {
+    "fact_id": "anatomy-the-adult-human-skeleton-has-208-bones",
+    "canonical": "The adult human skeleton has 208 bones.",
+    "domain": [
+      "anatomy"
+    ],
+    "stable": true,
+    "status": "source-attested",
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": "ILLUSTRATIVE: conflicting web source to show numeric-conflict detection",
+    "consensus": "unverified",
+    "votes": 1,
+    "same_publisher": true,
+    "needs_review": true,
+    "evidence": [
+      {
+        "source": "some-web-page",
+        "publisher": "web",
+        "book": null,
+        "repo": null,
+        "module": null,
+        "url": "https://example.com",
+        "tier": "low",
+        "verbatim": "(illustrative conflicting source)",
+        "retrieved": "2026-06-11",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [],
+    "category": "QUANTITY",
+    "expires": null,
+    "numeric_conflict_with": "anatomy-the-adult-human-skeleton-has-206-bones"
+  }
+]

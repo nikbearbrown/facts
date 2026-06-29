@@ -1,0 +1,2302 @@
+{
+  "nodes": [
+    {
+      "term": "Niobium",
+      "page": "Niobium",
+      "url": "https://en.wikipedia.org/wiki/Niobium",
+      "in_degree": 0
+    },
+    {
+      "term": "Neutronium",
+      "page": "Neutronium",
+      "url": "https://en.wikipedia.org/wiki/Neutronium",
+      "in_degree": 0
+    },
+    {
+      "term": "History of atomic theory",
+      "page": "History of atomic theory",
+      "url": "https://en.wikipedia.org/wiki/History_of_atomic_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Preservative",
+      "page": "Preservative",
+      "url": "https://en.wikipedia.org/wiki/Preservative",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical engineering",
+      "page": "Chemical engineering",
+      "url": "https://en.wikipedia.org/wiki/Chemical_engineering",
+      "in_degree": 1
+    },
+    {
+      "term": "William Lipscomb",
+      "page": "William Lipscomb",
+      "url": "https://en.wikipedia.org/wiki/William_Lipscomb",
+      "in_degree": 0
+    },
+    {
+      "term": "Zinc",
+      "page": "Zinc",
+      "url": "https://en.wikipedia.org/wiki/Zinc",
+      "in_degree": 2
+    },
+    {
+      "term": "Polywater",
+      "page": "Polywater",
+      "url": "https://en.wikipedia.org/wiki/Polywater",
+      "in_degree": 0
+    },
+    {
+      "term": "Boron",
+      "page": "Boron",
+      "url": "https://en.wikipedia.org/wiki/Boron",
+      "in_degree": 0
+    },
+    {
+      "term": "Toluene",
+      "page": "Toluene",
+      "url": "https://en.wikipedia.org/wiki/Toluene",
+      "in_degree": 0
+    },
+    {
+      "term": "Nuclear fusion",
+      "page": "Nuclear fusion",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_fusion",
+      "in_degree": 1
+    },
+    {
+      "term": "Raoult's law",
+      "page": "Raoult's law",
+      "url": "https://en.wikipedia.org/wiki/Raoult's_law",
+      "in_degree": 0
+    },
+    {
+      "term": "Actinium",
+      "page": "Actinium",
+      "url": "https://en.wikipedia.org/wiki/Actinium",
+      "in_degree": 0
+    },
+    {
+      "term": "Silver",
+      "page": "Silver",
+      "url": "https://en.wikipedia.org/wiki/Silver",
+      "in_degree": 0
+    },
+    {
+      "term": "Tacticity",
+      "page": "Tacticity",
+      "url": "https://en.wikipedia.org/wiki/Tacticity",
+      "in_degree": 0
+    },
+    {
+      "term": "Richard Smalley",
+      "page": "Richard Smalley",
+      "url": "https://en.wikipedia.org/wiki/Richard_Smalley",
+      "in_degree": 0
+    },
+    {
+      "term": "Allotropy",
+      "page": "Allotropy",
+      "url": "https://en.wikipedia.org/wiki/Allotropy",
+      "in_degree": 0
+    },
+    {
+      "term": "Thallium",
+      "page": "Thallium",
+      "url": "https://en.wikipedia.org/wiki/Thallium",
+      "in_degree": 0
+    },
+    {
+      "term": "Standard temperature and pressure",
+      "page": "Standard temperature and pressure",
+      "url": "https://en.wikipedia.org/wiki/Standard_temperature_and_pressure",
+      "in_degree": 2
+    },
+    {
+      "term": "Conjugate",
+      "page": "Conjugate (acid-base theory)",
+      "url": "https://en.wikipedia.org/wiki/Conjugate_(acid-base_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Thulium",
+      "page": "Thulium",
+      "url": "https://en.wikipedia.org/wiki/Thulium",
+      "in_degree": 0
+    },
+    {
+      "term": "Ruthenium",
+      "page": "Ruthenium",
+      "url": "https://en.wikipedia.org/wiki/Ruthenium",
+      "in_degree": 0
+    },
+    {
+      "term": "William Crookes",
+      "page": "William Crookes",
+      "url": "https://en.wikipedia.org/wiki/William_Crookes",
+      "in_degree": 1
+    },
+    {
+      "term": "Xenon",
+      "page": "Xenon",
+      "url": "https://en.wikipedia.org/wiki/Xenon",
+      "in_degree": 0
+    },
+    {
+      "term": "Gallium",
+      "page": "Gallium",
+      "url": "https://en.wikipedia.org/wiki/Gallium",
+      "in_degree": 0
+    },
+    {
+      "term": "Polysaccharide",
+      "page": "Polysaccharide",
+      "url": "https://en.wikipedia.org/wiki/Polysaccharide",
+      "in_degree": 0
+    },
+    {
+      "term": "Bromine",
+      "page": "Bromine",
+      "url": "https://en.wikipedia.org/wiki/Bromine",
+      "in_degree": 0
+    },
+    {
+      "term": "Physical chemistry",
+      "page": "Physical chemistry",
+      "url": "https://en.wikipedia.org/wiki/Physical_chemistry",
+      "in_degree": 4
+    },
+    {
+      "term": "Rotaxane",
+      "page": "Rotaxane",
+      "url": "https://en.wikipedia.org/wiki/Rotaxane",
+      "in_degree": 0
+    },
+    {
+      "term": "Nobelium",
+      "page": "Nobelium",
+      "url": "https://en.wikipedia.org/wiki/Nobelium",
+      "in_degree": 0
+    },
+    {
+      "term": "Hydrolysis",
+      "page": "Hydrolysis",
+      "url": "https://en.wikipedia.org/wiki/Hydrolysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Gel",
+      "page": "Gel",
+      "url": "https://en.wikipedia.org/wiki/Gel",
+      "in_degree": 0
+    },
+    {
+      "term": "Alkali metal",
+      "page": "Alkali metal",
+      "url": "https://en.wikipedia.org/wiki/Alkali_metal",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical thermodynamics",
+      "page": "Chemical thermodynamics",
+      "url": "https://en.wikipedia.org/wiki/Chemical_thermodynamics",
+      "in_degree": 3
+    },
+    {
+      "term": "Sulfur",
+      "page": "Sulfur",
+      "url": "https://en.wikipedia.org/wiki/Sulfur",
+      "in_degree": 0
+    },
+    {
+      "term": "Technetium",
+      "page": "Technetium",
+      "url": "https://en.wikipedia.org/wiki/Technetium",
+      "in_degree": 0
+    },
+    {
+      "term": "Miller–Urey experiment",
+      "page": "Miller–Urey experiment",
+      "url": "https://en.wikipedia.org/wiki/Miller–Urey_experiment",
+      "in_degree": 0
+    },
+    {
+      "term": "Mole Day",
+      "page": "Mole Day",
+      "url": "https://en.wikipedia.org/wiki/Mole_Day",
+      "in_degree": 0
+    },
+    {
+      "term": "Tricyclic antidepressant",
+      "page": "Tricyclic antidepressant",
+      "url": "https://en.wikipedia.org/wiki/Tricyclic_antidepressant",
+      "in_degree": 0
+    },
+    {
+      "term": "Frederick Soddy",
+      "page": "Frederick Soddy",
+      "url": "https://en.wikipedia.org/wiki/Frederick_Soddy",
+      "in_degree": 0
+    },
+    {
+      "term": "Coordination complex",
+      "page": "Coordination complex",
+      "url": "https://en.wikipedia.org/wiki/Coordination_complex",
+      "in_degree": 0
+    },
+    {
+      "term": "Fluorescence",
+      "page": "Fluorescence",
+      "url": "https://en.wikipedia.org/wiki/Fluorescence",
+      "in_degree": 1
+    },
+    {
+      "term": "Reaction kinetics in uniform supersonic flow",
+      "page": "Reaction kinetics in uniform supersonic flow",
+      "url": "https://en.wikipedia.org/wiki/Reaction_kinetics_in_uniform_supersonic_flow",
+      "in_degree": 0
+    },
+    {
+      "term": "Strontium",
+      "page": "Strontium",
+      "url": "https://en.wikipedia.org/wiki/Strontium",
+      "in_degree": 0
+    },
+    {
+      "term": "Ligand",
+      "page": "Ligand",
+      "url": "https://en.wikipedia.org/wiki/Ligand",
+      "in_degree": 0
+    },
+    {
+      "term": "Humphry Davy",
+      "page": "Humphry Davy",
+      "url": "https://en.wikipedia.org/wiki/Humphry_Davy",
+      "in_degree": 1
+    },
+    {
+      "term": "Polonium",
+      "page": "Polonium",
+      "url": "https://en.wikipedia.org/wiki/Polonium",
+      "in_degree": 0
+    },
+    {
+      "term": "Crystallography",
+      "page": "Crystallography",
+      "url": "https://en.wikipedia.org/wiki/Crystallography",
+      "in_degree": 0
+    },
+    {
+      "term": "Marie Curie",
+      "page": "Marie Curie",
+      "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "in_degree": 1
+    },
+    {
+      "term": "Theoretical chemistry",
+      "page": "Theoretical chemistry",
+      "url": "https://en.wikipedia.org/wiki/Theoretical_chemistry",
+      "in_degree": 1
+    },
+    {
+      "term": "Electronegativity",
+      "page": "Electronegativity",
+      "url": "https://en.wikipedia.org/wiki/Electronegativity",
+      "in_degree": 1
+    },
+    {
+      "term": "Triple point",
+      "page": "Triple point",
+      "url": "https://en.wikipedia.org/wiki/Triple_point",
+      "in_degree": 0
+    },
+    {
+      "term": "Ostwald process",
+      "page": "Ostwald process",
+      "url": "https://en.wikipedia.org/wiki/Ostwald_process",
+      "in_degree": 1
+    },
+    {
+      "term": "Ziegler–Natta catalyst",
+      "page": "Ziegler–Natta catalyst",
+      "url": "https://en.wikipedia.org/wiki/Ziegler–Natta_catalyst",
+      "in_degree": 0
+    },
+    {
+      "term": "Etching",
+      "page": "Etching",
+      "url": "https://en.wikipedia.org/wiki/Etching",
+      "in_degree": 0
+    },
+    {
+      "term": "Manganese",
+      "page": "Manganese",
+      "url": "https://en.wikipedia.org/wiki/Manganese",
+      "in_degree": 0
+    },
+    {
+      "term": "Haber process",
+      "page": "Haber process",
+      "url": "https://en.wikipedia.org/wiki/Haber_process",
+      "in_degree": 0
+    },
+    {
+      "term": "Electrolysis",
+      "page": "Electrolysis",
+      "url": "https://en.wikipedia.org/wiki/Electrolysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Mass deacidification",
+      "page": "Mass deacidification",
+      "url": "https://en.wikipedia.org/wiki/Mass_deacidification",
+      "in_degree": 0
+    },
+    {
+      "term": "Covalent radius",
+      "page": "Covalent radius",
+      "url": "https://en.wikipedia.org/wiki/Covalent_radius",
+      "in_degree": 0
+    },
+    {
+      "term": "International Union of Pure and Applied Chemistry",
+      "page": "International Union of Pure and Applied Chemistry",
+      "url": "https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry",
+      "in_degree": 3
+    },
+    {
+      "term": "Phosphorus",
+      "page": "Phosphorus",
+      "url": "https://en.wikipedia.org/wiki/Phosphorus",
+      "in_degree": 0
+    },
+    {
+      "term": "Berkelium",
+      "page": "Berkelium",
+      "url": "https://en.wikipedia.org/wiki/Berkelium",
+      "in_degree": 0
+    },
+    {
+      "term": "John Pople",
+      "page": "John Pople",
+      "url": "https://en.wikipedia.org/wiki/John_Pople",
+      "in_degree": 0
+    },
+    {
+      "term": "Metallic bonding",
+      "page": "Metallic bonding",
+      "url": "https://en.wikipedia.org/wiki/Metallic_bonding",
+      "in_degree": 2
+    },
+    {
+      "term": "Disaccharide",
+      "page": "Disaccharide",
+      "url": "https://en.wikipedia.org/wiki/Disaccharide",
+      "in_degree": 0
+    },
+    {
+      "term": "Neutron activation analysis",
+      "page": "Neutron activation analysis",
+      "url": "https://en.wikipedia.org/wiki/Neutron_activation_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Fick's laws of diffusion",
+      "page": "Fick's laws of diffusion",
+      "url": "https://en.wikipedia.org/wiki/Fick's_laws_of_diffusion",
+      "in_degree": 0
+    },
+    {
+      "term": "Analytical chemistry",
+      "page": "Analytical chemistry",
+      "url": "https://en.wikipedia.org/wiki/Analytical_chemistry",
+      "in_degree": 0
+    },
+    {
+      "term": "Titration",
+      "page": "Titration",
+      "url": "https://en.wikipedia.org/wiki/Titration",
+      "in_degree": 0
+    },
+    {
+      "term": "RNA world",
+      "page": "RNA world",
+      "url": "https://en.wikipedia.org/wiki/RNA_world",
+      "in_degree": 0
+    },
+    {
+      "term": "Ytterby",
+      "page": "Ytterby",
+      "url": "https://en.wikipedia.org/wiki/Ytterby",
+      "in_degree": 2
+    },
+    {
+      "term": "Lutetium",
+      "page": "Lutetium",
+      "url": "https://en.wikipedia.org/wiki/Lutetium",
+      "in_degree": 0
+    },
+    {
+      "term": "Gilbert N. Lewis",
+      "page": "Gilbert N. Lewis",
+      "url": "https://en.wikipedia.org/wiki/Gilbert_N._Lewis",
+      "in_degree": 0
+    },
+    {
+      "term": "Main-group element",
+      "page": "Main-group element",
+      "url": "https://en.wikipedia.org/wiki/Main-group_element",
+      "in_degree": 0
+    },
+    {
+      "term": "Partial pressure",
+      "page": "Partial pressure",
+      "url": "https://en.wikipedia.org/wiki/Partial_pressure",
+      "in_degree": 0
+    },
+    {
+      "term": "Colloid",
+      "page": "Colloid",
+      "url": "https://en.wikipedia.org/wiki/Colloid",
+      "in_degree": 0
+    },
+    {
+      "term": "Hafnium",
+      "page": "Hafnium",
+      "url": "https://en.wikipedia.org/wiki/Hafnium",
+      "in_degree": 0
+    },
+    {
+      "term": "Vulcanization",
+      "page": "Vulcanization",
+      "url": "https://en.wikipedia.org/wiki/Vulcanization",
+      "in_degree": 0
+    },
+    {
+      "term": "Basel Convention",
+      "page": "Basel Convention",
+      "url": "https://en.wikipedia.org/wiki/Basel_Convention",
+      "in_degree": 0
+    },
+    {
+      "term": "Harry Kroto",
+      "page": "Harry Kroto",
+      "url": "https://en.wikipedia.org/wiki/Harry_Kroto",
+      "in_degree": 0
+    },
+    {
+      "term": "Barium",
+      "page": "Barium",
+      "url": "https://en.wikipedia.org/wiki/Barium",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical formula",
+      "page": "Chemical formula",
+      "url": "https://en.wikipedia.org/wiki/Chemical_formula",
+      "in_degree": 0
+    },
+    {
+      "term": "Polymer",
+      "page": "Polymer",
+      "url": "https://en.wikipedia.org/wiki/Polymer",
+      "in_degree": 1
+    },
+    {
+      "term": "Empirical formula",
+      "page": "Empirical formula",
+      "url": "https://en.wikipedia.org/wiki/Empirical_formula",
+      "in_degree": 0
+    },
+    {
+      "term": "Filtration",
+      "page": "Filtration",
+      "url": "https://en.wikipedia.org/wiki/Filtration",
+      "in_degree": 0
+    },
+    {
+      "term": "Pierre Curie",
+      "page": "Pierre Curie",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Curie",
+      "in_degree": 4
+    },
+    {
+      "term": "Richard R. Ernst",
+      "page": "Richard R. Ernst",
+      "url": "https://en.wikipedia.org/wiki/Richard_R._Ernst",
+      "in_degree": 0
+    },
+    {
+      "term": "Jacobus Henricus van 't Hoff",
+      "page": "Jacobus Henricus van 't Hoff",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_'t_Hoff",
+      "in_degree": 1
+    },
+    {
+      "term": "Scandium",
+      "page": "Scandium",
+      "url": "https://en.wikipedia.org/wiki/Scandium",
+      "in_degree": 0
+    },
+    {
+      "term": "Condensation polymer",
+      "page": "Condensation polymer",
+      "url": "https://en.wikipedia.org/wiki/Condensation_polymer",
+      "in_degree": 0
+    },
+    {
+      "term": "Katal",
+      "page": "Katal",
+      "url": "https://en.wikipedia.org/wiki/Katal",
+      "in_degree": 0
+    },
+    {
+      "term": "Germanium",
+      "page": "Germanium",
+      "url": "https://en.wikipedia.org/wiki/Germanium",
+      "in_degree": 0
+    },
+    {
+      "term": "Salt",
+      "page": "Salt (chemistry)",
+      "url": "https://en.wikipedia.org/wiki/Salt_(chemistry)",
+      "in_degree": 3
+    },
+    {
+      "term": "Chromatography",
+      "page": "Chromatography",
+      "url": "https://en.wikipedia.org/wiki/Chromatography",
+      "in_degree": 0
+    },
+    {
+      "term": "Rutherfordium",
+      "page": "Rutherfordium",
+      "url": "https://en.wikipedia.org/wiki/Rutherfordium",
+      "in_degree": 0
+    },
+    {
+      "term": "Half-life",
+      "page": "Half-life",
+      "url": "https://en.wikipedia.org/wiki/Half-life",
+      "in_degree": 0
+    },
+    {
+      "term": "Vapor",
+      "page": "Vapor",
+      "url": "https://en.wikipedia.org/wiki/Vapor",
+      "in_degree": 0
+    },
+    {
+      "term": "Uranium",
+      "page": "Uranium",
+      "url": "https://en.wikipedia.org/wiki/Uranium",
+      "in_degree": 0
+    },
+    {
+      "term": "Alcohol",
+      "page": "Alcohol (chemistry)",
+      "url": "https://en.wikipedia.org/wiki/Alcohol_(chemistry)",
+      "in_degree": 0
+    },
+    {
+      "term": "Cahn–Ingold–Prelog priority rules",
+      "page": "Cahn–Ingold–Prelog priority rules",
+      "url": "https://en.wikipedia.org/wiki/Cahn–Ingold–Prelog_priority_rules",
+      "in_degree": 0
+    },
+    {
+      "term": "Helium",
+      "page": "Helium",
+      "url": "https://en.wikipedia.org/wiki/Helium",
+      "in_degree": 0
+    },
+    {
+      "term": "Peptide bond",
+      "page": "Peptide bond",
+      "url": "https://en.wikipedia.org/wiki/Peptide_bond",
+      "in_degree": 0
+    },
+    {
+      "term": "Antimony",
+      "page": "Antimony",
+      "url": "https://en.wikipedia.org/wiki/Antimony",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical reaction",
+      "page": "Chemical reaction",
+      "url": "https://en.wikipedia.org/wiki/Chemical_reaction",
+      "in_degree": 3
+    },
+    {
+      "term": "The Chemical Brothers",
+      "page": "The Chemical Brothers",
+      "url": "https://en.wikipedia.org/wiki/The_Chemical_Brothers",
+      "in_degree": 0
+    },
+    {
+      "term": "Panspermia",
+      "page": "Panspermia",
+      "url": "https://en.wikipedia.org/wiki/Panspermia",
+      "in_degree": 0
+    },
+    {
+      "term": "Einsteinium",
+      "page": "Einsteinium",
+      "url": "https://en.wikipedia.org/wiki/Einsteinium",
+      "in_degree": 0
+    },
+    {
+      "term": "Ernest Rutherford",
+      "page": "Ernest Rutherford",
+      "url": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+      "in_degree": 1
+    },
+    {
+      "term": "Dysprosium",
+      "page": "Dysprosium",
+      "url": "https://en.wikipedia.org/wiki/Dysprosium",
+      "in_degree": 0
+    },
+    {
+      "term": "Dye",
+      "page": "Dye",
+      "url": "https://en.wikipedia.org/wiki/Dye",
+      "in_degree": 0
+    },
+    {
+      "term": "Neodymium",
+      "page": "Neodymium",
+      "url": "https://en.wikipedia.org/wiki/Neodymium",
+      "in_degree": 0
+    },
+    {
+      "term": "Chromium",
+      "page": "Chromium",
+      "url": "https://en.wikipedia.org/wiki/Chromium",
+      "in_degree": 0
+    },
+    {
+      "term": "Nitrogen",
+      "page": "Nitrogen",
+      "url": "https://en.wikipedia.org/wiki/Nitrogen",
+      "in_degree": 0
+    },
+    {
+      "term": "Galvanization",
+      "page": "Galvanization",
+      "url": "https://en.wikipedia.org/wiki/Galvanization",
+      "in_degree": 0
+    },
+    {
+      "term": "Nucleophile",
+      "page": "Nucleophile",
+      "url": "https://en.wikipedia.org/wiki/Nucleophile",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantum chemistry",
+      "page": "Quantum chemistry",
+      "url": "https://en.wikipedia.org/wiki/Quantum_chemistry",
+      "in_degree": 2
+    },
+    {
+      "term": "Hydrogen cyanide",
+      "page": "Hydrogen cyanide",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_cyanide",
+      "in_degree": 0
+    },
+    {
+      "term": "Acid",
+      "page": "Acid",
+      "url": "https://en.wikipedia.org/wiki/Acid",
+      "in_degree": 1
+    },
+    {
+      "term": "Pauli exclusion principle",
+      "page": "Pauli exclusion principle",
+      "url": "https://en.wikipedia.org/wiki/Pauli_exclusion_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Hassium",
+      "page": "Hassium",
+      "url": "https://en.wikipedia.org/wiki/Hassium",
+      "in_degree": 0
+    },
+    {
+      "term": "Carbon",
+      "page": "Carbon",
+      "url": "https://en.wikipedia.org/wiki/Carbon",
+      "in_degree": 0
+    },
+    {
+      "term": "Simplified Molecular Input Line Entry System",
+      "page": "Simplified Molecular Input Line Entry System",
+      "url": "https://en.wikipedia.org/wiki/Simplified_Molecular_Input_Line_Entry_System",
+      "in_degree": 0
+    },
+    {
+      "term": "Meitnerium",
+      "page": "Meitnerium",
+      "url": "https://en.wikipedia.org/wiki/Meitnerium",
+      "in_degree": 0
+    },
+    {
+      "term": "Organic chemistry",
+      "page": "Organic chemistry",
+      "url": "https://en.wikipedia.org/wiki/Organic_chemistry",
+      "in_degree": 2
+    },
+    {
+      "term": "Calcium",
+      "page": "Calcium",
+      "url": "https://en.wikipedia.org/wiki/Calcium",
+      "in_degree": 0
+    },
+    {
+      "term": "Synthetic element",
+      "page": "Synthetic element",
+      "url": "https://en.wikipedia.org/wiki/Synthetic_element",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical bond",
+      "page": "Chemical bond",
+      "url": "https://en.wikipedia.org/wiki/Chemical_bond",
+      "in_degree": 2
+    },
+    {
+      "term": "Californium",
+      "page": "Californium",
+      "url": "https://en.wikipedia.org/wiki/Californium",
+      "in_degree": 0
+    },
+    {
+      "term": "Palladium",
+      "page": "Palladium",
+      "url": "https://en.wikipedia.org/wiki/Palladium",
+      "in_degree": 0
+    },
+    {
+      "term": "Solvent",
+      "page": "Solvent",
+      "url": "https://en.wikipedia.org/wiki/Solvent",
+      "in_degree": 0
+    },
+    {
+      "term": "Toxin",
+      "page": "Toxin",
+      "url": "https://en.wikipedia.org/wiki/Toxin",
+      "in_degree": 0
+    },
+    {
+      "term": "Timeline of chemical element discoveries",
+      "page": "Timeline of chemical element discoveries",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_chemical_element_discoveries",
+      "in_degree": 2
+    },
+    {
+      "term": "Ytterbium",
+      "page": "Ytterbium",
+      "url": "https://en.wikipedia.org/wiki/Ytterbium",
+      "in_degree": 0
+    },
+    {
+      "term": "Organic compound",
+      "page": "Organic compound",
+      "url": "https://en.wikipedia.org/wiki/Organic_compound",
+      "in_degree": 0
+    },
+    {
+      "term": "Chain reaction",
+      "page": "Chain reaction",
+      "url": "https://en.wikipedia.org/wiki/Chain_reaction",
+      "in_degree": 0
+    },
+    {
+      "term": "Molecular orbital",
+      "page": "Molecular orbital",
+      "url": "https://en.wikipedia.org/wiki/Molecular_orbital",
+      "in_degree": 1
+    },
+    {
+      "term": "Le Chatelier's principle",
+      "page": "Le Chatelier's principle",
+      "url": "https://en.wikipedia.org/wiki/Le_Chatelier's_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Standard electrode potential",
+      "page": "Standard electrode potential (data page)",
+      "url": "https://en.wikipedia.org/wiki/Standard_electrode_potential_(data_page)",
+      "in_degree": 0
+    },
+    {
+      "term": "Benzodiazepine",
+      "page": "Benzodiazepine",
+      "url": "https://en.wikipedia.org/wiki/Benzodiazepine",
+      "in_degree": 0
+    },
+    {
+      "term": "Combustion",
+      "page": "Combustion",
+      "url": "https://en.wikipedia.org/wiki/Combustion",
+      "in_degree": 1
+    },
+    {
+      "term": "Glucose",
+      "page": "Glucose",
+      "url": "https://en.wikipedia.org/wiki/Glucose",
+      "in_degree": 0
+    },
+    {
+      "term": "International Numbering System for Food Additives",
+      "page": "International Numbering System for Food Additives",
+      "url": "https://en.wikipedia.org/wiki/International_Numbering_System_for_Food_Additives",
+      "in_degree": 0
+    },
+    {
+      "term": "Robert Curl",
+      "page": "Robert Curl",
+      "url": "https://en.wikipedia.org/wiki/Robert_Curl",
+      "in_degree": 0
+    },
+    {
+      "term": "Periodic table",
+      "page": "Periodic table",
+      "url": "https://en.wikipedia.org/wiki/Periodic_table",
+      "in_degree": 5
+    },
+    {
+      "term": "Exothermic process",
+      "page": "Exothermic process",
+      "url": "https://en.wikipedia.org/wiki/Exothermic_process",
+      "in_degree": 1
+    },
+    {
+      "term": "Solution",
+      "page": "Solution (chemistry)",
+      "url": "https://en.wikipedia.org/wiki/Solution_(chemistry)",
+      "in_degree": 3
+    },
+    {
+      "term": "Ethanol",
+      "page": "Ethanol",
+      "url": "https://en.wikipedia.org/wiki/Ethanol",
+      "in_degree": 0
+    },
+    {
+      "term": "Hydrogen",
+      "page": "Hydrogen",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen",
+      "in_degree": 0
+    },
+    {
+      "term": "Nuclear fission",
+      "page": "Nuclear fission",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_fission",
+      "in_degree": 0
+    },
+    {
+      "term": "Platinum",
+      "page": "Platinum",
+      "url": "https://en.wikipedia.org/wiki/Platinum",
+      "in_degree": 0
+    },
+    {
+      "term": "Ketamine",
+      "page": "Ketamine",
+      "url": "https://en.wikipedia.org/wiki/Ketamine",
+      "in_degree": 0
+    },
+    {
+      "term": "Iodine",
+      "page": "Iodine",
+      "url": "https://en.wikipedia.org/wiki/Iodine",
+      "in_degree": 0
+    },
+    {
+      "term": "Phlogiston theory",
+      "page": "Phlogiston theory",
+      "url": "https://en.wikipedia.org/wiki/Phlogiston_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Terbium",
+      "page": "Terbium",
+      "url": "https://en.wikipedia.org/wiki/Terbium",
+      "in_degree": 0
+    },
+    {
+      "term": "Radionuclide",
+      "page": "Radionuclide",
+      "url": "https://en.wikipedia.org/wiki/Radionuclide",
+      "in_degree": 0
+    },
+    {
+      "term": "Dalton",
+      "page": "Dalton (unit)",
+      "url": "https://en.wikipedia.org/wiki/Dalton_(unit)",
+      "in_degree": 0
+    },
+    {
+      "term": "Thermodynamics",
+      "page": "Thermodynamics",
+      "url": "https://en.wikipedia.org/wiki/Thermodynamics",
+      "in_degree": 1
+    },
+    {
+      "term": "Iridium",
+      "page": "Iridium",
+      "url": "https://en.wikipedia.org/wiki/Iridium",
+      "in_degree": 0
+    },
+    {
+      "term": "Combinatorial chemistry",
+      "page": "Combinatorial chemistry",
+      "url": "https://en.wikipedia.org/wiki/Combinatorial_chemistry",
+      "in_degree": 0
+    },
+    {
+      "term": "Gadolinium",
+      "page": "Gadolinium",
+      "url": "https://en.wikipedia.org/wiki/Gadolinium",
+      "in_degree": 0
+    },
+    {
+      "term": "Selenium",
+      "page": "Selenium",
+      "url": "https://en.wikipedia.org/wiki/Selenium",
+      "in_degree": 0
+    },
+    {
+      "term": "Bohrium",
+      "page": "Bohrium",
+      "url": "https://en.wikipedia.org/wiki/Bohrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Neon",
+      "page": "Neon",
+      "url": "https://en.wikipedia.org/wiki/Neon",
+      "in_degree": 0
+    },
+    {
+      "term": "Salinity",
+      "page": "Salinity",
+      "url": "https://en.wikipedia.org/wiki/Salinity",
+      "in_degree": 0
+    },
+    {
+      "term": "Radon",
+      "page": "Radon",
+      "url": "https://en.wikipedia.org/wiki/Radon",
+      "in_degree": 0
+    },
+    {
+      "term": "E number",
+      "page": "E number",
+      "url": "https://en.wikipedia.org/wiki/E_number",
+      "in_degree": 1
+    },
+    {
+      "term": "Atomic absorption spectroscopy",
+      "page": "Atomic absorption spectroscopy",
+      "url": "https://en.wikipedia.org/wiki/Atomic_absorption_spectroscopy",
+      "in_degree": 0
+    },
+    {
+      "term": "Neptunium",
+      "page": "Neptunium",
+      "url": "https://en.wikipedia.org/wiki/Neptunium",
+      "in_degree": 0
+    },
+    {
+      "term": "Seaborgium",
+      "page": "Seaborgium",
+      "url": "https://en.wikipedia.org/wiki/Seaborgium",
+      "in_degree": 0
+    },
+    {
+      "term": "Intermolecular force",
+      "page": "Intermolecular force",
+      "url": "https://en.wikipedia.org/wiki/Intermolecular_force",
+      "in_degree": 1
+    },
+    {
+      "term": "Law of multiple proportions",
+      "page": "Law of multiple proportions",
+      "url": "https://en.wikipedia.org/wiki/Law_of_multiple_proportions",
+      "in_degree": 0
+    },
+    {
+      "term": "Johan August Arfwedson",
+      "page": "Johan August Arfwedson",
+      "url": "https://en.wikipedia.org/wiki/Johan_August_Arfwedson",
+      "in_degree": 0
+    },
+    {
+      "term": "Lithium",
+      "page": "Lithium",
+      "url": "https://en.wikipedia.org/wiki/Lithium",
+      "in_degree": 0
+    },
+    {
+      "term": "Curium",
+      "page": "Curium",
+      "url": "https://en.wikipedia.org/wiki/Curium",
+      "in_degree": 0
+    },
+    {
+      "term": "Electron counting",
+      "page": "Electron counting",
+      "url": "https://en.wikipedia.org/wiki/Electron_counting",
+      "in_degree": 0
+    },
+    {
+      "term": "Acid–base reaction",
+      "page": "Acid–base reaction",
+      "url": "https://en.wikipedia.org/wiki/Acid–base_reaction",
+      "in_degree": 1
+    },
+    {
+      "term": "Benjamin Lee Whorf",
+      "page": "Benjamin Lee Whorf",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Lee_Whorf",
+      "in_degree": 0
+    },
+    {
+      "term": "Emulsion",
+      "page": "Emulsion",
+      "url": "https://en.wikipedia.org/wiki/Emulsion",
+      "in_degree": 0
+    },
+    {
+      "term": "Rhodium",
+      "page": "Rhodium",
+      "url": "https://en.wikipedia.org/wiki/Rhodium",
+      "in_degree": 0
+    },
+    {
+      "term": "Europium",
+      "page": "Europium",
+      "url": "https://en.wikipedia.org/wiki/Europium",
+      "in_degree": 0
+    },
+    {
+      "term": "Law of dilution",
+      "page": "Law of dilution",
+      "url": "https://en.wikipedia.org/wiki/Law_of_dilution",
+      "in_degree": 0
+    },
+    {
+      "term": "Stereochemistry",
+      "page": "Stereochemistry",
+      "url": "https://en.wikipedia.org/wiki/Stereochemistry",
+      "in_degree": 1
+    },
+    {
+      "term": "Indium",
+      "page": "Indium",
+      "url": "https://en.wikipedia.org/wiki/Indium",
+      "in_degree": 0
+    },
+    {
+      "term": "Argon",
+      "page": "Argon",
+      "url": "https://en.wikipedia.org/wiki/Argon",
+      "in_degree": 0
+    },
+    {
+      "term": "Astatine",
+      "page": "Astatine",
+      "url": "https://en.wikipedia.org/wiki/Astatine",
+      "in_degree": 0
+    },
+    {
+      "term": "Francium",
+      "page": "Francium",
+      "url": "https://en.wikipedia.org/wiki/Francium",
+      "in_degree": 0
+    },
+    {
+      "term": "Promethium",
+      "page": "Promethium",
+      "url": "https://en.wikipedia.org/wiki/Promethium",
+      "in_degree": 0
+    },
+    {
+      "term": "Tantalum",
+      "page": "Tantalum",
+      "url": "https://en.wikipedia.org/wiki/Tantalum",
+      "in_degree": 0
+    },
+    {
+      "term": "Oxidation state",
+      "page": "Oxidation state",
+      "url": "https://en.wikipedia.org/wiki/Oxidation_state",
+      "in_degree": 1
+    },
+    {
+      "term": "Silicon",
+      "page": "Silicon",
+      "url": "https://en.wikipedia.org/wiki/Silicon",
+      "in_degree": 0
+    },
+    {
+      "term": "Arsenic",
+      "page": "Arsenic",
+      "url": "https://en.wikipedia.org/wiki/Arsenic",
+      "in_degree": 0
+    },
+    {
+      "term": "Vanadium",
+      "page": "Vanadium",
+      "url": "https://en.wikipedia.org/wiki/Vanadium",
+      "in_degree": 0
+    },
+    {
+      "term": "Svante Arrhenius",
+      "page": "Svante Arrhenius",
+      "url": "https://en.wikipedia.org/wiki/Svante_Arrhenius",
+      "in_degree": 1
+    },
+    {
+      "term": "Lise Meitner",
+      "page": "Lise Meitner",
+      "url": "https://en.wikipedia.org/wiki/Lise_Meitner",
+      "in_degree": 1
+    },
+    {
+      "term": "Erbium",
+      "page": "Erbium",
+      "url": "https://en.wikipedia.org/wiki/Erbium",
+      "in_degree": 0
+    },
+    {
+      "term": "Titanium",
+      "page": "Titanium",
+      "url": "https://en.wikipedia.org/wiki/Titanium",
+      "in_degree": 0
+    },
+    {
+      "term": "Antoine Lavoisier",
+      "page": "Antoine Lavoisier",
+      "url": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+      "in_degree": 2
+    },
+    {
+      "term": "Solvation",
+      "page": "Solvation",
+      "url": "https://en.wikipedia.org/wiki/Solvation",
+      "in_degree": 2
+    },
+    {
+      "term": "Molybdenum",
+      "page": "Molybdenum",
+      "url": "https://en.wikipedia.org/wiki/Molybdenum",
+      "in_degree": 0
+    },
+    {
+      "term": "Wilhelm Ostwald",
+      "page": "Wilhelm Ostwald",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Ostwald",
+      "in_degree": 1
+    },
+    {
+      "term": "Brownian motion",
+      "page": "Brownian motion",
+      "url": "https://en.wikipedia.org/wiki/Brownian_motion",
+      "in_degree": 0
+    },
+    {
+      "term": "Chlorine",
+      "page": "Chlorine",
+      "url": "https://en.wikipedia.org/wiki/Chlorine",
+      "in_degree": 0
+    },
+    {
+      "term": "Computational chemistry",
+      "page": "Computational chemistry",
+      "url": "https://en.wikipedia.org/wiki/Computational_chemistry",
+      "in_degree": 2
+    },
+    {
+      "term": "Ozone",
+      "page": "Ozone",
+      "url": "https://en.wikipedia.org/wiki/Ozone",
+      "in_degree": 0
+    },
+    {
+      "term": "Fermium",
+      "page": "Fermium",
+      "url": "https://en.wikipedia.org/wiki/Fermium",
+      "in_degree": 0
+    },
+    {
+      "term": "Oxygen",
+      "page": "Oxygen",
+      "url": "https://en.wikipedia.org/wiki/Oxygen",
+      "in_degree": 0
+    },
+    {
+      "term": "Rhenium",
+      "page": "Rhenium",
+      "url": "https://en.wikipedia.org/wiki/Rhenium",
+      "in_degree": 0
+    },
+    {
+      "term": "Aluminium",
+      "page": "Aluminium",
+      "url": "https://en.wikipedia.org/wiki/Aluminium",
+      "in_degree": 0
+    },
+    {
+      "term": "Tin",
+      "page": "Tin",
+      "url": "https://en.wikipedia.org/wiki/Tin",
+      "in_degree": 0
+    },
+    {
+      "term": "Magnesium",
+      "page": "Magnesium",
+      "url": "https://en.wikipedia.org/wiki/Magnesium",
+      "in_degree": 0
+    },
+    {
+      "term": "Linus Pauling",
+      "page": "Linus Pauling",
+      "url": "https://en.wikipedia.org/wiki/Linus_Pauling",
+      "in_degree": 0
+    },
+    {
+      "term": "Bitumen",
+      "page": "Bitumen",
+      "url": "https://en.wikipedia.org/wiki/Bitumen",
+      "in_degree": 0
+    },
+    {
+      "term": "Lawrencium",
+      "page": "Lawrencium",
+      "url": "https://en.wikipedia.org/wiki/Lawrencium",
+      "in_degree": 0
+    },
+    {
+      "term": "Sulfuric acid",
+      "page": "Sulfuric acid",
+      "url": "https://en.wikipedia.org/wiki/Sulfuric_acid",
+      "in_degree": 0
+    },
+    {
+      "term": "Catalysis",
+      "page": "Catalysis",
+      "url": "https://en.wikipedia.org/wiki/Catalysis",
+      "in_degree": 1
+    },
+    {
+      "term": "Tungsten",
+      "page": "Tungsten",
+      "url": "https://en.wikipedia.org/wiki/Tungsten",
+      "in_degree": 0
+    },
+    {
+      "term": "Law of definite proportions",
+      "page": "Law of definite proportions",
+      "url": "https://en.wikipedia.org/wiki/Law_of_definite_proportions",
+      "in_degree": 0
+    },
+    {
+      "term": "Roald Hoffmann",
+      "page": "Roald Hoffmann",
+      "url": "https://en.wikipedia.org/wiki/Roald_Hoffmann",
+      "in_degree": 0
+    },
+    {
+      "term": "Mole",
+      "page": "Mole (unit)",
+      "url": "https://en.wikipedia.org/wiki/Mole_(unit)",
+      "in_degree": 2
+    },
+    {
+      "term": "Organisation for the Prohibition of Chemical Weapons",
+      "page": "Organisation for the Prohibition of Chemical Weapons",
+      "url": "https://en.wikipedia.org/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons",
+      "in_degree": 0
+    },
+    {
+      "term": "Kary Mullis",
+      "page": "Kary Mullis",
+      "url": "https://en.wikipedia.org/wiki/Kary_Mullis",
+      "in_degree": 0
+    },
+    {
+      "term": "Petroleum",
+      "page": "Petroleum",
+      "url": "https://en.wikipedia.org/wiki/Petroleum",
+      "in_degree": 0
+    },
+    {
+      "term": "Thermochemistry",
+      "page": "Thermochemistry",
+      "url": "https://en.wikipedia.org/wiki/Thermochemistry",
+      "in_degree": 1
+    },
+    {
+      "term": "Dubnium",
+      "page": "Dubnium",
+      "url": "https://en.wikipedia.org/wiki/Dubnium",
+      "in_degree": 0
+    },
+    {
+      "term": "Max Perutz",
+      "page": "Max Perutz",
+      "url": "https://en.wikipedia.org/wiki/Max_Perutz",
+      "in_degree": 1
+    },
+    {
+      "term": "Activation energy",
+      "page": "Activation energy",
+      "url": "https://en.wikipedia.org/wiki/Activation_energy",
+      "in_degree": 0
+    },
+    {
+      "term": "Gustav Kirchhoff",
+      "page": "Gustav Kirchhoff",
+      "url": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff",
+      "in_degree": 0
+    },
+    {
+      "term": "Atomic orbital",
+      "page": "Atomic orbital",
+      "url": "https://en.wikipedia.org/wiki/Atomic_orbital",
+      "in_degree": 1
+    },
+    {
+      "term": "Tellurium",
+      "page": "Tellurium",
+      "url": "https://en.wikipedia.org/wiki/Tellurium",
+      "in_degree": 0
+    },
+    {
+      "term": "Stoichiometry",
+      "page": "Stoichiometry",
+      "url": "https://en.wikipedia.org/wiki/Stoichiometry",
+      "in_degree": 1
+    },
+    {
+      "term": "Molecule",
+      "page": "Molecule",
+      "url": "https://en.wikipedia.org/wiki/Molecule",
+      "in_degree": 3
+    },
+    {
+      "term": "Hamiltonian",
+      "page": "Hamiltonian (quantum mechanics)",
+      "url": "https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Glenn T. Seaborg",
+      "page": "Glenn T. Seaborg",
+      "url": "https://en.wikipedia.org/wiki/Glenn_T._Seaborg",
+      "in_degree": 3
+    },
+    {
+      "term": "Chemical equilibrium",
+      "page": "Chemical equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Chemical_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Zirconium",
+      "page": "Zirconium",
+      "url": "https://en.wikipedia.org/wiki/Zirconium",
+      "in_degree": 0
+    },
+    {
+      "term": "Darmstadtium",
+      "page": "Darmstadtium",
+      "url": "https://en.wikipedia.org/wiki/Darmstadtium",
+      "in_degree": 0
+    },
+    {
+      "term": "John William Strutt, 3rd Baron Rayleigh",
+      "page": "John William Strutt, 3rd Baron Rayleigh",
+      "url": "https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh",
+      "in_degree": 0
+    },
+    {
+      "term": "Irving Langmuir",
+      "page": "Irving Langmuir",
+      "url": "https://en.wikipedia.org/wiki/Irving_Langmuir",
+      "in_degree": 0
+    },
+    {
+      "term": "List of synthetic polymers",
+      "page": "List of synthetic polymers",
+      "url": "https://en.wikipedia.org/wiki/List_of_synthetic_polymers",
+      "in_degree": 0
+    },
+    {
+      "term": "Sodium",
+      "page": "Sodium",
+      "url": "https://en.wikipedia.org/wiki/Sodium",
+      "in_degree": 1
+    },
+    {
+      "term": "Lead",
+      "page": "Lead",
+      "url": "https://en.wikipedia.org/wiki/Lead",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical affinity",
+      "page": "Chemical affinity",
+      "url": "https://en.wikipedia.org/wiki/Chemical_affinity",
+      "in_degree": 0
+    },
+    {
+      "term": "Cadmium",
+      "page": "Cadmium",
+      "url": "https://en.wikipedia.org/wiki/Cadmium",
+      "in_degree": 0
+    },
+    {
+      "term": "Samarium",
+      "page": "Samarium",
+      "url": "https://en.wikipedia.org/wiki/Samarium",
+      "in_degree": 0
+    },
+    {
+      "term": "Alloy",
+      "page": "Alloy",
+      "url": "https://en.wikipedia.org/wiki/Alloy",
+      "in_degree": 1
+    },
+    {
+      "term": "Thorium",
+      "page": "Thorium",
+      "url": "https://en.wikipedia.org/wiki/Thorium",
+      "in_degree": 0
+    },
+    {
+      "term": "Rubidium",
+      "page": "Rubidium",
+      "url": "https://en.wikipedia.org/wiki/Rubidium",
+      "in_degree": 0
+    },
+    {
+      "term": "Electronvolt",
+      "page": "Electronvolt",
+      "url": "https://en.wikipedia.org/wiki/Electronvolt",
+      "in_degree": 0
+    },
+    {
+      "term": "Aspirin",
+      "page": "Aspirin",
+      "url": "https://en.wikipedia.org/wiki/Aspirin",
+      "in_degree": 0
+    },
+    {
+      "term": "Carbon compounds",
+      "page": "Carbon compounds",
+      "url": "https://en.wikipedia.org/wiki/Carbon_compounds",
+      "in_degree": 0
+    },
+    {
+      "term": "Holmium",
+      "page": "Holmium",
+      "url": "https://en.wikipedia.org/wiki/Holmium",
+      "in_degree": 0
+    },
+    {
+      "term": "Dimensional analysis",
+      "page": "Dimensional analysis",
+      "url": "https://en.wikipedia.org/wiki/Dimensional_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Hydrophobe",
+      "page": "Hydrophobe",
+      "url": "https://en.wikipedia.org/wiki/Hydrophobe",
+      "in_degree": 0
+    },
+    {
+      "term": "Inorganic chemistry",
+      "page": "Inorganic chemistry",
+      "url": "https://en.wikipedia.org/wiki/Inorganic_chemistry",
+      "in_degree": 0
+    },
+    {
+      "term": "Martin Lowry",
+      "page": "Martin Lowry",
+      "url": "https://en.wikipedia.org/wiki/Martin_Lowry",
+      "in_degree": 0
+    },
+    {
+      "term": "Caesium",
+      "page": "Caesium",
+      "url": "https://en.wikipedia.org/wiki/Caesium",
+      "in_degree": 0
+    },
+    {
+      "term": "Gold",
+      "page": "Gold",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "in_degree": 0
+    },
+    {
+      "term": "Mole fraction",
+      "page": "Mole fraction",
+      "url": "https://en.wikipedia.org/wiki/Mole_fraction",
+      "in_degree": 0
+    },
+    {
+      "term": "Mobil Oil Corporation",
+      "page": "Mobil Oil Corporation",
+      "url": "https://en.wikipedia.org/wiki/Mobil_Oil_Corporation",
+      "in_degree": 0
+    },
+    {
+      "term": "Lanthanum",
+      "page": "Lanthanum",
+      "url": "https://en.wikipedia.org/wiki/Lanthanum",
+      "in_degree": 0
+    },
+    {
+      "term": "Robert S. Mulliken",
+      "page": "Robert S. Mulliken",
+      "url": "https://en.wikipedia.org/wiki/Robert_S._Mulliken",
+      "in_degree": 0
+    },
+    {
+      "term": "Hydrogen bond",
+      "page": "Hydrogen bond",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen_bond",
+      "in_degree": 1
+    },
+    {
+      "term": "Americium",
+      "page": "Americium",
+      "url": "https://en.wikipedia.org/wiki/Americium",
+      "in_degree": 0
+    },
+    {
+      "term": "Transuranium element",
+      "page": "Transuranium element",
+      "url": "https://en.wikipedia.org/wiki/Transuranium_element",
+      "in_degree": 1
+    },
+    {
+      "term": "Covalent bond",
+      "page": "Covalent bond",
+      "url": "https://en.wikipedia.org/wiki/Covalent_bond",
+      "in_degree": 2
+    },
+    {
+      "term": "Friedrich Wöhler",
+      "page": "Friedrich Wöhler",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Wöhler",
+      "in_degree": 0
+    },
+    {
+      "term": "Metal",
+      "page": "Metal",
+      "url": "https://en.wikipedia.org/wiki/Metal",
+      "in_degree": 0
+    },
+    {
+      "term": "Walter Gilbert",
+      "page": "Walter Gilbert",
+      "url": "https://en.wikipedia.org/wiki/Walter_Gilbert",
+      "in_degree": 0
+    },
+    {
+      "term": "Osmium",
+      "page": "Osmium",
+      "url": "https://en.wikipedia.org/wiki/Osmium",
+      "in_degree": 0
+    },
+    {
+      "term": "Endothermic process",
+      "page": "Endothermic process",
+      "url": "https://en.wikipedia.org/wiki/Endothermic_process",
+      "in_degree": 1
+    },
+    {
+      "term": "Imperial Chemical Industries",
+      "page": "Imperial Chemical Industries",
+      "url": "https://en.wikipedia.org/wiki/Imperial_Chemical_Industries",
+      "in_degree": 0
+    },
+    {
+      "term": "Outline of chemistry",
+      "page": "Outline of chemistry",
+      "url": "https://en.wikipedia.org/wiki/Outline_of_chemistry",
+      "in_degree": 0
+    },
+    {
+      "term": "Potassium",
+      "page": "Potassium",
+      "url": "https://en.wikipedia.org/wiki/Potassium",
+      "in_degree": 0
+    },
+    {
+      "term": "Protactinium",
+      "page": "Protactinium",
+      "url": "https://en.wikipedia.org/wiki/Protactinium",
+      "in_degree": 0
+    },
+    {
+      "term": "Molecular mass",
+      "page": "Molecular mass",
+      "url": "https://en.wikipedia.org/wiki/Molecular_mass",
+      "in_degree": 0
+    },
+    {
+      "term": "Mendelevium",
+      "page": "Mendelevium",
+      "url": "https://en.wikipedia.org/wiki/Mendelevium",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemical element",
+      "page": "Chemical element",
+      "url": "https://en.wikipedia.org/wiki/Chemical_element",
+      "in_degree": 2
+    },
+    {
+      "term": "Metastability",
+      "page": "Metastability",
+      "url": "https://en.wikipedia.org/wiki/Metastability",
+      "in_degree": 0
+    },
+    {
+      "term": "Beryllium",
+      "page": "Beryllium",
+      "url": "https://en.wikipedia.org/wiki/Beryllium",
+      "in_degree": 0
+    },
+    {
+      "term": "Hemoglobin",
+      "page": "Hemoglobin",
+      "url": "https://en.wikipedia.org/wiki/Hemoglobin",
+      "in_degree": 0
+    },
+    {
+      "term": "Monosaccharide",
+      "page": "Monosaccharide",
+      "url": "https://en.wikipedia.org/wiki/Monosaccharide",
+      "in_degree": 0
+    },
+    {
+      "term": "Chemistry",
+      "page": "Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Chemistry",
+      "in_degree": 7
+    },
+    {
+      "term": "Dissociation constant",
+      "page": "Dissociation constant",
+      "url": "https://en.wikipedia.org/wiki/Dissociation_constant",
+      "in_degree": 0
+    },
+    {
+      "term": "Greenhouse effect",
+      "page": "Greenhouse effect",
+      "url": "https://en.wikipedia.org/wiki/Greenhouse_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Nickel",
+      "page": "Nickel",
+      "url": "https://en.wikipedia.org/wiki/Nickel",
+      "in_degree": 0
+    },
+    {
+      "term": "Diatomic molecule",
+      "page": "Diatomic molecule",
+      "url": "https://en.wikipedia.org/wiki/Diatomic_molecule",
+      "in_degree": 1
+    },
+    {
+      "term": "Radium",
+      "page": "Radium",
+      "url": "https://en.wikipedia.org/wiki/Radium",
+      "in_degree": 0
+    },
+    {
+      "term": "Organometallic chemistry",
+      "page": "Organometallic chemistry",
+      "url": "https://en.wikipedia.org/wiki/Organometallic_chemistry",
+      "in_degree": 0
+    },
+    {
+      "term": "Lars Onsager",
+      "page": "Lars Onsager",
+      "url": "https://en.wikipedia.org/wiki/Lars_Onsager",
+      "in_degree": 0
+    },
+    {
+      "term": "Alkali",
+      "page": "Alkali",
+      "url": "https://en.wikipedia.org/wiki/Alkali",
+      "in_degree": 0
+    },
+    {
+      "term": "Electrochemistry",
+      "page": "Electrochemistry",
+      "url": "https://en.wikipedia.org/wiki/Electrochemistry",
+      "in_degree": 2
+    },
+    {
+      "term": "Ionic bonding",
+      "page": "Ionic bonding",
+      "url": "https://en.wikipedia.org/wiki/Ionic_bonding",
+      "in_degree": 2
+    },
+    {
+      "term": "Heteroatom",
+      "page": "Heteroatom",
+      "url": "https://en.wikipedia.org/wiki/Heteroatom",
+      "in_degree": 0
+    },
+    {
+      "term": "Atom",
+      "page": "Atom",
+      "url": "https://en.wikipedia.org/wiki/Atom",
+      "in_degree": 2
+    },
+    {
+      "term": "Acid rain",
+      "page": "Acid rain",
+      "url": "https://en.wikipedia.org/wiki/Acid_rain",
+      "in_degree": 0
+    },
+    {
+      "term": "Electric charge",
+      "page": "Electric charge",
+      "url": "https://en.wikipedia.org/wiki/Electric_charge",
+      "in_degree": 1
+    },
+    {
+      "term": "Ammonia",
+      "page": "Ammonia",
+      "url": "https://en.wikipedia.org/wiki/Ammonia",
+      "in_degree": 0
+    },
+    {
+      "term": "Atomic number",
+      "page": "Atomic number",
+      "url": "https://en.wikipedia.org/wiki/Atomic_number",
+      "in_degree": 0
+    },
+    {
+      "term": "Hydroxide",
+      "page": "Hydroxide",
+      "url": "https://en.wikipedia.org/wiki/Hydroxide",
+      "in_degree": 0
+    },
+    {
+      "term": "Functional group",
+      "page": "Functional group",
+      "url": "https://en.wikipedia.org/wiki/Functional_group",
+      "in_degree": 0
+    },
+    {
+      "term": "Agent Orange",
+      "page": "Agent Orange",
+      "url": "https://en.wikipedia.org/wiki/Agent_Orange",
+      "in_degree": 0
+    },
+    {
+      "term": "Fatty acid",
+      "page": "Fatty acid",
+      "url": "https://en.wikipedia.org/wiki/Fatty_acid",
+      "in_degree": 0
+    },
+    {
+      "term": "PH",
+      "page": "PH",
+      "url": "https://en.wikipedia.org/wiki/PH",
+      "in_degree": 0
+    },
+    {
+      "term": "Catherine Coleman",
+      "page": "Catherine Coleman",
+      "url": "https://en.wikipedia.org/wiki/Catherine_Coleman",
+      "in_degree": 0
+    },
+    {
+      "term": "Peter Debye",
+      "page": "Peter Debye",
+      "url": "https://en.wikipedia.org/wiki/Peter_Debye",
+      "in_degree": 1
+    }
+  ],
+  "edges": [
+    [
+      "Acid",
+      "Zinc"
+    ],
+    [
+      "Antoine Lavoisier",
+      "Acid–base reaction"
+    ],
+    [
+      "Antoine Lavoisier",
+      "Combustion"
+    ],
+    [
+      "Antoine Lavoisier",
+      "Stoichiometry"
+    ],
+    [
+      "Antoine Lavoisier",
+      "Thermochemistry"
+    ],
+    [
+      "Allotropy",
+      "Chemical element"
+    ],
+    [
+      "Allotropy",
+      "Chemical bond"
+    ],
+    [
+      "Analytical chemistry",
+      "Mole (unit)"
+    ],
+    [
+      "Analytical chemistry",
+      "Electrochemistry"
+    ],
+    [
+      "Acid–base reaction",
+      "Antoine Lavoisier"
+    ],
+    [
+      "Combustion",
+      "Phlogiston theory"
+    ],
+    [
+      "Chlorine",
+      "Salt (chemistry)"
+    ],
+    [
+      "Curium",
+      "Transuranium element"
+    ],
+    [
+      "Curium",
+      "Marie Curie"
+    ],
+    [
+      "Curium",
+      "Pierre Curie"
+    ],
+    [
+      "Curium",
+      "Glenn T. Seaborg"
+    ],
+    [
+      "Chemical bond",
+      "Molecule"
+    ],
+    [
+      "Chemical bond",
+      "Ionic bonding"
+    ],
+    [
+      "Cahn–Ingold–Prelog priority rules",
+      "Stereochemistry"
+    ],
+    [
+      "Condensation polymer",
+      "International Union of Pure and Applied Chemistry"
+    ],
+    [
+      "Chemical formula",
+      "Periodic table"
+    ],
+    [
+      "Crystallography",
+      "Pierre Curie"
+    ],
+    [
+      "Crystallography",
+      "Peter Debye"
+    ],
+    [
+      "Crystallography",
+      "Max Perutz"
+    ],
+    [
+      "Timeline of chemical element discoveries",
+      "Periodic table"
+    ],
+    [
+      "Erbium",
+      "Ytterby"
+    ],
+    [
+      "Electronvolt",
+      "Electric charge"
+    ],
+    [
+      "Electrochemistry",
+      "Solution (chemistry)"
+    ],
+    [
+      "Electronegativity",
+      "Metallic bonding"
+    ],
+    [
+      "Electronegativity",
+      "Oxidation state"
+    ],
+    [
+      "Electronegativity",
+      "Periodic table"
+    ],
+    [
+      "Exothermic process",
+      "Chemical thermodynamics"
+    ],
+    [
+      "Friedrich Wöhler",
+      "Organic chemistry"
+    ],
+    [
+      "Fluorescence",
+      "Solution (chemistry)"
+    ],
+    [
+      "Germanium",
+      "Chemical reaction"
+    ],
+    [
+      "Germanium",
+      "Timeline of chemical element discoveries"
+    ],
+    [
+      "Germanium",
+      "Organic chemistry"
+    ],
+    [
+      "Gilbert N. Lewis",
+      "Physical chemistry"
+    ],
+    [
+      "Hafnium",
+      "Alloy"
+    ],
+    [
+      "Humphry Davy",
+      "Chemistry"
+    ],
+    [
+      "Harry Kroto",
+      "Chemistry"
+    ],
+    [
+      "Iodine",
+      "Standard temperature and pressure"
+    ],
+    [
+      "Ionic bonding",
+      "Sodium"
+    ],
+    [
+      "Intermolecular force",
+      "Hydrogen bond"
+    ],
+    [
+      "Intermolecular force",
+      "Molecule"
+    ],
+    [
+      "Intermolecular force",
+      "Ionic bonding"
+    ],
+    [
+      "Intermolecular force",
+      "Polymer"
+    ],
+    [
+      "Intermolecular force",
+      "Solvation"
+    ],
+    [
+      "John Pople",
+      "Theoretical chemistry"
+    ],
+    [
+      "John Pople",
+      "Quantum chemistry"
+    ],
+    [
+      "John Pople",
+      "Computational chemistry"
+    ],
+    [
+      "International Numbering System for Food Additives",
+      "E number"
+    ],
+    [
+      "Law of dilution",
+      "Wilhelm Ostwald"
+    ],
+    [
+      "Law of dilution",
+      "Chemical thermodynamics"
+    ],
+    [
+      "Mendelevium",
+      "Glenn T. Seaborg"
+    ],
+    [
+      "Magnesium",
+      "Salt (chemistry)"
+    ],
+    [
+      "Molecule",
+      "Atom"
+    ],
+    [
+      "Molecule",
+      "Covalent bond"
+    ],
+    [
+      "Molecule",
+      "Diatomic molecule"
+    ],
+    [
+      "Molecule",
+      "Molecular orbital"
+    ],
+    [
+      "Meitnerium",
+      "Lise Meitner"
+    ],
+    [
+      "Mole fraction",
+      "Mole (unit)"
+    ],
+    [
+      "Marie Curie",
+      "Pierre Curie"
+    ],
+    [
+      "Martin Lowry",
+      "Physical chemistry"
+    ],
+    [
+      "Nickel",
+      "Standard temperature and pressure"
+    ],
+    [
+      "Nuclear fusion",
+      "Periodic table"
+    ],
+    [
+      "Nuclear fission",
+      "Nuclear fusion"
+    ],
+    [
+      "Polonium",
+      "Pierre Curie"
+    ],
+    [
+      "Physical chemistry",
+      "Chemistry"
+    ],
+    [
+      "Physical chemistry",
+      "Chemical equilibrium"
+    ],
+    [
+      "Physical chemistry",
+      "Intermolecular force"
+    ],
+    [
+      "Phlogiston theory",
+      "Chemical element"
+    ],
+    [
+      "Peptide bond",
+      "Covalent bond"
+    ],
+    [
+      "PH",
+      "Acid"
+    ],
+    [
+      "Preservative",
+      "Chemical reaction"
+    ],
+    [
+      "Robert Curl",
+      "Chemistry"
+    ],
+    [
+      "Rutherfordium",
+      "Ernest Rutherford"
+    ],
+    [
+      "Selenium",
+      "Fluorescence"
+    ],
+    [
+      "Strontium",
+      "Humphry Davy"
+    ],
+    [
+      "William Crookes",
+      "Chemistry"
+    ],
+    [
+      "Standard temperature and pressure",
+      "International Union of Pure and Applied Chemistry"
+    ],
+    [
+      "Seaborgium",
+      "Glenn T. Seaborg"
+    ],
+    [
+      "Seaborgium",
+      "International Union of Pure and Applied Chemistry"
+    ],
+    [
+      "Stoichiometry",
+      "Chemical reaction"
+    ],
+    [
+      "Stoichiometry",
+      "Molecule"
+    ],
+    [
+      "Solution (chemistry)",
+      "Solvation"
+    ],
+    [
+      "Terbium",
+      "Ytterby"
+    ],
+    [
+      "Thallium",
+      "William Crookes"
+    ],
+    [
+      "Thermochemistry",
+      "Endothermic process"
+    ],
+    [
+      "Thermochemistry",
+      "Exothermic process"
+    ],
+    [
+      "Thermochemistry",
+      "Antoine Lavoisier"
+    ],
+    [
+      "Triple point",
+      "Zinc"
+    ],
+    [
+      "Theoretical chemistry",
+      "Quantum chemistry"
+    ],
+    [
+      "Theoretical chemistry",
+      "Computational chemistry"
+    ],
+    [
+      "Theoretical chemistry",
+      "Chemical engineering"
+    ],
+    [
+      "Theoretical chemistry",
+      "Chemical thermodynamics"
+    ],
+    [
+      "Theoretical chemistry",
+      "Thermodynamics"
+    ],
+    [
+      "Theoretical chemistry",
+      "Physical chemistry"
+    ],
+    [
+      "Wilhelm Ostwald",
+      "Ostwald process"
+    ],
+    [
+      "Wilhelm Ostwald",
+      "Catalysis"
+    ],
+    [
+      "Wilhelm Ostwald",
+      "Chemistry"
+    ],
+    [
+      "Wilhelm Ostwald",
+      "Jacobus Henricus van 't Hoff"
+    ],
+    [
+      "Wilhelm Ostwald",
+      "Svante Arrhenius"
+    ],
+    [
+      "Ytterby",
+      "Timeline of chemical element discoveries"
+    ],
+    [
+      "Radionuclide",
+      "Atom"
+    ],
+    [
+      "Covalent radius",
+      "Periodic table"
+    ],
+    [
+      "Oxidation state",
+      "Chemical bond"
+    ],
+    [
+      "Oxidation state",
+      "Electronegativity"
+    ],
+    [
+      "Oxidation state",
+      "Electrochemistry"
+    ],
+    [
+      "Oxidation state",
+      "Atomic orbital"
+    ],
+    [
+      "Oxidation state",
+      "Metallic bonding"
+    ],
+    [
+      "Robert S. Mulliken",
+      "Chemistry"
+    ],
+    [
+      "Conjugate (acid-base theory)",
+      "Salt (chemistry)"
+    ],
+    [
+      "Jacobus Henricus van 't Hoff",
+      "Physical chemistry"
+    ],
+    [
+      "Solvation",
+      "Solution (chemistry)"
+    ]
+  ]
+}

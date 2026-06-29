@@ -1,0 +1,9 @@
+# Source trust tiers. Weights are deferred ("later more formal rules") — tiers only for now.
+# tier: trusted | solid | low
+sources:
+  openstax:  {tier: trusted, publisher: openstax}   # vetted, peer-reviewed open textbooks
+  textbook:  {tier: trusted, publisher: null}
+  pubmed:    {tier: solid,   publisher: null}        # indexed biomedical literature
+  journal:   {tier: solid,   publisher: null}
+  web:       {tier: low,     publisher: null}         # general web search result — cite, low weight
+  unknown:   {tier: low,     publisher: null}

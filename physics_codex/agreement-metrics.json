@@ -1,0 +1,32 @@
+{
+  "consensus": {
+    "agreement": 0,
+    "compared": 12,
+    "conflict": 12,
+    "missing_reference": 88,
+    "sample_size": 100,
+    "seed": 20260611
+  },
+  "definitions": {
+    "mean": 0.27331292135088603,
+    "median": 0.0,
+    "same_count": 346,
+    "same_fraction": 0.03625314333612741,
+    "shared": 9544,
+    "threshold": 0.82
+  },
+  "graph": {
+    "codex_edges": 52432,
+    "edge_jaccard": 0.28067264912148404,
+    "reference_edges": 15500,
+    "shared_edges": 14888,
+    "spearman": 0.9331897785803732,
+    "top20_overlap": 6
+  },
+  "term_set": {
+    "both": 9544,
+    "jaccard": 0.36262775941335157,
+    "only_codex": 16527,
+    "only_reference": 248
+  }
+}

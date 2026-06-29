@@ -1,0 +1,9 @@
+{
+  "artifact": "facts.json",
+  "phase": "facts",
+  "verified": false,
+  "verified_by": null,
+  "verified_at": null,
+  "note": "growing collection — managed per-entry via status/consensus; conflicts are the human queue",
+  "sha256": null
+}

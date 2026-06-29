@@ -1,0 +1,5522 @@
+{
+  "nodes": [
+    {
+      "term": "Marital surplus",
+      "page": "Marital surplus",
+      "url": "https://en.wikipedia.org/wiki/Marital_surplus",
+      "in_degree": 0
+    },
+    {
+      "term": "Intergenerational equity",
+      "page": "Intergenerational equity",
+      "url": "https://en.wikipedia.org/wiki/Intergenerational_equity",
+      "in_degree": 1
+    },
+    {
+      "term": "Sequential equilibrium",
+      "page": "Sequential equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Sequential_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Gibbs measure",
+      "page": "Gibbs measure",
+      "url": "https://en.wikipedia.org/wiki/Gibbs_measure",
+      "in_degree": 0
+    },
+    {
+      "term": "General equilibrium theory",
+      "page": "General equilibrium theory",
+      "url": "https://en.wikipedia.org/wiki/General_equilibrium_theory",
+      "in_degree": 2
+    },
+    {
+      "term": "Alchian–Allen effect",
+      "page": "Alchian–Allen effect",
+      "url": "https://en.wikipedia.org/wiki/Alchian–Allen_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Screening game",
+      "page": "Screening game",
+      "url": "https://en.wikipedia.org/wiki/Screening_game",
+      "in_degree": 2
+    },
+    {
+      "term": "Minimum efficient scale",
+      "page": "Minimum efficient scale",
+      "url": "https://en.wikipedia.org/wiki/Minimum_efficient_scale",
+      "in_degree": 1
+    },
+    {
+      "term": "Bertrand paradox",
+      "page": "Bertrand paradox (economics)",
+      "url": "https://en.wikipedia.org/wiki/Bertrand_paradox_(economics)",
+      "in_degree": 2
+    },
+    {
+      "term": "Category:High-importance game theory articles",
+      "page": "Category:High-importance game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:High-importance_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Backward induction",
+      "page": "Backward induction",
+      "url": "https://en.wikipedia.org/wiki/Backward_induction",
+      "in_degree": 0
+    },
+    {
+      "term": "Metagame analysis",
+      "page": "Metagame analysis",
+      "url": "https://en.wikipedia.org/wiki/Metagame_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Game theory equilibrium concepts",
+      "page": "Category:Game theory equilibrium concepts",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_equilibrium_concepts",
+      "in_degree": 0
+    },
+    {
+      "term": "Marginal revenue productivity theory of wages",
+      "page": "Marginal revenue productivity theory of wages",
+      "url": "https://en.wikipedia.org/wiki/Marginal_revenue_productivity_theory_of_wages",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Demand",
+      "page": "Category:Demand",
+      "url": "https://en.wikipedia.org/wiki/Category:Demand",
+      "in_degree": 0
+    },
+    {
+      "term": "Microeconomics",
+      "page": "Microeconomics",
+      "url": "https://en.wikipedia.org/wiki/Microeconomics",
+      "in_degree": 3
+    },
+    {
+      "term": "Solution concept",
+      "page": "Solution concept",
+      "url": "https://en.wikipedia.org/wiki/Solution_concept",
+      "in_degree": 3
+    },
+    {
+      "term": "Program equilibrium",
+      "page": "Program equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Program_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Minimax theorem",
+      "page": "Minimax theorem",
+      "url": "https://en.wikipedia.org/wiki/Minimax_theorem",
+      "in_degree": 2
+    },
+    {
+      "term": "Coopetition",
+      "page": "Coopetition",
+      "url": "https://en.wikipedia.org/wiki/Coopetition",
+      "in_degree": 1
+    },
+    {
+      "term": "Wealth maximization",
+      "page": "Wealth maximization",
+      "url": "https://en.wikipedia.org/wiki/Wealth_maximization",
+      "in_degree": 0
+    },
+    {
+      "term": "Pigou–Dalton principle",
+      "page": "Pigou–Dalton principle",
+      "url": "https://en.wikipedia.org/wiki/Pigou–Dalton_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Escalation of commitment",
+      "page": "Escalation of commitment",
+      "url": "https://en.wikipedia.org/wiki/Escalation_of_commitment",
+      "in_degree": 1
+    },
+    {
+      "term": "Swing producer",
+      "page": "Swing producer",
+      "url": "https://en.wikipedia.org/wiki/Swing_producer",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Quality of life",
+      "page": "Category:Quality of life",
+      "url": "https://en.wikipedia.org/wiki/Category:Quality_of_life",
+      "in_degree": 0
+    },
+    {
+      "term": "Grim trigger",
+      "page": "Grim trigger",
+      "url": "https://en.wikipedia.org/wiki/Grim_trigger",
+      "in_degree": 0
+    },
+    {
+      "term": "Topological game",
+      "page": "Topological game",
+      "url": "https://en.wikipedia.org/wiki/Topological_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Wikiprogress",
+      "page": "Wikiprogress",
+      "url": "https://en.wikipedia.org/wiki/Wikiprogress",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare spending",
+      "page": "Welfare spending",
+      "url": "https://en.wikipedia.org/wiki/Welfare_spending",
+      "in_degree": 2
+    },
+    {
+      "term": "Divine equilibrium",
+      "page": "Divine equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Divine_equilibrium",
+      "in_degree": 2
+    },
+    {
+      "term": "Loopy game",
+      "page": "Loopy game",
+      "url": "https://en.wikipedia.org/wiki/Loopy_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Triple bottom line",
+      "page": "Triple bottom line",
+      "url": "https://en.wikipedia.org/wiki/Triple_bottom_line",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Home economics",
+      "page": "Category:Home economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Home_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Labor share",
+      "page": "Labor share",
+      "url": "https://en.wikipedia.org/wiki/Labor_share",
+      "in_degree": 0
+    },
+    {
+      "term": "Implementation theory",
+      "page": "Implementation theory",
+      "url": "https://en.wikipedia.org/wiki/Implementation_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Ghent system",
+      "page": "Ghent system",
+      "url": "https://en.wikipedia.org/wiki/Ghent_system",
+      "in_degree": 0
+    },
+    {
+      "term": "Compromise",
+      "page": "Compromise",
+      "url": "https://en.wikipedia.org/wiki/Compromise",
+      "in_degree": 0
+    },
+    {
+      "term": "Succinct game",
+      "page": "Succinct game",
+      "url": "https://en.wikipedia.org/wiki/Succinct_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Cornering the market",
+      "page": "Cornering the market",
+      "url": "https://en.wikipedia.org/wiki/Cornering_the_market",
+      "in_degree": 0
+    },
+    {
+      "term": "Contingent cooperator",
+      "page": "Contingent cooperator",
+      "url": "https://en.wikipedia.org/wiki/Contingent_cooperator",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Bankruptcy theory",
+      "page": "Category:Bankruptcy theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Bankruptcy_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantum pseudo-telepathy",
+      "page": "Quantum pseudo-telepathy",
+      "url": "https://en.wikipedia.org/wiki/Quantum_pseudo-telepathy",
+      "in_degree": 2
+    },
+    {
+      "term": "Shannon number",
+      "page": "Shannon number",
+      "url": "https://en.wikipedia.org/wiki/Shannon_number",
+      "in_degree": 1
+    },
+    {
+      "term": "Surreal number",
+      "page": "Surreal number",
+      "url": "https://en.wikipedia.org/wiki/Surreal_number",
+      "in_degree": 2
+    },
+    {
+      "term": "Bankruptcy problem",
+      "page": "Bankruptcy problem",
+      "url": "https://en.wikipedia.org/wiki/Bankruptcy_problem",
+      "in_degree": 0
+    },
+    {
+      "term": "Outcome",
+      "page": "Outcome (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Outcome_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Combinatorial game theory",
+      "page": "Category:Combinatorial game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Combinatorial_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Unassessed game theory articles",
+      "page": "Category:Unassessed game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Unassessed_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Chainstore paradox",
+      "page": "Chainstore paradox",
+      "url": "https://en.wikipedia.org/wiki/Chainstore_paradox",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantal response equilibrium",
+      "page": "Quantal response equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Quantal_response_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Cooling and heating",
+      "page": "Cooling and heating (combinatorial game theory)",
+      "url": "https://en.wikipedia.org/wiki/Cooling_and_heating_(combinatorial_game_theory)",
+      "in_degree": 1
+    },
+    {
+      "term": "Rational ignorance",
+      "page": "Rational ignorance",
+      "url": "https://en.wikipedia.org/wiki/Rational_ignorance",
+      "in_degree": 1
+    },
+    {
+      "term": "Cost-shifting",
+      "page": "Cost-shifting",
+      "url": "https://en.wikipedia.org/wiki/Cost-shifting",
+      "in_degree": 0
+    },
+    {
+      "term": "Hoover index",
+      "page": "Hoover index",
+      "url": "https://en.wikipedia.org/wiki/Hoover_index",
+      "in_degree": 0
+    },
+    {
+      "term": "Hidden welfare state",
+      "page": "Hidden welfare state",
+      "url": "https://en.wikipedia.org/wiki/Hidden_welfare_state",
+      "in_degree": 0
+    },
+    {
+      "term": "Inequity aversion",
+      "page": "Inequity aversion",
+      "url": "https://en.wikipedia.org/wiki/Inequity_aversion",
+      "in_degree": 0
+    },
+    {
+      "term": "International Social Security Association",
+      "page": "International Social Security Association",
+      "url": "https://en.wikipedia.org/wiki/International_Social_Security_Association",
+      "in_degree": 0
+    },
+    {
+      "term": "Conjectural variation",
+      "page": "Conjectural variation",
+      "url": "https://en.wikipedia.org/wiki/Conjectural_variation",
+      "in_degree": 0
+    },
+    {
+      "term": "Fair cake-cutting",
+      "page": "Fair cake-cutting",
+      "url": "https://en.wikipedia.org/wiki/Fair_cake-cutting",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare definition of economics",
+      "page": "Welfare definition of economics",
+      "url": "https://en.wikipedia.org/wiki/Welfare_definition_of_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Pecuniary externality",
+      "page": "Pecuniary externality",
+      "url": "https://en.wikipedia.org/wiki/Pecuniary_externality",
+      "in_degree": 0
+    },
+    {
+      "term": "Engel's law",
+      "page": "Engel's law",
+      "url": "https://en.wikipedia.org/wiki/Engel's_law",
+      "in_degree": 1
+    },
+    {
+      "term": "Post-war consensus",
+      "page": "Post-war consensus",
+      "url": "https://en.wikipedia.org/wiki/Post-war_consensus",
+      "in_degree": 0
+    },
+    {
+      "term": "Social welfare function",
+      "page": "Social welfare function",
+      "url": "https://en.wikipedia.org/wiki/Social_welfare_function",
+      "in_degree": 1
+    },
+    {
+      "term": "Fictitious play",
+      "page": "Fictitious play",
+      "url": "https://en.wikipedia.org/wiki/Fictitious_play",
+      "in_degree": 1
+    },
+    {
+      "term": "Stackelberg competition",
+      "page": "Stackelberg competition",
+      "url": "https://en.wikipedia.org/wiki/Stackelberg_competition",
+      "in_degree": 1
+    },
+    {
+      "term": "Algorithmic game theory",
+      "page": "Algorithmic game theory",
+      "url": "https://en.wikipedia.org/wiki/Algorithmic_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "CHSH inequality",
+      "page": "CHSH inequality",
+      "url": "https://en.wikipedia.org/wiki/CHSH_inequality",
+      "in_degree": 0
+    },
+    {
+      "term": "Student financial aid in Finland",
+      "page": "Student financial aid in Finland",
+      "url": "https://en.wikipedia.org/wiki/Student_financial_aid_in_Finland",
+      "in_degree": 0
+    },
+    {
+      "term": "Combinatorial explosion",
+      "page": "Combinatorial explosion",
+      "url": "https://en.wikipedia.org/wiki/Combinatorial_explosion",
+      "in_degree": 1
+    },
+    {
+      "term": "Deterrence theory",
+      "page": "Deterrence theory",
+      "url": "https://en.wikipedia.org/wiki/Deterrence_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Helly metric",
+      "page": "Helly metric",
+      "url": "https://en.wikipedia.org/wiki/Helly_metric",
+      "in_degree": 0
+    },
+    {
+      "term": "Public bad",
+      "page": "Public bad",
+      "url": "https://en.wikipedia.org/wiki/Public_bad",
+      "in_degree": 0
+    },
+    {
+      "term": "Domineering",
+      "page": "Domineering",
+      "url": "https://en.wikipedia.org/wiki/Domineering",
+      "in_degree": 5
+    },
+    {
+      "term": "Draft:Wardrop equilibrium",
+      "page": "Draft:Wardrop equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Draft:Wardrop_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Confrontation analysis",
+      "page": "Confrontation analysis",
+      "url": "https://en.wikipedia.org/wiki/Confrontation_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Market design",
+      "page": "Market design",
+      "url": "https://en.wikipedia.org/wiki/Market_design",
+      "in_degree": 0
+    },
+    {
+      "term": "Edgeworth box",
+      "page": "Edgeworth box",
+      "url": "https://en.wikipedia.org/wiki/Edgeworth_box",
+      "in_degree": 2
+    },
+    {
+      "term": "Free entry",
+      "page": "Free entry",
+      "url": "https://en.wikipedia.org/wiki/Free_entry",
+      "in_degree": 1
+    },
+    {
+      "term": "Simultaneous action selection",
+      "page": "Simultaneous action selection",
+      "url": "https://en.wikipedia.org/wiki/Simultaneous_action_selection",
+      "in_degree": 1
+    },
+    {
+      "term": "First-order approach",
+      "page": "First-order approach",
+      "url": "https://en.wikipedia.org/wiki/First-order_approach",
+      "in_degree": 0
+    },
+    {
+      "term": "Futile game",
+      "page": "Futile game",
+      "url": "https://en.wikipedia.org/wiki/Futile_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Active labour market policies",
+      "page": "Active labour market policies",
+      "url": "https://en.wikipedia.org/wiki/Active_labour_market_policies",
+      "in_degree": 0
+    },
+    {
+      "term": "International Society of Dynamic Games",
+      "page": "International Society of Dynamic Games",
+      "url": "https://en.wikipedia.org/wiki/International_Society_of_Dynamic_Games",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantum tic-tac-toe",
+      "page": "Quantum tic-tac-toe",
+      "url": "https://en.wikipedia.org/wiki/Quantum_tic-tac-toe",
+      "in_degree": 1
+    },
+    {
+      "term": "Willingness to accept",
+      "page": "Willingness to accept",
+      "url": "https://en.wikipedia.org/wiki/Willingness_to_accept",
+      "in_degree": 1
+    },
+    {
+      "term": "Social security in India",
+      "page": "Social security in India",
+      "url": "https://en.wikipedia.org/wiki/Social_security_in_India",
+      "in_degree": 0
+    },
+    {
+      "term": "No-win situation",
+      "page": "No-win situation",
+      "url": "https://en.wikipedia.org/wiki/No-win_situation",
+      "in_degree": 1
+    },
+    {
+      "term": "Proprietary trading",
+      "page": "Proprietary trading",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_trading",
+      "in_degree": 0
+    },
+    {
+      "term": "Duopsony",
+      "page": "Duopsony",
+      "url": "https://en.wikipedia.org/wiki/Duopsony",
+      "in_degree": 0
+    },
+    {
+      "term": "Coalition-proof Nash equilibrium",
+      "page": "Coalition-proof Nash equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Coalition-proof_Nash_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Utility",
+      "page": "Category:Utility",
+      "url": "https://en.wikipedia.org/wiki/Category:Utility",
+      "in_degree": 0
+    },
+    {
+      "term": "Shapley–Shubik power index",
+      "page": "Shapley–Shubik power index",
+      "url": "https://en.wikipedia.org/wiki/Shapley–Shubik_power_index",
+      "in_degree": 1
+    },
+    {
+      "term": "Folk theorem",
+      "page": "Folk theorem (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Folk_theorem_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Mixed economy",
+      "page": "Mixed economy",
+      "url": "https://en.wikipedia.org/wiki/Mixed_economy",
+      "in_degree": 0
+    },
+    {
+      "term": "Expected utility hypothesis",
+      "page": "Expected utility hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Expected_utility_hypothesis",
+      "in_degree": 1
+    },
+    {
+      "term": "Game complexity",
+      "page": "Game complexity",
+      "url": "https://en.wikipedia.org/wiki/Game_complexity",
+      "in_degree": 3
+    },
+    {
+      "term": "Marginal use",
+      "page": "Marginal use",
+      "url": "https://en.wikipedia.org/wiki/Marginal_use",
+      "in_degree": 0
+    },
+    {
+      "term": "Cram",
+      "page": "Cram (game)",
+      "url": "https://en.wikipedia.org/wiki/Cram_(game)",
+      "in_degree": 1
+    },
+    {
+      "term": "Elasticity of intertemporal substitution",
+      "page": "Elasticity of intertemporal substitution",
+      "url": "https://en.wikipedia.org/wiki/Elasticity_of_intertemporal_substitution",
+      "in_degree": 0
+    },
+    {
+      "term": "Game design",
+      "page": "Game design",
+      "url": "https://en.wikipedia.org/wiki/Game_design",
+      "in_degree": 0
+    },
+    {
+      "term": "Gini coefficient",
+      "page": "Gini coefficient",
+      "url": "https://en.wikipedia.org/wiki/Gini_coefficient",
+      "in_degree": 3
+    },
+    {
+      "term": "Welfare biology",
+      "page": "Welfare biology",
+      "url": "https://en.wikipedia.org/wiki/Welfare_biology",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Income distribution",
+      "page": "Category:Income distribution",
+      "url": "https://en.wikipedia.org/wiki/Category:Income_distribution",
+      "in_degree": 0
+    },
+    {
+      "term": "Behavioral game theory",
+      "page": "Behavioral game theory",
+      "url": "https://en.wikipedia.org/wiki/Behavioral_game_theory",
+      "in_degree": 2
+    },
+    {
+      "term": "Manipulated Nash equilibrium",
+      "page": "Manipulated Nash equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Manipulated_Nash_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Hackenbush",
+      "page": "Hackenbush",
+      "url": "https://en.wikipedia.org/wiki/Hackenbush",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Positional games",
+      "page": "Category:Positional games",
+      "url": "https://en.wikipedia.org/wiki/Category:Positional_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Start-Class game theory articles",
+      "page": "Category:Start-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Start-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Edgeworth price cycle",
+      "page": "Edgeworth price cycle",
+      "url": "https://en.wikipedia.org/wiki/Edgeworth_price_cycle",
+      "in_degree": 0
+    },
+    {
+      "term": "Asynchrony",
+      "page": "Asynchrony (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Asynchrony_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Principal variation search",
+      "page": "Principal variation search",
+      "url": "https://en.wikipedia.org/wiki/Principal_variation_search",
+      "in_degree": 1
+    },
+    {
+      "term": "Bayes correlated equilibrium",
+      "page": "Bayes correlated equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Bayes_correlated_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Cooperative-competitive value",
+      "page": "Cooperative-competitive value",
+      "url": "https://en.wikipedia.org/wiki/Cooperative-competitive_value",
+      "in_degree": 0
+    },
+    {
+      "term": "Nimber",
+      "page": "Nimber",
+      "url": "https://en.wikipedia.org/wiki/Nimber",
+      "in_degree": 1
+    },
+    {
+      "term": "Snob effect",
+      "page": "Snob effect",
+      "url": "https://en.wikipedia.org/wiki/Snob_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Graph continuous function",
+      "page": "Graph continuous function",
+      "url": "https://en.wikipedia.org/wiki/Graph_continuous_function",
+      "in_degree": 0
+    },
+    {
+      "term": "Aggregative game",
+      "page": "Aggregative game",
+      "url": "https://en.wikipedia.org/wiki/Aggregative_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Prim–Read theory",
+      "page": "Prim–Read theory",
+      "url": "https://en.wikipedia.org/wiki/Prim–Read_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Map-coloring games",
+      "page": "Map-coloring games",
+      "url": "https://en.wikipedia.org/wiki/Map-coloring_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Pareto efficiency",
+      "page": "Pareto efficiency",
+      "url": "https://en.wikipedia.org/wiki/Pareto_efficiency",
+      "in_degree": 7
+    },
+    {
+      "term": "Fundamental theorems of welfare economics",
+      "page": "Fundamental theorems of welfare economics",
+      "url": "https://en.wikipedia.org/wiki/Fundamental_theorems_of_welfare_economics",
+      "in_degree": 1
+    },
+    {
+      "term": "Game form",
+      "page": "Game form",
+      "url": "https://en.wikipedia.org/wiki/Game_form",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Bargaining theory",
+      "page": "Category:Bargaining theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Bargaining_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Social protection",
+      "page": "Social protection",
+      "url": "https://en.wikipedia.org/wiki/Social_protection",
+      "in_degree": 1
+    },
+    {
+      "term": "Working poor",
+      "page": "Working poor",
+      "url": "https://en.wikipedia.org/wiki/Working_poor",
+      "in_degree": 0
+    },
+    {
+      "term": "Price mechanism",
+      "page": "Price mechanism",
+      "url": "https://en.wikipedia.org/wiki/Price_mechanism",
+      "in_degree": 0
+    },
+    {
+      "term": "Uneconomic growth",
+      "page": "Uneconomic growth",
+      "url": "https://en.wikipedia.org/wiki/Uneconomic_growth",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic efficiency",
+      "page": "Economic efficiency",
+      "url": "https://en.wikipedia.org/wiki/Economic_efficiency",
+      "in_degree": 1
+    },
+    {
+      "term": "Dutch book arguments",
+      "page": "Dutch book arguments",
+      "url": "https://en.wikipedia.org/wiki/Dutch_book_arguments",
+      "in_degree": 0
+    },
+    {
+      "term": "Zugzwang",
+      "page": "Zugzwang",
+      "url": "https://en.wikipedia.org/wiki/Zugzwang",
+      "in_degree": 1
+    },
+    {
+      "term": "Disjunctive sum",
+      "page": "Disjunctive sum",
+      "url": "https://en.wikipedia.org/wiki/Disjunctive_sum",
+      "in_degree": 0
+    },
+    {
+      "term": "Budget set",
+      "page": "Budget set",
+      "url": "https://en.wikipedia.org/wiki/Budget_set",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Game theory articles by importance",
+      "page": "Category:Game theory articles by importance",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_articles_by_importance",
+      "in_degree": 0
+    },
+    {
+      "term": "Social planner",
+      "page": "Social planner",
+      "url": "https://en.wikipedia.org/wiki/Social_planner",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Welfare economics",
+      "page": "Category:Welfare economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Welfare_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Intuitive criterion",
+      "page": "Intuitive criterion",
+      "url": "https://en.wikipedia.org/wiki/Intuitive_criterion",
+      "in_degree": 2
+    },
+    {
+      "term": "Tragedy of the commons",
+      "page": "Tragedy of the commons",
+      "url": "https://en.wikipedia.org/wiki/Tragedy_of_the_commons",
+      "in_degree": 2
+    },
+    {
+      "term": "Wellbeing economy",
+      "page": "Wellbeing economy",
+      "url": "https://en.wikipedia.org/wiki/Wellbeing_economy",
+      "in_degree": 0
+    },
+    {
+      "term": "Glicksberg's theorem",
+      "page": "Glicksberg's theorem",
+      "url": "https://en.wikipedia.org/wiki/Glicksberg's_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Strategy",
+      "page": "Category:Strategy (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Category:Strategy_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Integrability of demand",
+      "page": "Integrability of demand",
+      "url": "https://en.wikipedia.org/wiki/Integrability_of_demand",
+      "in_degree": 0
+    },
+    {
+      "term": "Life satisfaction",
+      "page": "Life satisfaction",
+      "url": "https://en.wikipedia.org/wiki/Life_satisfaction",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:WikiProject Game theory templates",
+      "page": "Category:WikiProject Game theory templates",
+      "url": "https://en.wikipedia.org/wiki/Category:WikiProject_Game_theory_templates",
+      "in_degree": 0
+    },
+    {
+      "term": "Tacit collusion",
+      "page": "Tacit collusion",
+      "url": "https://en.wikipedia.org/wiki/Tacit_collusion",
+      "in_degree": 0
+    },
+    {
+      "term": "Mincome",
+      "page": "Mincome",
+      "url": "https://en.wikipedia.org/wiki/Mincome",
+      "in_degree": 0
+    },
+    {
+      "term": "Cooperative game theory",
+      "page": "Cooperative game theory",
+      "url": "https://en.wikipedia.org/wiki/Cooperative_game_theory",
+      "in_degree": 3
+    },
+    {
+      "term": "Demand",
+      "page": "Demand",
+      "url": "https://en.wikipedia.org/wiki/Demand",
+      "in_degree": 0
+    },
+    {
+      "term": "Fibonacci nim",
+      "page": "Fibonacci nim",
+      "url": "https://en.wikipedia.org/wiki/Fibonacci_nim",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Competition",
+      "page": "Category:Competition (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Competition_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Graphical game theory",
+      "page": "Graphical game theory",
+      "url": "https://en.wikipedia.org/wiki/Graphical_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Utility–possibility frontier",
+      "page": "Utility–possibility frontier",
+      "url": "https://en.wikipedia.org/wiki/Utility–possibility_frontier",
+      "in_degree": 0
+    },
+    {
+      "term": "Repeated game",
+      "page": "Repeated game",
+      "url": "https://en.wikipedia.org/wiki/Repeated_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Means test",
+      "page": "Means test",
+      "url": "https://en.wikipedia.org/wiki/Means_test",
+      "in_degree": 0
+    },
+    {
+      "term": "Perfect Bayesian equilibrium",
+      "page": "Perfect Bayesian equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium",
+      "in_degree": 3
+    },
+    {
+      "term": "Null move",
+      "page": "Null move",
+      "url": "https://en.wikipedia.org/wiki/Null_move",
+      "in_degree": 0
+    },
+    {
+      "term": "Inframarginal analysis",
+      "page": "Inframarginal analysis",
+      "url": "https://en.wikipedia.org/wiki/Inframarginal_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Authority distribution",
+      "page": "Authority distribution",
+      "url": "https://en.wikipedia.org/wiki/Authority_distribution",
+      "in_degree": 0
+    },
+    {
+      "term": "Symmetric equilibrium",
+      "page": "Symmetric equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Symmetric_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Sylver coinage",
+      "page": "Sylver coinage",
+      "url": "https://en.wikipedia.org/wiki/Sylver_coinage",
+      "in_degree": 1
+    },
+    {
+      "term": "Isovalue lines",
+      "page": "Isovalue lines",
+      "url": "https://en.wikipedia.org/wiki/Isovalue_lines",
+      "in_degree": 0
+    },
+    {
+      "term": "Pebble game",
+      "page": "Pebble game",
+      "url": "https://en.wikipedia.org/wiki/Pebble_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Net economic welfare",
+      "page": "Net economic welfare",
+      "url": "https://en.wikipedia.org/wiki/Net_economic_welfare",
+      "in_degree": 0
+    },
+    {
+      "term": "Epsilon-equilibrium",
+      "page": "Epsilon-equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Epsilon-equilibrium",
+      "in_degree": 2
+    },
+    {
+      "term": "Poset game",
+      "page": "Poset game",
+      "url": "https://en.wikipedia.org/wiki/Poset_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Open-loop model",
+      "page": "Open-loop model",
+      "url": "https://en.wikipedia.org/wiki/Open-loop_model",
+      "in_degree": 0
+    },
+    {
+      "term": "Market share analysis",
+      "page": "Market share analysis",
+      "url": "https://en.wikipedia.org/wiki/Market_share_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Buyer decision process",
+      "page": "Buyer decision process",
+      "url": "https://en.wikipedia.org/wiki/Buyer_decision_process",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Organizations related to game theory",
+      "page": "Category:Organizations related to game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Organizations_related_to_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Paranoid algorithm",
+      "page": "Paranoid algorithm",
+      "url": "https://en.wikipedia.org/wiki/Paranoid_algorithm",
+      "in_degree": 0
+    },
+    {
+      "term": "Double marginalization",
+      "page": "Double marginalization",
+      "url": "https://en.wikipedia.org/wiki/Double_marginalization",
+      "in_degree": 0
+    },
+    {
+      "term": "Price of stability",
+      "page": "Price of stability",
+      "url": "https://en.wikipedia.org/wiki/Price_of_stability",
+      "in_degree": 0
+    },
+    {
+      "term": "Workfare",
+      "page": "Workfare",
+      "url": "https://en.wikipedia.org/wiki/Workfare",
+      "in_degree": 0
+    },
+    {
+      "term": "M equilibrium",
+      "page": "M equilibrium",
+      "url": "https://en.wikipedia.org/wiki/M_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Life-cycle hypothesis",
+      "page": "Life-cycle hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Life-cycle_hypothesis",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic unit",
+      "page": "Economic unit",
+      "url": "https://en.wikipedia.org/wiki/Economic_unit",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Family economics",
+      "page": "Category:Family economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Family_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Notakto",
+      "page": "Notakto",
+      "url": "https://en.wikipedia.org/wiki/Notakto",
+      "in_degree": 1
+    },
+    {
+      "term": "Bennett's law",
+      "page": "Bennett's law",
+      "url": "https://en.wikipedia.org/wiki/Bennett's_law",
+      "in_degree": 1
+    },
+    {
+      "term": "Minimum effort game",
+      "page": "Minimum effort game",
+      "url": "https://en.wikipedia.org/wiki/Minimum_effort_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Budget constraint",
+      "page": "Budget constraint",
+      "url": "https://en.wikipedia.org/wiki/Budget_constraint",
+      "in_degree": 1
+    },
+    {
+      "term": "Platonia dilemma",
+      "page": "Platonia dilemma",
+      "url": "https://en.wikipedia.org/wiki/Platonia_dilemma",
+      "in_degree": 0
+    },
+    {
+      "term": "Simalto",
+      "page": "Simalto",
+      "url": "https://en.wikipedia.org/wiki/Simalto",
+      "in_degree": 0
+    },
+    {
+      "term": "Sequential game",
+      "page": "Sequential game",
+      "url": "https://en.wikipedia.org/wiki/Sequential_game",
+      "in_degree": 3
+    },
+    {
+      "term": "Kayles",
+      "page": "Kayles",
+      "url": "https://en.wikipedia.org/wiki/Kayles",
+      "in_degree": 2
+    },
+    {
+      "term": "Intergenerational struggle",
+      "page": "Intergenerational struggle",
+      "url": "https://en.wikipedia.org/wiki/Intergenerational_struggle",
+      "in_degree": 0
+    },
+    {
+      "term": "Commitment device",
+      "page": "Commitment device",
+      "url": "https://en.wikipedia.org/wiki/Commitment_device",
+      "in_degree": 0
+    },
+    {
+      "term": "Jenga",
+      "page": "Jenga",
+      "url": "https://en.wikipedia.org/wiki/Jenga",
+      "in_degree": 0
+    },
+    {
+      "term": "Nash equilibrium",
+      "page": "Nash equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Nash_equilibrium",
+      "in_degree": 33
+    },
+    {
+      "term": "Category:Welfare economists",
+      "page": "Category:Welfare economists",
+      "url": "https://en.wikipedia.org/wiki/Category:Welfare_economists",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Types of auction",
+      "page": "Category:Types of auction",
+      "url": "https://en.wikipedia.org/wiki/Category:Types_of_auction",
+      "in_degree": 0
+    },
+    {
+      "term": "Boots theory",
+      "page": "Boots theory",
+      "url": "https://en.wikipedia.org/wiki/Boots_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Cooperative games",
+      "page": "Category:Cooperative games",
+      "url": "https://en.wikipedia.org/wiki/Category:Cooperative_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Backgammon match strategy",
+      "page": "Backgammon match strategy",
+      "url": "https://en.wikipedia.org/wiki/Backgammon_match_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Tragedy of the anticommons",
+      "page": "Tragedy of the anticommons",
+      "url": "https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons",
+      "in_degree": 0
+    },
+    {
+      "term": "Durapolist",
+      "page": "Durapolist",
+      "url": "https://en.wikipedia.org/wiki/Durapolist",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic equilibrium",
+      "page": "Economic equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Economic_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Economic efficiency",
+      "page": "Category:Economic efficiency",
+      "url": "https://en.wikipedia.org/wiki/Category:Economic_efficiency",
+      "in_degree": 0
+    },
+    {
+      "term": "Penn World Table",
+      "page": "Penn World Table",
+      "url": "https://en.wikipedia.org/wiki/Penn_World_Table",
+      "in_degree": 1
+    },
+    {
+      "term": "Evolutionarily stable strategy",
+      "page": "Evolutionarily stable strategy",
+      "url": "https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy",
+      "in_degree": 4
+    },
+    {
+      "term": "Edgeworth paradox",
+      "page": "Edgeworth paradox",
+      "url": "https://en.wikipedia.org/wiki/Edgeworth_paradox",
+      "in_degree": 2
+    },
+    {
+      "term": "Bondareva–Shapley theorem",
+      "page": "Bondareva–Shapley theorem",
+      "url": "https://en.wikipedia.org/wiki/Bondareva–Shapley_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Gift-exchange game",
+      "page": "Gift-exchange game",
+      "url": "https://en.wikipedia.org/wiki/Gift-exchange_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategic complements",
+      "page": "Strategic complements",
+      "url": "https://en.wikipedia.org/wiki/Strategic_complements",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Open-source economics",
+      "page": "Category:Open-source economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Open-source_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Contract curve",
+      "page": "Contract curve",
+      "url": "https://en.wikipedia.org/wiki/Contract_curve",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategic fair division",
+      "page": "Strategic fair division",
+      "url": "https://en.wikipedia.org/wiki/Strategic_fair_division",
+      "in_degree": 0
+    },
+    {
+      "term": "Max-dominated strategy",
+      "page": "Max-dominated strategy",
+      "url": "https://en.wikipedia.org/wiki/Max-dominated_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Market",
+      "page": "Category:Market (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Market_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Nucleolus",
+      "page": "Nucleolus (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Nucleolus_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Determinacy",
+      "page": "Determinacy",
+      "url": "https://en.wikipedia.org/wiki/Determinacy",
+      "in_degree": 1
+    },
+    {
+      "term": "Game theory in communication networks",
+      "page": "Game theory in communication networks",
+      "url": "https://en.wikipedia.org/wiki/Game_theory_in_communication_networks",
+      "in_degree": 0
+    },
+    {
+      "term": "Correlated equilibrium",
+      "page": "Correlated equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Correlated_equilibrium",
+      "in_degree": 2
+    },
+    {
+      "term": "Competitive altruism",
+      "page": "Competitive altruism",
+      "url": "https://en.wikipedia.org/wiki/Competitive_altruism",
+      "in_degree": 0
+    },
+    {
+      "term": "Costly state verification",
+      "page": "Costly state verification",
+      "url": "https://en.wikipedia.org/wiki/Costly_state_verification",
+      "in_degree": 0
+    },
+    {
+      "term": "Extensive-form game",
+      "page": "Extensive-form game",
+      "url": "https://en.wikipedia.org/wiki/Extensive-form_game",
+      "in_degree": 2
+    },
+    {
+      "term": "Category:Utilitarianism",
+      "page": "Category:Utilitarianism",
+      "url": "https://en.wikipedia.org/wiki/Category:Utilitarianism",
+      "in_degree": 0
+    },
+    {
+      "term": "Surplus procedure",
+      "page": "Surplus procedure",
+      "url": "https://en.wikipedia.org/wiki/Surplus_procedure",
+      "in_degree": 0
+    },
+    {
+      "term": "Subtract a square",
+      "page": "Subtract a square",
+      "url": "https://en.wikipedia.org/wiki/Subtract_a_square",
+      "in_degree": 1
+    },
+    {
+      "term": "Rational irrationality",
+      "page": "Rational irrationality",
+      "url": "https://en.wikipedia.org/wiki/Rational_irrationality",
+      "in_degree": 0
+    },
+    {
+      "term": "Interdependence theory",
+      "page": "Interdependence theory",
+      "url": "https://en.wikipedia.org/wiki/Interdependence_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Congestion game",
+      "page": "Congestion game",
+      "url": "https://en.wikipedia.org/wiki/Congestion_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Drama theory",
+      "page": "Drama theory",
+      "url": "https://en.wikipedia.org/wiki/Drama_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic justice",
+      "page": "Economic justice",
+      "url": "https://en.wikipedia.org/wiki/Economic_justice",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Solved games",
+      "page": "Category:Solved games",
+      "url": "https://en.wikipedia.org/wiki/Category:Solved_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Game theorists",
+      "page": "Category:Game theorists",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theorists",
+      "in_degree": 0
+    },
+    {
+      "term": "N-player game",
+      "page": "N-player game",
+      "url": "https://en.wikipedia.org/wiki/N-player_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Meshulam's game",
+      "page": "Meshulam's game",
+      "url": "https://en.wikipedia.org/wiki/Meshulam's_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Rational choice theory",
+      "page": "Category:Rational choice theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Rational_choice_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Consumer theory",
+      "page": "Category:Consumer theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Consumer_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Oligopoly",
+      "page": "Oligopoly",
+      "url": "https://en.wikipedia.org/wiki/Oligopoly",
+      "in_degree": 3
+    },
+    {
+      "term": "Mex",
+      "page": "Mex (mathematics)",
+      "url": "https://en.wikipedia.org/wiki/Mex_(mathematics)",
+      "in_degree": 1
+    },
+    {
+      "term": "Saving",
+      "page": "Saving",
+      "url": "https://en.wikipedia.org/wiki/Saving",
+      "in_degree": 0
+    },
+    {
+      "term": "Chicken",
+      "page": "Chicken (game)",
+      "url": "https://en.wikipedia.org/wiki/Chicken_(game)",
+      "in_degree": 1
+    },
+    {
+      "term": "Tit for tat",
+      "page": "Tit for tat",
+      "url": "https://en.wikipedia.org/wiki/Tit_for_tat",
+      "in_degree": 1
+    },
+    {
+      "term": "Excess burden of taxation",
+      "page": "Excess burden of taxation",
+      "url": "https://en.wikipedia.org/wiki/Excess_burden_of_taxation",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Non-cooperative games",
+      "page": "Category:Non-cooperative games",
+      "url": "https://en.wikipedia.org/wiki/Category:Non-cooperative_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Robertson lag",
+      "page": "Robertson lag",
+      "url": "https://en.wikipedia.org/wiki/Robertson_lag",
+      "in_degree": 0
+    },
+    {
+      "term": "Simultaneous game",
+      "page": "Simultaneous game",
+      "url": "https://en.wikipedia.org/wiki/Simultaneous_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Bimatrix game",
+      "page": "Bimatrix game",
+      "url": "https://en.wikipedia.org/wiki/Bimatrix_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Deadweight loss",
+      "page": "Deadweight loss",
+      "url": "https://en.wikipedia.org/wiki/Deadweight_loss",
+      "in_degree": 0
+    },
+    {
+      "term": "Kaldor–Hicks efficiency",
+      "page": "Kaldor–Hicks efficiency",
+      "url": "https://en.wikipedia.org/wiki/Kaldor–Hicks_efficiency",
+      "in_degree": 1
+    },
+    {
+      "term": "Best response",
+      "page": "Best response",
+      "url": "https://en.wikipedia.org/wiki/Best_response",
+      "in_degree": 0
+    },
+    {
+      "term": "Focal point",
+      "page": "Focal point (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Focal_point_(game_theory)",
+      "in_degree": 1
+    },
+    {
+      "term": "Marginal rate of substitution",
+      "page": "Marginal rate of substitution",
+      "url": "https://en.wikipedia.org/wiki/Marginal_rate_of_substitution",
+      "in_degree": 0
+    },
+    {
+      "term": "Superrationality",
+      "page": "Superrationality",
+      "url": "https://en.wikipedia.org/wiki/Superrationality",
+      "in_degree": 1
+    },
+    {
+      "term": "Game theory on networks",
+      "page": "Game theory on networks",
+      "url": "https://en.wikipedia.org/wiki/Game_theory_on_networks",
+      "in_degree": 0
+    },
+    {
+      "term": "Equivalent variation",
+      "page": "Equivalent variation",
+      "url": "https://en.wikipedia.org/wiki/Equivalent_variation",
+      "in_degree": 0
+    },
+    {
+      "term": "Bayesian regret",
+      "page": "Bayesian regret",
+      "url": "https://en.wikipedia.org/wiki/Bayesian_regret",
+      "in_degree": 0
+    },
+    {
+      "term": "Aumann's agreement theorem",
+      "page": "Aumann's agreement theorem",
+      "url": "https://en.wikipedia.org/wiki/Aumann's_agreement_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Obligationes",
+      "page": "Obligationes",
+      "url": "https://en.wikipedia.org/wiki/Obligationes",
+      "in_degree": 0
+    },
+    {
+      "term": "Pen's parade",
+      "page": "Pen's parade",
+      "url": "https://en.wikipedia.org/wiki/Pen's_parade",
+      "in_degree": 0
+    },
+    {
+      "term": "Games and Economic Behavior",
+      "page": "Games and Economic Behavior",
+      "url": "https://en.wikipedia.org/wiki/Games_and_Economic_Behavior",
+      "in_degree": 0
+    },
+    {
+      "term": "Copenhagen Consensus",
+      "page": "Copenhagen Consensus",
+      "url": "https://en.wikipedia.org/wiki/Copenhagen_Consensus",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantum game theory",
+      "page": "Quantum game theory",
+      "url": "https://en.wikipedia.org/wiki/Quantum_game_theory",
+      "in_degree": 3
+    },
+    {
+      "term": "Consumer value",
+      "page": "Consumer value",
+      "url": "https://en.wikipedia.org/wiki/Consumer_value",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Microeconomic theories",
+      "page": "Category:Microeconomic theories",
+      "url": "https://en.wikipedia.org/wiki/Category:Microeconomic_theories",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Evolutionary game theory",
+      "page": "Category:Evolutionary game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Evolutionary_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategic move",
+      "page": "Strategic move",
+      "url": "https://en.wikipedia.org/wiki/Strategic_move",
+      "in_degree": 0
+    },
+    {
+      "term": "Rock paper scissors",
+      "page": "Rock paper scissors",
+      "url": "https://en.wikipedia.org/wiki/Rock_paper_scissors",
+      "in_degree": 0
+    },
+    {
+      "term": "Externality",
+      "page": "Externality",
+      "url": "https://en.wikipedia.org/wiki/Externality",
+      "in_degree": 6
+    },
+    {
+      "term": "Marginalism",
+      "page": "Marginalism",
+      "url": "https://en.wikipedia.org/wiki/Marginalism",
+      "in_degree": 2
+    },
+    {
+      "term": "Median voter theorem",
+      "page": "Median voter theorem",
+      "url": "https://en.wikipedia.org/wiki/Median_voter_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Ratchet effect",
+      "page": "Ratchet effect",
+      "url": "https://en.wikipedia.org/wiki/Ratchet_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Income–consumption curve",
+      "page": "Income–consumption curve",
+      "url": "https://en.wikipedia.org/wiki/Income–consumption_curve",
+      "in_degree": 1
+    },
+    {
+      "term": "Feasibility condition",
+      "page": "Feasibility condition",
+      "url": "https://en.wikipedia.org/wiki/Feasibility_condition",
+      "in_degree": 0
+    },
+    {
+      "term": "Conflict escalation",
+      "page": "Conflict escalation",
+      "url": "https://en.wikipedia.org/wiki/Conflict_escalation",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:General equilibrium theory",
+      "page": "Category:General equilibrium theory",
+      "url": "https://en.wikipedia.org/wiki/Category:General_equilibrium_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Generational imbalance",
+      "page": "Generational imbalance",
+      "url": "https://en.wikipedia.org/wiki/Generational_imbalance",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Microeconomists",
+      "page": "Category:Microeconomists",
+      "url": "https://en.wikipedia.org/wiki/Category:Microeconomists",
+      "in_degree": 0
+    },
+    {
+      "term": "Self-confirming equilibrium",
+      "page": "Self-confirming equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Self-confirming_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Price of anarchy in congestion games",
+      "page": "Price of anarchy in congestion games",
+      "url": "https://en.wikipedia.org/wiki/Price_of_anarchy_in_congestion_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Oligopsony",
+      "page": "Oligopsony",
+      "url": "https://en.wikipedia.org/wiki/Oligopsony",
+      "in_degree": 0
+    },
+    {
+      "term": "Star",
+      "page": "Star (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Star_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Complete mixing",
+      "page": "Complete mixing",
+      "url": "https://en.wikipedia.org/wiki/Complete_mixing",
+      "in_degree": 0
+    },
+    {
+      "term": "Branching factor",
+      "page": "Branching factor",
+      "url": "https://en.wikipedia.org/wiki/Branching_factor",
+      "in_degree": 0
+    },
+    {
+      "term": "Preference",
+      "page": "Preference (economics)",
+      "url": "https://en.wikipedia.org/wiki/Preference_(economics)",
+      "in_degree": 1
+    },
+    {
+      "term": "Toads and Frogs",
+      "page": "Toads and Frogs",
+      "url": "https://en.wikipedia.org/wiki/Toads_and_Frogs",
+      "in_degree": 0
+    },
+    {
+      "term": "False economy",
+      "page": "False economy",
+      "url": "https://en.wikipedia.org/wiki/False_economy",
+      "in_degree": 0
+    },
+    {
+      "term": "Hedonic game",
+      "page": "Hedonic game",
+      "url": "https://en.wikipedia.org/wiki/Hedonic_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Duopoly",
+      "page": "Duopoly",
+      "url": "https://en.wikipedia.org/wiki/Duopoly",
+      "in_degree": 1
+    },
+    {
+      "term": "Abstract economy",
+      "page": "Abstract economy",
+      "url": "https://en.wikipedia.org/wiki/Abstract_economy",
+      "in_degree": 0
+    },
+    {
+      "term": "Fourth bottom line",
+      "page": "Fourth bottom line",
+      "url": "https://en.wikipedia.org/wiki/Fourth_bottom_line",
+      "in_degree": 0
+    },
+    {
+      "term": "Dynamic efficiency",
+      "page": "Dynamic efficiency",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_efficiency",
+      "in_degree": 0
+    },
+    {
+      "term": "National Income and Product Accounts",
+      "page": "National Income and Product Accounts",
+      "url": "https://en.wikipedia.org/wiki/National_Income_and_Product_Accounts",
+      "in_degree": 0
+    },
+    {
+      "term": "Goods",
+      "page": "Goods",
+      "url": "https://en.wikipedia.org/wiki/Goods",
+      "in_degree": 1
+    },
+    {
+      "term": "Impartial game",
+      "page": "Impartial game",
+      "url": "https://en.wikipedia.org/wiki/Impartial_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Information set",
+      "page": "Information set (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Information_set_(game_theory)",
+      "in_degree": 1
+    },
+    {
+      "term": "Competition",
+      "page": "Competition (economics)",
+      "url": "https://en.wikipedia.org/wiki/Competition_(economics)",
+      "in_degree": 5
+    },
+    {
+      "term": "Dollar voting",
+      "page": "Dollar voting",
+      "url": "https://en.wikipedia.org/wiki/Dollar_voting",
+      "in_degree": 0
+    },
+    {
+      "term": "Scitovsky paradox",
+      "page": "Scitovsky paradox",
+      "url": "https://en.wikipedia.org/wiki/Scitovsky_paradox",
+      "in_degree": 1
+    },
+    {
+      "term": "Missing market",
+      "page": "Missing market",
+      "url": "https://en.wikipedia.org/wiki/Missing_market",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Quantum game theory",
+      "page": "Category:Quantum game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Quantum_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Equity",
+      "page": "Equity (economics)",
+      "url": "https://en.wikipedia.org/wiki/Equity_(economics)",
+      "in_degree": 1
+    },
+    {
+      "term": "Chopsticks",
+      "page": "Chopsticks (hand game)",
+      "url": "https://en.wikipedia.org/wiki/Chopsticks_(hand_game)",
+      "in_degree": 0
+    },
+    {
+      "term": "Equilibrium selection",
+      "page": "Equilibrium selection",
+      "url": "https://en.wikipedia.org/wiki/Equilibrium_selection",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Auction theory",
+      "page": "Category:Auction theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Auction_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Veterans' benefits",
+      "page": "Veterans' benefits",
+      "url": "https://en.wikipedia.org/wiki/Veterans'_benefits",
+      "in_degree": 0
+    },
+    {
+      "term": "Electronic mail game",
+      "page": "Electronic mail game",
+      "url": "https://en.wikipedia.org/wiki/Electronic_mail_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Megacorpstate",
+      "page": "Megacorpstate",
+      "url": "https://en.wikipedia.org/wiki/Megacorpstate",
+      "in_degree": 0
+    },
+    {
+      "term": "Keynesian beauty contest",
+      "page": "Keynesian beauty contest",
+      "url": "https://en.wikipedia.org/wiki/Keynesian_beauty_contest",
+      "in_degree": 0
+    },
+    {
+      "term": "Permanent income hypothesis",
+      "page": "Permanent income hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Permanent_income_hypothesis",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:WikiProject Game theory participants",
+      "page": "Category:WikiProject Game theory participants",
+      "url": "https://en.wikipedia.org/wiki/Category:WikiProject_Game_theory_participants",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Oligopoly",
+      "page": "Category:Oligopoly",
+      "url": "https://en.wikipedia.org/wiki/Category:Oligopoly",
+      "in_degree": 0
+    },
+    {
+      "term": "Top trading cycle",
+      "page": "Top trading cycle",
+      "url": "https://en.wikipedia.org/wiki/Top_trading_cycle",
+      "in_degree": 0
+    },
+    {
+      "term": "Income inequality metrics",
+      "page": "Income inequality metrics",
+      "url": "https://en.wikipedia.org/wiki/Income_inequality_metrics",
+      "in_degree": 0
+    },
+    {
+      "term": "Trembling hand perfect equilibrium",
+      "page": "Trembling hand perfect equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium",
+      "in_degree": 4
+    },
+    {
+      "term": "Bliss point",
+      "page": "Bliss point (economics)",
+      "url": "https://en.wikipedia.org/wiki/Bliss_point_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Risk aversion",
+      "page": "Risk aversion (psychology)",
+      "url": "https://en.wikipedia.org/wiki/Risk_aversion_(psychology)",
+      "in_degree": 0
+    },
+    {
+      "term": "Privatization",
+      "page": "Privatization",
+      "url": "https://en.wikipedia.org/wiki/Privatization",
+      "in_degree": 0
+    },
+    {
+      "term": "Nanoeconomics",
+      "page": "Nanoeconomics",
+      "url": "https://en.wikipedia.org/wiki/Nanoeconomics",
+      "in_degree": 0
+    },
+    {
+      "term": "Jan Sładkowski",
+      "page": "Jan Sładkowski",
+      "url": "https://en.wikipedia.org/wiki/Jan_Sładkowski",
+      "in_degree": 1
+    },
+    {
+      "term": "Organizational-dynamic game",
+      "page": "Organizational-dynamic game",
+      "url": "https://en.wikipedia.org/wiki/Organizational-dynamic_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Nim",
+      "page": "Nim",
+      "url": "https://en.wikipedia.org/wiki/Nim",
+      "in_degree": 8
+    },
+    {
+      "term": "Vertical integration",
+      "page": "Vertical integration",
+      "url": "https://en.wikipedia.org/wiki/Vertical_integration",
+      "in_degree": 0
+    },
+    {
+      "term": "Consumption smoothing",
+      "page": "Consumption smoothing",
+      "url": "https://en.wikipedia.org/wiki/Consumption_smoothing",
+      "in_degree": 1
+    },
+    {
+      "term": "Induction puzzles",
+      "page": "Induction puzzles",
+      "url": "https://en.wikipedia.org/wiki/Induction_puzzles",
+      "in_degree": 0
+    },
+    {
+      "term": "New Approach to Appraisal",
+      "page": "New Approach to Appraisal",
+      "url": "https://en.wikipedia.org/wiki/New_Approach_to_Appraisal",
+      "in_degree": 0
+    },
+    {
+      "term": "Mobbing",
+      "page": "Mobbing (animal behavior)",
+      "url": "https://en.wikipedia.org/wiki/Mobbing_(animal_behavior)",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionary invasion analysis",
+      "page": "Evolutionary invasion analysis",
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_invasion_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare economics",
+      "page": "Welfare economics",
+      "url": "https://en.wikipedia.org/wiki/Welfare_economics",
+      "in_degree": 5
+    },
+    {
+      "term": "Open-source economics",
+      "page": "Open-source economics",
+      "url": "https://en.wikipedia.org/wiki/Open-source_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Expenditure minimization problem",
+      "page": "Expenditure minimization problem",
+      "url": "https://en.wikipedia.org/wiki/Expenditure_minimization_problem",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Game theory articles by quality",
+      "page": "Category:Game theory articles by quality",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_articles_by_quality",
+      "in_degree": 0
+    },
+    {
+      "term": "Almost ideal demand system",
+      "page": "Almost ideal demand system",
+      "url": "https://en.wikipedia.org/wiki/Almost_ideal_demand_system",
+      "in_degree": 0
+    },
+    {
+      "term": "Expectiminimax",
+      "page": "Expectiminimax",
+      "url": "https://en.wikipedia.org/wiki/Expectiminimax",
+      "in_degree": 2
+    },
+    {
+      "term": "Welfare cost of inflation",
+      "page": "Welfare cost of inflation",
+      "url": "https://en.wikipedia.org/wiki/Welfare_cost_of_inflation",
+      "in_degree": 1
+    },
+    {
+      "term": "Occupational welfare",
+      "page": "Occupational welfare",
+      "url": "https://en.wikipedia.org/wiki/Occupational_welfare",
+      "in_degree": 0
+    },
+    {
+      "term": "Negamax",
+      "page": "Negamax",
+      "url": "https://en.wikipedia.org/wiki/Negamax",
+      "in_degree": 2
+    },
+    {
+      "term": "Comparative advantage",
+      "page": "Comparative advantage",
+      "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+      "in_degree": 2
+    },
+    {
+      "term": "Parity game",
+      "page": "Parity game",
+      "url": "https://en.wikipedia.org/wiki/Parity_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Wait/walk dilemma",
+      "page": "Wait/walk dilemma",
+      "url": "https://en.wikipedia.org/wiki/Wait/walk_dilemma",
+      "in_degree": 0
+    },
+    {
+      "term": "Strictly determined game",
+      "page": "Strictly determined game",
+      "url": "https://en.wikipedia.org/wiki/Strictly_determined_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Replicator equation",
+      "page": "Replicator equation",
+      "url": "https://en.wikipedia.org/wiki/Replicator_equation",
+      "in_degree": 0
+    },
+    {
+      "term": "Combinatorial game theory",
+      "page": "Combinatorial game theory",
+      "url": "https://en.wikipedia.org/wiki/Combinatorial_game_theory",
+      "in_degree": 2
+    },
+    {
+      "term": "Compensating variation",
+      "page": "Compensating variation",
+      "url": "https://en.wikipedia.org/wiki/Compensating_variation",
+      "in_degree": 0
+    },
+    {
+      "term": "Zermelo's theorem",
+      "page": "Zermelo's theorem (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Zermelo's_theorem_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Mean payoff game",
+      "page": "Mean payoff game",
+      "url": "https://en.wikipedia.org/wiki/Mean_payoff_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Stag hunt",
+      "page": "Stag hunt",
+      "url": "https://en.wikipedia.org/wiki/Stag_hunt",
+      "in_degree": 0
+    },
+    {
+      "term": "Homicidal chauffeur problem",
+      "page": "Homicidal chauffeur problem",
+      "url": "https://en.wikipedia.org/wiki/Homicidal_chauffeur_problem",
+      "in_degree": 0
+    },
+    {
+      "term": "Win–stay, lose–switch",
+      "page": "Win–stay, lose–switch",
+      "url": "https://en.wikipedia.org/wiki/Win–stay,_lose–switch",
+      "in_degree": 0
+    },
+    {
+      "term": "Giffen good",
+      "page": "Giffen good",
+      "url": "https://en.wikipedia.org/wiki/Giffen_good",
+      "in_degree": 1
+    },
+    {
+      "term": "Substitution effect",
+      "page": "Substitution effect",
+      "url": "https://en.wikipedia.org/wiki/Substitution_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Weak evolutionarily stable strategy",
+      "page": "Weak evolutionarily stable strategy",
+      "url": "https://en.wikipedia.org/wiki/Weak_evolutionarily_stable_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Market concentration",
+      "page": "Market concentration",
+      "url": "https://en.wikipedia.org/wiki/Market_concentration",
+      "in_degree": 0
+    },
+    {
+      "term": "Quasi-perfect equilibrium",
+      "page": "Quasi-perfect equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Quasi-perfect_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Participation income",
+      "page": "Participation income",
+      "url": "https://en.wikipedia.org/wiki/Participation_income",
+      "in_degree": 0
+    },
+    {
+      "term": "Extended sympathy",
+      "page": "Extended sympathy",
+      "url": "https://en.wikipedia.org/wiki/Extended_sympathy",
+      "in_degree": 0
+    },
+    {
+      "term": "Expenditure function",
+      "page": "Expenditure function",
+      "url": "https://en.wikipedia.org/wiki/Expenditure_function",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Production",
+      "page": "Category:Production (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Production_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Bulgarian solitaire",
+      "page": "Bulgarian solitaire",
+      "url": "https://en.wikipedia.org/wiki/Bulgarian_solitaire",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Goods",
+      "page": "Category:Goods",
+      "url": "https://en.wikipedia.org/wiki/Category:Goods",
+      "in_degree": 0
+    },
+    {
+      "term": "Prisoner's dilemma",
+      "page": "Prisoner's dilemma",
+      "url": "https://en.wikipedia.org/wiki/Prisoner's_dilemma",
+      "in_degree": 9
+    },
+    {
+      "term": "Concave game",
+      "page": "Concave game",
+      "url": "https://en.wikipedia.org/wiki/Concave_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Information economics",
+      "page": "Category:Information economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Information_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Behavioural finance",
+      "page": "Behavioural finance",
+      "url": "https://en.wikipedia.org/wiki/Behavioural_finance",
+      "in_degree": 0
+    },
+    {
+      "term": "Braess's paradox",
+      "page": "Braess's paradox",
+      "url": "https://en.wikipedia.org/wiki/Braess's_paradox",
+      "in_degree": 0
+    },
+    {
+      "term": "Parsimonious reduction",
+      "page": "Parsimonious reduction",
+      "url": "https://en.wikipedia.org/wiki/Parsimonious_reduction",
+      "in_degree": 0
+    },
+    {
+      "term": "Common knowledge",
+      "page": "Common knowledge (logic)",
+      "url": "https://en.wikipedia.org/wiki/Common_knowledge_(logic)",
+      "in_degree": 2
+    },
+    {
+      "term": "Herfindahl–Hirschman index",
+      "page": "Herfindahl–Hirschman index",
+      "url": "https://en.wikipedia.org/wiki/Herfindahl–Hirschman_index",
+      "in_degree": 0
+    },
+    {
+      "term": "Quantum refereed game",
+      "page": "Quantum refereed game",
+      "url": "https://en.wikipedia.org/wiki/Quantum_refereed_game",
+      "in_degree": 2
+    },
+    {
+      "term": "Poisson game",
+      "page": "Poisson game",
+      "url": "https://en.wikipedia.org/wiki/Poisson_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Game theory journals",
+      "page": "Category:Game theory journals",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_journals",
+      "in_degree": 0
+    },
+    {
+      "term": "Price of anarchy",
+      "page": "Price of anarchy",
+      "url": "https://en.wikipedia.org/wiki/Price_of_anarchy",
+      "in_degree": 0
+    },
+    {
+      "term": "Lorenz curve",
+      "page": "Lorenz curve",
+      "url": "https://en.wikipedia.org/wiki/Lorenz_curve",
+      "in_degree": 1
+    },
+    {
+      "term": "Horizontal integration",
+      "page": "Horizontal integration",
+      "url": "https://en.wikipedia.org/wiki/Horizontal_integration",
+      "in_degree": 0
+    },
+    {
+      "term": "Roy's identity",
+      "page": "Roy's identity",
+      "url": "https://en.wikipedia.org/wiki/Roy's_identity",
+      "in_degree": 0
+    },
+    {
+      "term": "Monte Carlo tree search",
+      "page": "Monte Carlo tree search",
+      "url": "https://en.wikipedia.org/wiki/Monte_Carlo_tree_search",
+      "in_degree": 2
+    },
+    {
+      "term": "Frisch elasticity of labor supply",
+      "page": "Frisch elasticity of labor supply",
+      "url": "https://en.wikipedia.org/wiki/Frisch_elasticity_of_labor_supply",
+      "in_degree": 0
+    },
+    {
+      "term": "Continuous game",
+      "page": "Continuous game",
+      "url": "https://en.wikipedia.org/wiki/Continuous_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Bounded rationality",
+      "page": "Bounded rationality",
+      "url": "https://en.wikipedia.org/wiki/Bounded_rationality",
+      "in_degree": 4
+    },
+    {
+      "term": "Complete contract",
+      "page": "Complete contract",
+      "url": "https://en.wikipedia.org/wiki/Complete_contract",
+      "in_degree": 0
+    },
+    {
+      "term": "Self-enforcing agreement",
+      "page": "Self-enforcing agreement",
+      "url": "https://en.wikipedia.org/wiki/Self-enforcing_agreement",
+      "in_degree": 0
+    },
+    {
+      "term": "Backgammon opening theory",
+      "page": "Backgammon opening theory",
+      "url": "https://en.wikipedia.org/wiki/Backgammon_opening_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Fuzzy game",
+      "page": "Fuzzy game",
+      "url": "https://en.wikipedia.org/wiki/Fuzzy_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Mid-importance game theory articles",
+      "page": "Category:Mid-importance game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Mid-importance_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Deregulation",
+      "page": "Deregulation",
+      "url": "https://en.wikipedia.org/wiki/Deregulation",
+      "in_degree": 1
+    },
+    {
+      "term": "Human Poverty Index",
+      "page": "Human Poverty Index",
+      "url": "https://en.wikipedia.org/wiki/Human_Poverty_Index",
+      "in_degree": 1
+    },
+    {
+      "term": "Mobility allowance",
+      "page": "Mobility allowance",
+      "url": "https://en.wikipedia.org/wiki/Mobility_allowance",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Rationing",
+      "page": "Category:Rationing",
+      "url": "https://en.wikipedia.org/wiki/Category:Rationing",
+      "in_degree": 0
+    },
+    {
+      "term": "Mutual knowledge",
+      "page": "Mutual knowledge",
+      "url": "https://en.wikipedia.org/wiki/Mutual_knowledge",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Pursuit–evasion",
+      "page": "Category:Pursuit–evasion",
+      "url": "https://en.wikipedia.org/wiki/Category:Pursuit–evasion",
+      "in_degree": 0
+    },
+    {
+      "term": "One-shot deviation principle",
+      "page": "One-shot deviation principle",
+      "url": "https://en.wikipedia.org/wiki/One-shot_deviation_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Market tightness",
+      "page": "Market tightness",
+      "url": "https://en.wikipedia.org/wiki/Market_tightness",
+      "in_degree": 0
+    },
+    {
+      "term": "Bishop–Cannings theorem",
+      "page": "Bishop–Cannings theorem",
+      "url": "https://en.wikipedia.org/wiki/Bishop–Cannings_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Mechanism design",
+      "page": "Category:Mechanism design",
+      "url": "https://en.wikipedia.org/wiki/Category:Mechanism_design",
+      "in_degree": 0
+    },
+    {
+      "term": "Progressive theory of capital",
+      "page": "Progressive theory of capital",
+      "url": "https://en.wikipedia.org/wiki/Progressive_theory_of_capital",
+      "in_degree": 0
+    },
+    {
+      "term": "Consumer choice",
+      "page": "Consumer choice",
+      "url": "https://en.wikipedia.org/wiki/Consumer_choice",
+      "in_degree": 2
+    },
+    {
+      "term": "Global game",
+      "page": "Global game",
+      "url": "https://en.wikipedia.org/wiki/Global_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Grundy's game",
+      "page": "Grundy's game",
+      "url": "https://en.wikipedia.org/wiki/Grundy's_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Aggregation problem",
+      "page": "Aggregation problem",
+      "url": "https://en.wikipedia.org/wiki/Aggregation_problem",
+      "in_degree": 0
+    },
+    {
+      "term": "Waldegrave problem",
+      "page": "Waldegrave problem",
+      "url": "https://en.wikipedia.org/wiki/Waldegrave_problem",
+      "in_degree": 0
+    },
+    {
+      "term": "Subtraction game",
+      "page": "Subtraction game",
+      "url": "https://en.wikipedia.org/wiki/Subtraction_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Lemke–Howson algorithm",
+      "page": "Lemke–Howson algorithm",
+      "url": "https://en.wikipedia.org/wiki/Lemke–Howson_algorithm",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare cost of business cycles",
+      "page": "Welfare cost of business cycles",
+      "url": "https://en.wikipedia.org/wiki/Welfare_cost_of_business_cycles",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Top-importance game theory articles",
+      "page": "Category:Top-importance game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Top-importance_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Regulatory economics",
+      "page": "Regulatory economics",
+      "url": "https://en.wikipedia.org/wiki/Regulatory_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Two-level game theory",
+      "page": "Two-level game theory",
+      "url": "https://en.wikipedia.org/wiki/Two-level_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Sincere favorite criterion",
+      "page": "Sincere favorite criterion",
+      "url": "https://en.wikipedia.org/wiki/Sincere_favorite_criterion",
+      "in_degree": 0
+    },
+    {
+      "term": "Behavioral economics",
+      "page": "Behavioral economics",
+      "url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+      "in_degree": 4
+    },
+    {
+      "term": "Positional good",
+      "page": "Positional good",
+      "url": "https://en.wikipedia.org/wiki/Positional_good",
+      "in_degree": 0
+    },
+    {
+      "term": "Kuhn's theorem",
+      "page": "Kuhn's theorem",
+      "url": "https://en.wikipedia.org/wiki/Kuhn's_theorem",
+      "in_degree": 1
+    },
+    {
+      "term": "Incentive",
+      "page": "Incentive",
+      "url": "https://en.wikipedia.org/wiki/Incentive",
+      "in_degree": 0
+    },
+    {
+      "term": "Differential game",
+      "page": "Differential game",
+      "url": "https://en.wikipedia.org/wiki/Differential_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Martingale",
+      "page": "Martingale (probability theory)",
+      "url": "https://en.wikipedia.org/wiki/Martingale_(probability_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Monopoly",
+      "page": "Category:Monopoly (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Monopoly_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Perfect information",
+      "page": "Perfect information",
+      "url": "https://en.wikipedia.org/wiki/Perfect_information",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Chess strategy",
+      "page": "Category:Chess strategy",
+      "url": "https://en.wikipedia.org/wiki/Category:Chess_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Shephard's lemma",
+      "page": "Shephard's lemma",
+      "url": "https://en.wikipedia.org/wiki/Shephard's_lemma",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Inefficiency in game theory",
+      "page": "Category:Inefficiency in game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Inefficiency_in_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Pauper's oath",
+      "page": "Pauper's oath",
+      "url": "https://en.wikipedia.org/wiki/Pauper's_oath",
+      "in_degree": 0
+    },
+    {
+      "term": "Unconditional cash transfer",
+      "page": "Unconditional cash transfer",
+      "url": "https://en.wikipedia.org/wiki/Unconditional_cash_transfer",
+      "in_degree": 0
+    },
+    {
+      "term": "Von Neumann–Morgenstern utility theorem",
+      "page": "Von Neumann–Morgenstern utility theorem",
+      "url": "https://en.wikipedia.org/wiki/Von_Neumann–Morgenstern_utility_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Topological games",
+      "page": "Category:Topological games",
+      "url": "https://en.wikipedia.org/wiki/Category:Topological_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare dependency",
+      "page": "Welfare dependency",
+      "url": "https://en.wikipedia.org/wiki/Welfare_dependency",
+      "in_degree": 0
+    },
+    {
+      "term": "Mertens-stable equilibrium",
+      "page": "Mertens-stable equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Mertens-stable_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Mean-field game theory",
+      "page": "Mean-field game theory",
+      "url": "https://en.wikipedia.org/wiki/Mean-field_game_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Ky Fan inequality",
+      "page": "Ky Fan inequality (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Ky_Fan_inequality_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Contract theory",
+      "page": "Contract theory",
+      "url": "https://en.wikipedia.org/wiki/Contract_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Divide and choose",
+      "page": "Divide and choose",
+      "url": "https://en.wikipedia.org/wiki/Divide_and_choose",
+      "in_degree": 0
+    },
+    {
+      "term": "Shapiro–Stiglitz theory",
+      "page": "Shapiro–Stiglitz theory",
+      "url": "https://en.wikipedia.org/wiki/Shapiro–Stiglitz_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Loss aversion",
+      "page": "Loss aversion",
+      "url": "https://en.wikipedia.org/wiki/Loss_aversion",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Chess theory",
+      "page": "Category:Chess theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Chess_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Bayesian Nash equilibrium",
+      "page": "Bayesian Nash equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Bayesian_Nash_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Marginal utility",
+      "page": "Marginal utility",
+      "url": "https://en.wikipedia.org/wiki/Marginal_utility",
+      "in_degree": 1
+    },
+    {
+      "term": "History of microeconomics",
+      "page": "History of microeconomics",
+      "url": "https://en.wikipedia.org/wiki/History_of_microeconomics",
+      "in_degree": 0
+    },
+    {
+      "term": "Signalling",
+      "page": "Signalling (economics)",
+      "url": "https://en.wikipedia.org/wiki/Signalling_(economics)",
+      "in_degree": 2
+    },
+    {
+      "term": "Hot game",
+      "page": "Hot game",
+      "url": "https://en.wikipedia.org/wiki/Hot_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Gibbs lemma",
+      "page": "Gibbs lemma",
+      "url": "https://en.wikipedia.org/wiki/Gibbs_lemma",
+      "in_degree": 0
+    },
+    {
+      "term": "International Game Theory Review",
+      "page": "International Game Theory Review",
+      "url": "https://en.wikipedia.org/wiki/International_Game_Theory_Review",
+      "in_degree": 0
+    },
+    {
+      "term": "Profit motive",
+      "page": "Profit motive",
+      "url": "https://en.wikipedia.org/wiki/Profit_motive",
+      "in_degree": 1
+    },
+    {
+      "term": "Heap game",
+      "page": "Heap game",
+      "url": "https://en.wikipedia.org/wiki/Heap_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Bertrand–Edgeworth model",
+      "page": "Bertrand–Edgeworth model",
+      "url": "https://en.wikipedia.org/wiki/Bertrand–Edgeworth_model",
+      "in_degree": 2
+    },
+    {
+      "term": "Category:Partially solved games",
+      "page": "Category:Partially solved games",
+      "url": "https://en.wikipedia.org/wiki/Category:Partially_solved_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Community indifference curve",
+      "page": "Community indifference curve",
+      "url": "https://en.wikipedia.org/wiki/Community_indifference_curve",
+      "in_degree": 0
+    },
+    {
+      "term": "Genus theory",
+      "page": "Genus theory",
+      "url": "https://en.wikipedia.org/wiki/Genus_theory",
+      "in_degree": 2
+    },
+    {
+      "term": "Octal game",
+      "page": "Octal game",
+      "url": "https://en.wikipedia.org/wiki/Octal_game",
+      "in_degree": 0
+    },
+    {
+      "term": "State unemployment tax act",
+      "page": "State unemployment tax act",
+      "url": "https://en.wikipedia.org/wiki/State_unemployment_tax_act",
+      "in_degree": 0
+    },
+    {
+      "term": "Roemer model of political competition",
+      "page": "Roemer model of political competition",
+      "url": "https://en.wikipedia.org/wiki/Roemer_model_of_political_competition",
+      "in_degree": 0
+    },
+    {
+      "term": "Satisfaction equilibrium",
+      "page": "Satisfaction equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Satisfaction_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Installed base",
+      "page": "Installed base",
+      "url": "https://en.wikipedia.org/wiki/Installed_base",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:NA-Class game theory pages",
+      "page": "Category:NA-Class game theory pages",
+      "url": "https://en.wikipedia.org/wiki/Category:NA-Class_game_theory_pages",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionary game theory",
+      "page": "Evolutionary game theory",
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_game_theory",
+      "in_degree": 2
+    },
+    {
+      "term": "Theory of the second best",
+      "page": "Theory of the second best",
+      "url": "https://en.wikipedia.org/wiki/Theory_of_the_second_best",
+      "in_degree": 0
+    },
+    {
+      "term": "Move by nature",
+      "page": "Move by nature",
+      "url": "https://en.wikipedia.org/wiki/Move_by_nature",
+      "in_degree": 0
+    },
+    {
+      "term": "Corner solution",
+      "page": "Corner solution",
+      "url": "https://en.wikipedia.org/wiki/Corner_solution",
+      "in_degree": 0
+    },
+    {
+      "term": "Subgame",
+      "page": "Subgame",
+      "url": "https://en.wikipedia.org/wiki/Subgame",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:B-Class game theory articles",
+      "page": "Category:B-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:B-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Lump-sum tax",
+      "page": "Lump-sum tax",
+      "url": "https://en.wikipedia.org/wiki/Lump-sum_tax",
+      "in_degree": 0
+    },
+    {
+      "term": "Collaboration vouchers",
+      "page": "Collaboration vouchers",
+      "url": "https://en.wikipedia.org/wiki/Collaboration_vouchers",
+      "in_degree": 0
+    },
+    {
+      "term": "Budget-feasible mechanism",
+      "page": "Budget-feasible mechanism",
+      "url": "https://en.wikipedia.org/wiki/Budget-feasible_mechanism",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare rights",
+      "page": "Welfare rights",
+      "url": "https://en.wikipedia.org/wiki/Welfare_rights",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Well-being",
+      "page": "Category:Well-being",
+      "url": "https://en.wikipedia.org/wiki/Category:Well-being",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Social deduction games",
+      "page": "Category:Social deduction games",
+      "url": "https://en.wikipedia.org/wiki/Category:Social_deduction_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Lexicographic preferences",
+      "page": "Lexicographic preferences",
+      "url": "https://en.wikipedia.org/wiki/Lexicographic_preferences",
+      "in_degree": 1
+    },
+    {
+      "term": "Cultural group selection",
+      "page": "Cultural group selection",
+      "url": "https://en.wikipedia.org/wiki/Cultural_group_selection",
+      "in_degree": 0
+    },
+    {
+      "term": "Two-player game",
+      "page": "Two-player game",
+      "url": "https://en.wikipedia.org/wiki/Two-player_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Stub-Class game theory articles",
+      "page": "Category:Stub-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Stub-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:C-Class game theory articles",
+      "page": "Category:C-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:C-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Fair division",
+      "page": "Fair division",
+      "url": "https://en.wikipedia.org/wiki/Fair_division",
+      "in_degree": 1
+    },
+    {
+      "term": "Chomp",
+      "page": "Chomp",
+      "url": "https://en.wikipedia.org/wiki/Chomp",
+      "in_degree": 2
+    },
+    {
+      "term": "Potential game",
+      "page": "Potential game",
+      "url": "https://en.wikipedia.org/wiki/Potential_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:NA-importance game theory pages",
+      "page": "Category:NA-importance game theory pages",
+      "url": "https://en.wikipedia.org/wiki/Category:NA-importance_game_theory_pages",
+      "in_degree": 0
+    },
+    {
+      "term": "Compensation principle",
+      "page": "Compensation principle",
+      "url": "https://en.wikipedia.org/wiki/Compensation_principle",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:A-Class game theory articles",
+      "page": "Category:A-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:A-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Uncorrelated asymmetry",
+      "page": "Uncorrelated asymmetry",
+      "url": "https://en.wikipedia.org/wiki/Uncorrelated_asymmetry",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Fair division",
+      "page": "Category:Fair division",
+      "url": "https://en.wikipedia.org/wiki/Category:Fair_division",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic opportunism",
+      "page": "Economic opportunism",
+      "url": "https://en.wikipedia.org/wiki/Economic_opportunism",
+      "in_degree": 0
+    },
+    {
+      "term": "Anonymous game",
+      "page": "Anonymous game",
+      "url": "https://en.wikipedia.org/wiki/Anonymous_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Markov perfect equilibrium",
+      "page": "Markov perfect equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Markov_perfect_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Maddison Project",
+      "page": "Maddison Project",
+      "url": "https://en.wikipedia.org/wiki/Maddison_Project",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategic dominance",
+      "page": "Strategic dominance",
+      "url": "https://en.wikipedia.org/wiki/Strategic_dominance",
+      "in_degree": 2
+    },
+    {
+      "term": "Category:Elasticity",
+      "page": "Category:Elasticity (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Elasticity_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Make-work job",
+      "page": "Make-work job",
+      "url": "https://en.wikipedia.org/wiki/Make-work_job",
+      "in_degree": 0
+    },
+    {
+      "term": "Zero game",
+      "page": "Zero game",
+      "url": "https://en.wikipedia.org/wiki/Zero_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Luxembourg Income Study",
+      "page": "Luxembourg Income Study",
+      "url": "https://en.wikipedia.org/wiki/Luxembourg_Income_Study",
+      "in_degree": 0
+    },
+    {
+      "term": "Stochastic game",
+      "page": "Stochastic game",
+      "url": "https://en.wikipedia.org/wiki/Stochastic_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Jens Eisert",
+      "page": "Jens Eisert",
+      "url": "https://en.wikipedia.org/wiki/Jens_Eisert",
+      "in_degree": 1
+    },
+    {
+      "term": "Multi-stage game",
+      "page": "Multi-stage game",
+      "url": "https://en.wikipedia.org/wiki/Multi-stage_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Ambiguity aversion",
+      "page": "Ambiguity aversion",
+      "url": "https://en.wikipedia.org/wiki/Ambiguity_aversion",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Intertemporal economics",
+      "page": "Category:Intertemporal economics",
+      "url": "https://en.wikipedia.org/wiki/Category:Intertemporal_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Robin Hood effect",
+      "page": "Robin Hood effect",
+      "url": "https://en.wikipedia.org/wiki/Robin_Hood_effect",
+      "in_degree": 0
+    },
+    {
+      "term": "Transferable utility",
+      "page": "Transferable utility",
+      "url": "https://en.wikipedia.org/wiki/Transferable_utility",
+      "in_degree": 1
+    },
+    {
+      "term": "Perfect competition",
+      "page": "Perfect competition",
+      "url": "https://en.wikipedia.org/wiki/Perfect_competition",
+      "in_degree": 0
+    },
+    {
+      "term": "Consumer behaviour",
+      "page": "Consumer behaviour",
+      "url": "https://en.wikipedia.org/wiki/Consumer_behaviour",
+      "in_degree": 1
+    },
+    {
+      "term": "Revealed preference",
+      "page": "Revealed preference",
+      "url": "https://en.wikipedia.org/wiki/Revealed_preference",
+      "in_degree": 1
+    },
+    {
+      "term": "Value of a statistical life",
+      "page": "Value of a statistical life",
+      "url": "https://en.wikipedia.org/wiki/Value_of_a_statistical_life",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfarism",
+      "page": "Welfarism",
+      "url": "https://en.wikipedia.org/wiki/Welfarism",
+      "in_degree": 0
+    },
+    {
+      "term": "Hobbesian trap",
+      "page": "Hobbesian trap",
+      "url": "https://en.wikipedia.org/wiki/Hobbesian_trap",
+      "in_degree": 0
+    },
+    {
+      "term": "Homo economicus",
+      "page": "Homo economicus",
+      "url": "https://en.wikipedia.org/wiki/Homo_economicus",
+      "in_degree": 1
+    },
+    {
+      "term": "Markov strategy",
+      "page": "Markov strategy",
+      "url": "https://en.wikipedia.org/wiki/Markov_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Elasticity",
+      "page": "Elasticity (economics)",
+      "url": "https://en.wikipedia.org/wiki/Elasticity_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Generalized game",
+      "page": "Generalized game",
+      "url": "https://en.wikipedia.org/wiki/Generalized_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Glossary of game theory",
+      "page": "Glossary of game theory",
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_game_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Social protection floor",
+      "page": "Social protection floor",
+      "url": "https://en.wikipedia.org/wiki/Social_protection_floor",
+      "in_degree": 0
+    },
+    {
+      "term": "Liberalization",
+      "page": "Liberalization",
+      "url": "https://en.wikipedia.org/wiki/Liberalization",
+      "in_degree": 0
+    },
+    {
+      "term": "Angel problem",
+      "page": "Angel problem",
+      "url": "https://en.wikipedia.org/wiki/Angel_problem",
+      "in_degree": 1
+    },
+    {
+      "term": "Social software",
+      "page": "Social software (research field)",
+      "url": "https://en.wikipedia.org/wiki/Social_software_(research_field)",
+      "in_degree": 0
+    },
+    {
+      "term": "Stable matching problem",
+      "page": "Stable matching problem",
+      "url": "https://en.wikipedia.org/wiki/Stable_matching_problem",
+      "in_degree": 0
+    },
+    {
+      "term": "Wikipedia:WikiProject Game theory",
+      "page": "Wikipedia:WikiProject Game theory",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Sir Philip Sidney game",
+      "page": "Sir Philip Sidney game",
+      "url": "https://en.wikipedia.org/wiki/Sir_Philip_Sidney_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Market segmentation",
+      "page": "Category:Market segmentation",
+      "url": "https://en.wikipedia.org/wiki/Category:Market_segmentation",
+      "in_degree": 0
+    },
+    {
+      "term": "National Competition Policy",
+      "page": "National Competition Policy (Australia)",
+      "url": "https://en.wikipedia.org/wiki/National_Competition_Policy_(Australia)",
+      "in_degree": 0
+    },
+    {
+      "term": "Rollout",
+      "page": "Rollout (backgammon)",
+      "url": "https://en.wikipedia.org/wiki/Rollout_(backgammon)",
+      "in_degree": 0
+    },
+    {
+      "term": "Complete information",
+      "page": "Complete information",
+      "url": "https://en.wikipedia.org/wiki/Complete_information",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:GA-Class game theory articles",
+      "page": "Category:GA-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:GA-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Col",
+      "page": "Col (game)",
+      "url": "https://en.wikipedia.org/wiki/Col_(game)",
+      "in_degree": 0
+    },
+    {
+      "term": "Mutual knowledge",
+      "page": "Mutual knowledge (logic)",
+      "url": "https://en.wikipedia.org/wiki/Mutual_knowledge_(logic)",
+      "in_degree": 0
+    },
+    {
+      "term": "Heresthetic",
+      "page": "Heresthetic",
+      "url": "https://en.wikipedia.org/wiki/Heresthetic",
+      "in_degree": 0
+    },
+    {
+      "term": "Rubinstein bargaining model",
+      "page": "Rubinstein bargaining model",
+      "url": "https://en.wikipedia.org/wiki/Rubinstein_bargaining_model",
+      "in_degree": 0
+    },
+    {
+      "term": "Cellophane paradox",
+      "page": "Cellophane paradox",
+      "url": "https://en.wikipedia.org/wiki/Cellophane_paradox",
+      "in_degree": 0
+    },
+    {
+      "term": "Solved game",
+      "page": "Solved game",
+      "url": "https://en.wikipedia.org/wiki/Solved_game",
+      "in_degree": 3
+    },
+    {
+      "term": "Go and mathematics",
+      "page": "Go and mathematics",
+      "url": "https://en.wikipedia.org/wiki/Go_and_mathematics",
+      "in_degree": 2
+    },
+    {
+      "term": "Leapfrogging",
+      "page": "Leapfrogging",
+      "url": "https://en.wikipedia.org/wiki/Leapfrogging",
+      "in_degree": 0
+    },
+    {
+      "term": "Structural adjustment",
+      "page": "Structural adjustment",
+      "url": "https://en.wikipedia.org/wiki/Structural_adjustment",
+      "in_degree": 0
+    },
+    {
+      "term": "Variation",
+      "page": "Variation (game tree)",
+      "url": "https://en.wikipedia.org/wiki/Variation_(game_tree)",
+      "in_degree": 1
+    },
+    {
+      "term": "Terminal investment hypothesis",
+      "page": "Terminal investment hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Terminal_investment_hypothesis",
+      "in_degree": 0
+    },
+    {
+      "term": "Unique bid auction",
+      "page": "Unique bid auction",
+      "url": "https://en.wikipedia.org/wiki/Unique_bid_auction",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionary economics",
+      "page": "Evolutionary economics",
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_economics",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionarily stable set",
+      "page": "Evolutionarily stable set",
+      "url": "https://en.wikipedia.org/wiki/Evolutionarily_stable_set",
+      "in_degree": 0
+    },
+    {
+      "term": "Parthasarathy's theorem",
+      "page": "Parthasarathy's theorem",
+      "url": "https://en.wikipedia.org/wiki/Parthasarathy's_theorem",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Decision theory",
+      "page": "Category:Decision theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Decision_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Services",
+      "page": "Category:Services (economics)",
+      "url": "https://en.wikipedia.org/wiki/Category:Services_(economics)",
+      "in_degree": 0
+    },
+    {
+      "term": "Theil index",
+      "page": "Theil index",
+      "url": "https://en.wikipedia.org/wiki/Theil_index",
+      "in_degree": 0
+    },
+    {
+      "term": "Market structure",
+      "page": "Market structure",
+      "url": "https://en.wikipedia.org/wiki/Market_structure",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Microeconomics stubs",
+      "page": "Category:Microeconomics stubs",
+      "url": "https://en.wikipedia.org/wiki/Category:Microeconomics_stubs",
+      "in_degree": 0
+    },
+    {
+      "term": "Countersignaling",
+      "page": "Countersignaling",
+      "url": "https://en.wikipedia.org/wiki/Countersignaling",
+      "in_degree": 0
+    },
+    {
+      "term": "Social rationality",
+      "page": "Social rationality",
+      "url": "https://en.wikipedia.org/wiki/Social_rationality",
+      "in_degree": 0
+    },
+    {
+      "term": "Appeasement",
+      "page": "Appeasement",
+      "url": "https://en.wikipedia.org/wiki/Appeasement",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionarily stable state",
+      "page": "Evolutionarily stable state",
+      "url": "https://en.wikipedia.org/wiki/Evolutionarily_stable_state",
+      "in_degree": 1
+    },
+    {
+      "term": "Non-credible threat",
+      "page": "Non-credible threat",
+      "url": "https://en.wikipedia.org/wiki/Non-credible_threat",
+      "in_degree": 0
+    },
+    {
+      "term": "Game tree",
+      "page": "Game tree",
+      "url": "https://en.wikipedia.org/wiki/Game_tree",
+      "in_degree": 2
+    },
+    {
+      "term": "Microeconomic reform",
+      "page": "Microeconomic reform",
+      "url": "https://en.wikipedia.org/wiki/Microeconomic_reform",
+      "in_degree": 0
+    },
+    {
+      "term": "Win–win game",
+      "page": "Win–win game",
+      "url": "https://en.wikipedia.org/wiki/Win–win_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Happiness economics",
+      "page": "Happiness economics",
+      "url": "https://en.wikipedia.org/wiki/Happiness_economics",
+      "in_degree": 1
+    },
+    {
+      "term": "Threshold population",
+      "page": "Threshold population",
+      "url": "https://en.wikipedia.org/wiki/Threshold_population",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Media related to game theory",
+      "page": "Category:Media related to game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Media_related_to_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Clobber",
+      "page": "Clobber",
+      "url": "https://en.wikipedia.org/wiki/Clobber",
+      "in_degree": 0
+    },
+    {
+      "term": "Consumer sovereignty",
+      "page": "Consumer sovereignty",
+      "url": "https://en.wikipedia.org/wiki/Consumer_sovereignty",
+      "in_degree": 1
+    },
+    {
+      "term": "Swap regret",
+      "page": "Swap regret",
+      "url": "https://en.wikipedia.org/wiki/Swap_regret",
+      "in_degree": 0
+    },
+    {
+      "term": "Infinite chess",
+      "page": "Infinite chess",
+      "url": "https://en.wikipedia.org/wiki/Infinite_chess",
+      "in_degree": 0
+    },
+    {
+      "term": "Strong Nash equilibrium",
+      "page": "Strong Nash equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Strong_Nash_equilibrium",
+      "in_degree": 3
+    },
+    {
+      "term": "Robinson Crusoe economy",
+      "page": "Robinson Crusoe economy",
+      "url": "https://en.wikipedia.org/wiki/Robinson_Crusoe_economy",
+      "in_degree": 0
+    },
+    {
+      "term": "Price of anarchy in auctions",
+      "page": "Price of anarchy in auctions",
+      "url": "https://en.wikipedia.org/wiki/Price_of_anarchy_in_auctions",
+      "in_degree": 0
+    },
+    {
+      "term": "Move ordering",
+      "page": "Move ordering",
+      "url": "https://en.wikipedia.org/wiki/Move_ordering",
+      "in_degree": 1
+    },
+    {
+      "term": "Indistinguishability quotient",
+      "page": "Indistinguishability quotient",
+      "url": "https://en.wikipedia.org/wiki/Indistinguishability_quotient",
+      "in_degree": 2
+    },
+    {
+      "term": "Arrow–Lind principle",
+      "page": "Arrow–Lind principle",
+      "url": "https://en.wikipedia.org/wiki/Arrow–Lind_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Minimax",
+      "page": "Minimax",
+      "url": "https://en.wikipedia.org/wiki/Minimax",
+      "in_degree": 3
+    },
+    {
+      "term": "Option value",
+      "page": "Option value (cost–benefit analysis)",
+      "url": "https://en.wikipedia.org/wiki/Option_value_(cost–benefit_analysis)",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Shogi theory",
+      "page": "Category:Shogi theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Shogi_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Game semantics",
+      "page": "Game semantics",
+      "url": "https://en.wikipedia.org/wiki/Game_semantics",
+      "in_degree": 0
+    },
+    {
+      "term": "Cheap talk",
+      "page": "Cheap talk",
+      "url": "https://en.wikipedia.org/wiki/Cheap_talk",
+      "in_degree": 3
+    },
+    {
+      "term": "Blockbusting",
+      "page": "Blockbusting (game)",
+      "url": "https://en.wikipedia.org/wiki/Blockbusting_(game)",
+      "in_degree": 0
+    },
+    {
+      "term": "Game theory",
+      "page": "Game theory",
+      "url": "https://en.wikipedia.org/wiki/Game_theory",
+      "in_degree": 25
+    },
+    {
+      "term": "Engel curve",
+      "page": "Engel curve",
+      "url": "https://en.wikipedia.org/wiki/Engel_curve",
+      "in_degree": 1
+    },
+    {
+      "term": "Normal-form game",
+      "page": "Normal-form game",
+      "url": "https://en.wikipedia.org/wiki/Normal-form_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Motivation crowding theory",
+      "page": "Motivation crowding theory",
+      "url": "https://en.wikipedia.org/wiki/Motivation_crowding_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "CC–PP game",
+      "page": "CC–PP game",
+      "url": "https://en.wikipedia.org/wiki/CC–PP_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Veblen good",
+      "page": "Veblen good",
+      "url": "https://en.wikipedia.org/wiki/Veblen_good",
+      "in_degree": 2
+    },
+    {
+      "term": "Sim",
+      "page": "Sim (game)",
+      "url": "https://en.wikipedia.org/wiki/Sim_(game)",
+      "in_degree": 0
+    },
+    {
+      "term": "Hierarchy of beliefs",
+      "page": "Hierarchy of beliefs",
+      "url": "https://en.wikipedia.org/wiki/Hierarchy_of_beliefs",
+      "in_degree": 0
+    },
+    {
+      "term": "Sunk cost",
+      "page": "Sunk cost",
+      "url": "https://en.wikipedia.org/wiki/Sunk_cost",
+      "in_degree": 0
+    },
+    {
+      "term": "Alpha–beta pruning",
+      "page": "Alpha–beta pruning",
+      "url": "https://en.wikipedia.org/wiki/Alpha–beta_pruning",
+      "in_degree": 2
+    },
+    {
+      "term": "Bandwidth-sharing game",
+      "page": "Bandwidth-sharing game",
+      "url": "https://en.wikipedia.org/wiki/Bandwidth-sharing_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Market fragmentation",
+      "page": "Market fragmentation",
+      "url": "https://en.wikipedia.org/wiki/Market_fragmentation",
+      "in_degree": 0
+    },
+    {
+      "term": "Symmetric game",
+      "page": "Symmetric game",
+      "url": "https://en.wikipedia.org/wiki/Symmetric_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Cost of living",
+      "page": "Cost of living",
+      "url": "https://en.wikipedia.org/wiki/Cost_of_living",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Game theory game classes",
+      "page": "Category:Game theory game classes",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_game_classes",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionary dynamics",
+      "page": "Evolutionary dynamics",
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_dynamics",
+      "in_degree": 0
+    },
+    {
+      "term": "Game Theory Society",
+      "page": "Game Theory Society",
+      "url": "https://en.wikipedia.org/wiki/Game_Theory_Society",
+      "in_degree": 0
+    },
+    {
+      "term": "Offer curve",
+      "page": "Offer curve",
+      "url": "https://en.wikipedia.org/wiki/Offer_curve",
+      "in_degree": 0
+    },
+    {
+      "term": "Berge equilibrium",
+      "page": "Berge equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Berge_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Consensus dynamics",
+      "page": "Consensus dynamics",
+      "url": "https://en.wikipedia.org/wiki/Consensus_dynamics",
+      "in_degree": 0
+    },
+    {
+      "term": "Genuine progress indicator",
+      "page": "Genuine progress indicator",
+      "url": "https://en.wikipedia.org/wiki/Genuine_progress_indicator",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Low-importance game theory articles",
+      "page": "Category:Low-importance game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:Low-importance_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Welfare chauvinism",
+      "page": "Welfare chauvinism",
+      "url": "https://en.wikipedia.org/wiki/Welfare_chauvinism",
+      "in_degree": 0
+    },
+    {
+      "term": "Finite game",
+      "page": "Finite game",
+      "url": "https://en.wikipedia.org/wiki/Finite_game",
+      "in_degree": 1
+    },
+    {
+      "term": "De-escalation",
+      "page": "De-escalation",
+      "url": "https://en.wikipedia.org/wiki/De-escalation",
+      "in_degree": 0
+    },
+    {
+      "term": "Zero-player game",
+      "page": "Zero-player game",
+      "url": "https://en.wikipedia.org/wiki/Zero-player_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Optimal firm size",
+      "page": "Optimal firm size",
+      "url": "https://en.wikipedia.org/wiki/Optimal_firm_size",
+      "in_degree": 0
+    },
+    {
+      "term": "Bayesian game",
+      "page": "Bayesian game",
+      "url": "https://en.wikipedia.org/wiki/Bayesian_game",
+      "in_degree": 5
+    },
+    {
+      "term": "Category:Game theory",
+      "page": "Category:Game theory",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Stochastically stable equilibrium",
+      "page": "Stochastically stable equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Stochastically_stable_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Strategyproofness",
+      "page": "Strategyproofness",
+      "url": "https://en.wikipedia.org/wiki/Strategyproofness",
+      "in_degree": 0
+    },
+    {
+      "term": "Spite",
+      "page": "Spite (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Spite_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Banzhaf power index",
+      "page": "Banzhaf power index",
+      "url": "https://en.wikipedia.org/wiki/Banzhaf_power_index",
+      "in_degree": 1
+    },
+    {
+      "term": "Bid shading",
+      "page": "Bid shading",
+      "url": "https://en.wikipedia.org/wiki/Bid_shading",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Incentives",
+      "page": "Category:Incentives",
+      "url": "https://en.wikipedia.org/wiki/Category:Incentives",
+      "in_degree": 0
+    },
+    {
+      "term": "Search-and-matching theory",
+      "page": "Search-and-matching theory",
+      "url": "https://en.wikipedia.org/wiki/Search-and-matching_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Poverty threshold",
+      "page": "Poverty threshold",
+      "url": "https://en.wikipedia.org/wiki/Poverty_threshold",
+      "in_degree": 0
+    },
+    {
+      "term": "Market game",
+      "page": "Market game",
+      "url": "https://en.wikipedia.org/wiki/Market_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Mathematics of Operations Research",
+      "page": "Mathematics of Operations Research",
+      "url": "https://en.wikipedia.org/wiki/Mathematics_of_Operations_Research",
+      "in_degree": 1
+    },
+    {
+      "term": "Dynamic inconsistency",
+      "page": "Dynamic inconsistency",
+      "url": "https://en.wikipedia.org/wiki/Dynamic_inconsistency",
+      "in_degree": 1
+    },
+    {
+      "term": "Income deficit",
+      "page": "Income deficit",
+      "url": "https://en.wikipedia.org/wiki/Income_deficit",
+      "in_degree": 0
+    },
+    {
+      "term": "Non-atomic game",
+      "page": "Non-atomic game",
+      "url": "https://en.wikipedia.org/wiki/Non-atomic_game",
+      "in_degree": 0
+    },
+    {
+      "term": "Capability approach",
+      "page": "Capability approach",
+      "url": "https://en.wikipedia.org/wiki/Capability_approach",
+      "in_degree": 0
+    },
+    {
+      "term": "Explore-then-commit algorithm",
+      "page": "Explore-then-commit algorithm",
+      "url": "https://en.wikipedia.org/wiki/Explore-then-commit_algorithm",
+      "in_degree": 0
+    },
+    {
+      "term": "Ply",
+      "page": "Ply (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Ply_(game_theory)",
+      "in_degree": 1
+    },
+    {
+      "term": "Analytic narrative",
+      "page": "Analytic narrative",
+      "url": "https://en.wikipedia.org/wiki/Analytic_narrative",
+      "in_degree": 0
+    },
+    {
+      "term": "Social value orientations",
+      "page": "Social value orientations",
+      "url": "https://en.wikipedia.org/wiki/Social_value_orientations",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategy-stealing argument",
+      "page": "Strategy-stealing argument",
+      "url": "https://en.wikipedia.org/wiki/Strategy-stealing_argument",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Zero-sum games",
+      "page": "Category:Zero-sum games",
+      "url": "https://en.wikipedia.org/wiki/Category:Zero-sum_games",
+      "in_degree": 0
+    },
+    {
+      "term": "Search theory",
+      "page": "Search theory",
+      "url": "https://en.wikipedia.org/wiki/Search_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Separating equilibrium",
+      "page": "Separating equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Separating_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Poker strategy",
+      "page": "Category:Poker strategy",
+      "url": "https://en.wikipedia.org/wiki/Category:Poker_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Subgame perfect equilibrium",
+      "page": "Subgame perfect equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Subgame_perfect_equilibrium",
+      "in_degree": 5
+    },
+    {
+      "term": "Compositional game theory",
+      "page": "Compositional game theory",
+      "url": "https://en.wikipedia.org/wiki/Compositional_game_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Monopoly",
+      "page": "Monopoly",
+      "url": "https://en.wikipedia.org/wiki/Monopoly",
+      "in_degree": 3
+    },
+    {
+      "term": "Consideration set",
+      "page": "Consideration set",
+      "url": "https://en.wikipedia.org/wiki/Consideration_set",
+      "in_degree": 0
+    },
+    {
+      "term": "Cursed equilibrium",
+      "page": "Cursed equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Cursed_equilibrium",
+      "in_degree": 0
+    },
+    {
+      "term": "Evolutionary attractor",
+      "page": "Evolutionary attractor",
+      "url": "https://en.wikipedia.org/wiki/Evolutionary_attractor",
+      "in_degree": 0
+    },
+    {
+      "term": "Signaling game",
+      "page": "Signaling game",
+      "url": "https://en.wikipedia.org/wiki/Signaling_game",
+      "in_degree": 2
+    },
+    {
+      "term": "Fisher's principle",
+      "page": "Fisher's principle",
+      "url": "https://en.wikipedia.org/wiki/Fisher's_principle",
+      "in_degree": 0
+    },
+    {
+      "term": "Disability rights in Israel",
+      "page": "Disability rights in Israel",
+      "url": "https://en.wikipedia.org/wiki/Disability_rights_in_Israel",
+      "in_degree": 0
+    },
+    {
+      "term": "Parrondo's paradox",
+      "page": "Parrondo's paradox",
+      "url": "https://en.wikipedia.org/wiki/Parrondo's_paradox",
+      "in_degree": 0
+    },
+    {
+      "term": "Negotiation theory",
+      "page": "Negotiation theory",
+      "url": "https://en.wikipedia.org/wiki/Negotiation_theory",
+      "in_degree": 0
+    },
+    {
+      "term": "Core",
+      "page": "Core (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Core_(game_theory)",
+      "in_degree": 0
+    },
+    {
+      "term": "Substitute good",
+      "page": "Substitute good",
+      "url": "https://en.wikipedia.org/wiki/Substitute_good",
+      "in_degree": 0
+    },
+    {
+      "term": "Social democracy",
+      "page": "Social democracy",
+      "url": "https://en.wikipedia.org/wiki/Social_democracy",
+      "in_degree": 0
+    },
+    {
+      "term": "Cost–benefit analysis",
+      "page": "Cost–benefit analysis",
+      "url": "https://en.wikipedia.org/wiki/Cost–benefit_analysis",
+      "in_degree": 0
+    },
+    {
+      "term": "Perfect recall",
+      "page": "Perfect recall (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Perfect_recall_(game_theory)",
+      "in_degree": 1
+    },
+    {
+      "term": "Market share",
+      "page": "Market share",
+      "url": "https://en.wikipedia.org/wiki/Market_share",
+      "in_degree": 2
+    },
+    {
+      "term": "Elasticity of substitution",
+      "page": "Elasticity of substitution",
+      "url": "https://en.wikipedia.org/wiki/Elasticity_of_substitution",
+      "in_degree": 1
+    },
+    {
+      "term": "Move generation",
+      "page": "Move generation",
+      "url": "https://en.wikipedia.org/wiki/Move_generation",
+      "in_degree": 0
+    },
+    {
+      "term": "Tiny and miny",
+      "page": "Tiny and miny",
+      "url": "https://en.wikipedia.org/wiki/Tiny_and_miny",
+      "in_degree": 0
+    },
+    {
+      "term": "Collusion",
+      "page": "Collusion",
+      "url": "https://en.wikipedia.org/wiki/Collusion",
+      "in_degree": 0
+    },
+    {
+      "term": "Microfoundations",
+      "page": "Microfoundations",
+      "url": "https://en.wikipedia.org/wiki/Microfoundations",
+      "in_degree": 0
+    },
+    {
+      "term": "Social trap",
+      "page": "Social trap",
+      "url": "https://en.wikipedia.org/wiki/Social_trap",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Determinacy",
+      "page": "Category:Determinacy",
+      "url": "https://en.wikipedia.org/wiki/Category:Determinacy",
+      "in_degree": 0
+    },
+    {
+      "term": "Incomplete contracts",
+      "page": "Incomplete contracts",
+      "url": "https://en.wikipedia.org/wiki/Incomplete_contracts",
+      "in_degree": 0
+    },
+    {
+      "term": "Purification theorem",
+      "page": "Purification theorem",
+      "url": "https://en.wikipedia.org/wiki/Purification_theorem",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Economics of uncertainty",
+      "page": "Category:Economics of uncertainty",
+      "url": "https://en.wikipedia.org/wiki/Category:Economics_of_uncertainty",
+      "in_degree": 0
+    },
+    {
+      "term": "Misère",
+      "page": "Misère",
+      "url": "https://en.wikipedia.org/wiki/Misère",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Tragedy of the commons",
+      "page": "Category:Tragedy of the commons",
+      "url": "https://en.wikipedia.org/wiki/Category:Tragedy_of_the_commons",
+      "in_degree": 0
+    },
+    {
+      "term": "Nash equilibrium computation",
+      "page": "Nash equilibrium computation",
+      "url": "https://en.wikipedia.org/wiki/Nash_equilibrium_computation",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:FA-Class game theory articles",
+      "page": "Category:FA-Class game theory articles",
+      "url": "https://en.wikipedia.org/wiki/Category:FA-Class_game_theory_articles",
+      "in_degree": 0
+    },
+    {
+      "term": "Fei–Ranis model of economic growth",
+      "page": "Fei–Ranis model of economic growth",
+      "url": "https://en.wikipedia.org/wiki/Fei–Ranis_model_of_economic_growth",
+      "in_degree": 0
+    },
+    {
+      "term": "Strategy",
+      "page": "Strategy (game theory)",
+      "url": "https://en.wikipedia.org/wiki/Strategy_(game_theory)",
+      "in_degree": 4
+    },
+    {
+      "term": "Subjective expected relative similarity",
+      "page": "Subjective expected relative similarity",
+      "url": "https://en.wikipedia.org/wiki/Subjective_expected_relative_similarity",
+      "in_degree": 0
+    },
+    {
+      "term": "Pairing strategy",
+      "page": "Pairing strategy",
+      "url": "https://en.wikipedia.org/wiki/Pairing_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Unemployment insurance in Japan",
+      "page": "Unemployment insurance in Japan",
+      "url": "https://en.wikipedia.org/wiki/Unemployment_insurance_in_Japan",
+      "in_degree": 0
+    },
+    {
+      "term": "Proper equilibrium",
+      "page": "Proper equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Proper_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Welfare benefit simplification",
+      "page": "Welfare benefit simplification",
+      "url": "https://en.wikipedia.org/wiki/Welfare_benefit_simplification",
+      "in_degree": 0
+    },
+    {
+      "term": "Dialogical logic",
+      "page": "Dialogical logic",
+      "url": "https://en.wikipedia.org/wiki/Dialogical_logic",
+      "in_degree": 0
+    },
+    {
+      "term": "Competition law",
+      "page": "Competition law",
+      "url": "https://en.wikipedia.org/wiki/Competition_law",
+      "in_degree": 2
+    },
+    {
+      "term": "Information economics",
+      "page": "Information economics",
+      "url": "https://en.wikipedia.org/wiki/Information_economics",
+      "in_degree": 2
+    },
+    {
+      "term": "Privatisation in Australia",
+      "page": "Privatisation in Australia",
+      "url": "https://en.wikipedia.org/wiki/Privatisation_in_Australia",
+      "in_degree": 0
+    },
+    {
+      "term": "Risk dominance",
+      "page": "Risk dominance",
+      "url": "https://en.wikipedia.org/wiki/Risk_dominance",
+      "in_degree": 0
+    },
+    {
+      "term": "Kalai–Smorodinsky bargaining solution",
+      "page": "Kalai–Smorodinsky bargaining solution",
+      "url": "https://en.wikipedia.org/wiki/Kalai–Smorodinsky_bargaining_solution",
+      "in_degree": 0
+    },
+    {
+      "term": "Bayesian efficiency",
+      "page": "Bayesian efficiency",
+      "url": "https://en.wikipedia.org/wiki/Bayesian_efficiency",
+      "in_degree": 0
+    },
+    {
+      "term": "Pooling equilibrium",
+      "page": "Pooling equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Pooling_equilibrium",
+      "in_degree": 1
+    },
+    {
+      "term": "Suits index",
+      "page": "Suits index",
+      "url": "https://en.wikipedia.org/wiki/Suits_index",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Combinatorial game theorists",
+      "page": "Category:Combinatorial game theorists",
+      "url": "https://en.wikipedia.org/wiki/Category:Combinatorial_game_theorists",
+      "in_degree": 0
+    },
+    {
+      "term": "Unbeatable strategy",
+      "page": "Unbeatable strategy",
+      "url": "https://en.wikipedia.org/wiki/Unbeatable_strategy",
+      "in_degree": 0
+    },
+    {
+      "term": "Economic surplus",
+      "page": "Economic surplus",
+      "url": "https://en.wikipedia.org/wiki/Economic_surplus",
+      "in_degree": 0
+    },
+    {
+      "term": "Sprague–Grundy theorem",
+      "page": "Sprague–Grundy theorem",
+      "url": "https://en.wikipedia.org/wiki/Sprague–Grundy_theorem",
+      "in_degree": 7
+    },
+    {
+      "term": "List of games in game theory",
+      "page": "List of games in game theory",
+      "url": "https://en.wikipedia.org/wiki/List_of_games_in_game_theory",
+      "in_degree": 1
+    },
+    {
+      "term": "Rationalizable strategy",
+      "page": "Rationalizable strategy",
+      "url": "https://en.wikipedia.org/wiki/Rationalizable_strategy",
+      "in_degree": 1
+    },
+    {
+      "term": "Marginal propensity to consume",
+      "page": "Marginal propensity to consume",
+      "url": "https://en.wikipedia.org/wiki/Marginal_propensity_to_consume",
+      "in_degree": 0
+    },
+    {
+      "term": "Category:Scarcity",
+      "page": "Category:Scarcity",
+      "url": "https://en.wikipedia.org/wiki/Category:Scarcity",
+      "in_degree": 0
+    },
+    {
+      "term": "Rational agent",
+      "page": "Rational agent",
+      "url": "https://en.wikipedia.org/wiki/Rational_agent",
+      "in_degree": 1
+    },
+    {
+      "term": "Partisan game",
+      "page": "Partisan game",
+      "url": "https://en.wikipedia.org/wiki/Partisan_game",
+      "in_degree": 1
+    },
+    {
+      "term": "Penrose square root law",
+      "page": "Penrose square root law",
+      "url": "https://en.wikipedia.org/wiki/Penrose_square_root_law",
+      "in_degree": 1
+    },
+    {
+      "term": "Category:Game theory user templates",
+      "page": "Category:Game theory user templates",
+      "url": "https://en.wikipedia.org/wiki/Category:Game_theory_user_templates",
+      "in_degree": 0
+    }
+  ],
+  "edges": [
+    [
+      "Duopoly",
+      "Monopoly"
+    ],
+    [
+      "Duopoly",
+      "Oligopoly"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Nash equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Stochastically stable equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Strong Nash equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Subgame perfect equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Trembling hand perfect equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Perfect Bayesian equilibrium"
+    ],
+    [
+      "Evolutionarily stable strategy",
+      "Evolutionary game theory"
+    ],
+    [
+      "Lorenz curve",
+      "Gini coefficient"
+    ],
+    [
+      "Minimax",
+      "Alpha–beta pruning"
+    ],
+    [
+      "Minimax",
+      "Expectiminimax"
+    ],
+    [
+      "Minimax",
+      "Monte Carlo tree search"
+    ],
+    [
+      "Minimax",
+      "Negamax"
+    ],
+    [
+      "Perfect competition",
+      "Economic equilibrium"
+    ],
+    [
+      "Sprague–Grundy theorem",
+      "Genus theory"
+    ],
+    [
+      "Sprague–Grundy theorem",
+      "Indistinguishability quotient"
+    ],
+    [
+      "Nash equilibrium",
+      "Epsilon-equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Correlated equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Evolutionarily stable strategy"
+    ],
+    [
+      "Nash equilibrium",
+      "Subgame perfect equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Perfect Bayesian equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Trembling hand perfect equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Strong Nash equilibrium"
+    ],
+    [
+      "Nash equilibrium",
+      "Strategy (game theory)"
+    ],
+    [
+      "Deadweight loss",
+      "Excess burden of taxation"
+    ],
+    [
+      "Deadweight loss",
+      "Pareto efficiency"
+    ],
+    [
+      "Economic surplus",
+      "Willingness to accept"
+    ],
+    [
+      "Kaldor–Hicks efficiency",
+      "Pareto efficiency"
+    ],
+    [
+      "Kaldor–Hicks efficiency",
+      "Compensation principle"
+    ],
+    [
+      "Kaldor–Hicks efficiency",
+      "Scitovsky paradox"
+    ],
+    [
+      "Impartial game",
+      "Nim"
+    ],
+    [
+      "Impartial game",
+      "Kayles"
+    ],
+    [
+      "Impartial game",
+      "Cram (game)"
+    ],
+    [
+      "Impartial game",
+      "Chomp"
+    ],
+    [
+      "Impartial game",
+      "Subtract a square"
+    ],
+    [
+      "Impartial game",
+      "Notakto"
+    ],
+    [
+      "Impartial game",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Impartial game",
+      "Domineering"
+    ],
+    [
+      "Alpha–beta pruning",
+      "Minimax"
+    ],
+    [
+      "Alpha–beta pruning",
+      "Expectiminimax"
+    ],
+    [
+      "Alpha–beta pruning",
+      "Negamax"
+    ],
+    [
+      "Alpha–beta pruning",
+      "Principal variation search"
+    ],
+    [
+      "Nimber",
+      "Nim"
+    ],
+    [
+      "Nimber",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Nimber",
+      "Domineering"
+    ],
+    [
+      "Nimber",
+      "Surreal number"
+    ],
+    [
+      "Liberalization",
+      "Deregulation"
+    ],
+    [
+      "Liberalization",
+      "Oligopoly"
+    ],
+    [
+      "Misère",
+      "Sylver coinage"
+    ],
+    [
+      "Public bad",
+      "Externality"
+    ],
+    [
+      "Economic equilibrium",
+      "General equilibrium theory"
+    ],
+    [
+      "Consumer choice",
+      "Preference (economics)"
+    ],
+    [
+      "Zero-player game",
+      "Two-player game"
+    ],
+    [
+      "Game tree",
+      "Game complexity"
+    ],
+    [
+      "Game tree",
+      "Monte Carlo tree search"
+    ],
+    [
+      "Tit for tat",
+      "Chicken (game)"
+    ],
+    [
+      "Tit for tat",
+      "Deterrence theory"
+    ],
+    [
+      "Superrationality",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Superrationality",
+      "Program equilibrium"
+    ],
+    [
+      "Game complexity",
+      "Combinatorial game theory"
+    ],
+    [
+      "Game complexity",
+      "Go and mathematics"
+    ],
+    [
+      "Game complexity",
+      "Solved game"
+    ],
+    [
+      "Game complexity",
+      "Shannon number"
+    ],
+    [
+      "Perfect information",
+      "Common knowledge (logic)"
+    ],
+    [
+      "Giffen good",
+      "Consumer choice"
+    ],
+    [
+      "Chicken (game)",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Chicken (game)",
+      "Zugzwang"
+    ],
+    [
+      "Veblen good",
+      "Giffen good"
+    ],
+    [
+      "Substitute good",
+      "Competition (economics)"
+    ],
+    [
+      "Incentive",
+      "Externality"
+    ],
+    [
+      "Incentive",
+      "Profit motive"
+    ],
+    [
+      "Substitution effect",
+      "Income–consumption curve"
+    ],
+    [
+      "Bertrand paradox (economics)",
+      "Bertrand–Edgeworth model"
+    ],
+    [
+      "Bertrand paradox (economics)",
+      "Edgeworth paradox"
+    ],
+    [
+      "Bertrand paradox (economics)",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Contract curve",
+      "Edgeworth box"
+    ],
+    [
+      "Game semantics",
+      "Game theory"
+    ],
+    [
+      "Minimax theorem",
+      "Parthasarathy's theorem"
+    ],
+    [
+      "Star (game theory)",
+      "Nimber"
+    ],
+    [
+      "Star (game theory)",
+      "Surreal number"
+    ],
+    [
+      "Platonia dilemma",
+      "Superrationality"
+    ],
+    [
+      "Expected utility hypothesis",
+      "Ambiguity aversion"
+    ],
+    [
+      "Expected utility hypothesis",
+      "Behavioral economics"
+    ],
+    [
+      "Expected utility hypothesis",
+      "Marginal utility"
+    ],
+    [
+      "Generalized game",
+      "Game complexity"
+    ],
+    [
+      "Generalized game",
+      "Combinatorial game theory"
+    ],
+    [
+      "Social planner",
+      "Fundamental theorems of welfare economics"
+    ],
+    [
+      "Social planner",
+      "Externality"
+    ],
+    [
+      "Social planner",
+      "Pareto efficiency"
+    ],
+    [
+      "Social planner",
+      "Social welfare function"
+    ],
+    [
+      "Social planner",
+      "Welfare economics"
+    ],
+    [
+      "Cornering the market",
+      "Competition (economics)"
+    ],
+    [
+      "Working poor",
+      "Welfare spending"
+    ],
+    [
+      "Snob effect",
+      "Veblen good"
+    ],
+    [
+      "Contingent cooperator",
+      "Tit for tat"
+    ],
+    [
+      "Engel's law",
+      "Engel curve"
+    ],
+    [
+      "Engel's law",
+      "Bennett's law"
+    ],
+    [
+      "Expenditure function",
+      "Expenditure minimization problem"
+    ],
+    [
+      "Expenditure function",
+      "Budget constraint"
+    ],
+    [
+      "Expenditure function",
+      "Shephard's lemma"
+    ],
+    [
+      "Rational agent",
+      "Homo economicus"
+    ],
+    [
+      "Subgame",
+      "Bayesian game"
+    ],
+    [
+      "Subgame",
+      "Nash equilibrium"
+    ],
+    [
+      "Dollar voting",
+      "Consumer sovereignty"
+    ],
+    [
+      "Cheap talk",
+      "Game theory"
+    ],
+    [
+      "Cheap talk",
+      "Screening game"
+    ],
+    [
+      "Cheap talk",
+      "Signaling game"
+    ],
+    [
+      "Signaling game",
+      "Bayesian game"
+    ],
+    [
+      "Signaling game",
+      "Cheap talk"
+    ],
+    [
+      "Signaling game",
+      "Intuitive criterion"
+    ],
+    [
+      "Signaling game",
+      "Divine equilibrium"
+    ],
+    [
+      "Signaling game",
+      "Screening game"
+    ],
+    [
+      "Signaling game",
+      "Signalling (economics)"
+    ],
+    [
+      "Conflict escalation",
+      "Escalation of commitment"
+    ],
+    [
+      "Strategy (game theory)",
+      "Nash equilibrium"
+    ],
+    [
+      "Strategy (game theory)",
+      "Evolutionarily stable strategy"
+    ],
+    [
+      "Edgeworth paradox",
+      "Bertrand paradox (economics)"
+    ],
+    [
+      "Edgeworth paradox",
+      "Bertrand–Edgeworth model"
+    ],
+    [
+      "Edgeworth paradox",
+      "Edgeworth box"
+    ],
+    [
+      "Fundamental theorems of welfare economics",
+      "General equilibrium theory"
+    ],
+    [
+      "Dynamic inconsistency",
+      "Rational agent"
+    ],
+    [
+      "False economy",
+      "Boots theory"
+    ],
+    [
+      "Complete information",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Perfect Bayesian equilibrium",
+      "Bayesian Nash equilibrium"
+    ],
+    [
+      "Perfect Bayesian equilibrium",
+      "Intuitive criterion"
+    ],
+    [
+      "Perfect Bayesian equilibrium",
+      "Divine equilibrium"
+    ],
+    [
+      "Equivalent variation",
+      "Welfare economics"
+    ],
+    [
+      "Market share analysis",
+      "Market share"
+    ],
+    [
+      "Normal-form game",
+      "Nash equilibrium"
+    ],
+    [
+      "Normal-form game",
+      "Strategy (game theory)"
+    ],
+    [
+      "Welfare definition of economics",
+      "Welfare economics"
+    ],
+    [
+      "Sequential game",
+      "Simultaneous game"
+    ],
+    [
+      "Sequential game",
+      "Subgame perfect equilibrium"
+    ],
+    [
+      "Backward induction",
+      "Minimax"
+    ],
+    [
+      "Induction puzzles",
+      "Common knowledge (logic)"
+    ],
+    [
+      "Win–win game",
+      "No-win situation"
+    ],
+    [
+      "Positional good",
+      "Veblen good"
+    ],
+    [
+      "Principal variation search",
+      "Variation (game tree)"
+    ],
+    [
+      "Market structure",
+      "Microeconomics"
+    ],
+    [
+      "Market structure",
+      "Stackelberg competition"
+    ],
+    [
+      "Market structure",
+      "Competition (economics)"
+    ],
+    [
+      "Strategic dominance",
+      "Strategy (game theory)"
+    ],
+    [
+      "Strategic dominance",
+      "Rationalizable strategy"
+    ],
+    [
+      "Strategic dominance",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Strategic dominance",
+      "Solution concept"
+    ],
+    [
+      "Mex (mathematics)",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Fictitious play",
+      "Nash equilibrium"
+    ],
+    [
+      "Fictitious play",
+      "Strategic dominance"
+    ],
+    [
+      "Banzhaf power index",
+      "Shapley–Shubik power index"
+    ],
+    [
+      "Banzhaf power index",
+      "Game theory"
+    ],
+    [
+      "Banzhaf power index",
+      "Penrose square root law"
+    ],
+    [
+      "Wikipedia:WikiProject Game theory",
+      "Nash equilibrium"
+    ],
+    [
+      "Wikipedia:WikiProject Game theory",
+      "Game theory"
+    ],
+    [
+      "Rationalizable strategy",
+      "Nash equilibrium"
+    ],
+    [
+      "Rationalizable strategy",
+      "Strategic dominance"
+    ],
+    [
+      "Chainstore paradox",
+      "Sequential game"
+    ],
+    [
+      "Symmetric equilibrium",
+      "Symmetric game"
+    ],
+    [
+      "Keynesian beauty contest",
+      "Comparative advantage"
+    ],
+    [
+      "Keynesian beauty contest",
+      "Focal point (game theory)"
+    ],
+    [
+      "Trembling hand perfect equilibrium",
+      "Proper equilibrium"
+    ],
+    [
+      "Trembling hand perfect equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Disjunctive sum",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Disjunctive sum",
+      "Nim"
+    ],
+    [
+      "Disjunctive sum",
+      "Domineering"
+    ],
+    [
+      "Map-coloring games",
+      "Angel problem"
+    ],
+    [
+      "Folk theorem (game theory)",
+      "Nash equilibrium"
+    ],
+    [
+      "Folk theorem (game theory)",
+      "Repeated game"
+    ],
+    [
+      "Repeated game",
+      "Nash equilibrium"
+    ],
+    [
+      "Hoover index",
+      "Lorenz curve"
+    ],
+    [
+      "Hoover index",
+      "Gini coefficient"
+    ],
+    [
+      "Correlated equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Ratchet effect",
+      "Tragedy of the commons"
+    ],
+    [
+      "Market concentration",
+      "Market share"
+    ],
+    [
+      "Outcome (game theory)",
+      "Expected utility hypothesis"
+    ],
+    [
+      "Permanent income hypothesis",
+      "Consumption smoothing"
+    ],
+    [
+      "Shannon number",
+      "Game complexity"
+    ],
+    [
+      "Shannon number",
+      "Combinatorial explosion"
+    ],
+    [
+      "Shannon number",
+      "Go and mathematics"
+    ],
+    [
+      "Competition (economics)",
+      "Competition law"
+    ],
+    [
+      "Competition (economics)",
+      "Comparative advantage"
+    ],
+    [
+      "Ambiguity aversion",
+      "Mathematics of Operations Research"
+    ],
+    [
+      "Sequential equilibrium",
+      "Subgame perfect equilibrium"
+    ],
+    [
+      "Sequential equilibrium",
+      "Bayesian game"
+    ],
+    [
+      "Sequential equilibrium",
+      "Trembling hand perfect equilibrium"
+    ],
+    [
+      "Sequential equilibrium",
+      "Quasi-perfect equilibrium"
+    ],
+    [
+      "Sequential equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Quasi-perfect equilibrium",
+      "Sequential equilibrium"
+    ],
+    [
+      "Quasi-perfect equilibrium",
+      "Trembling hand perfect equilibrium"
+    ],
+    [
+      "Category:Monopoly (economics)",
+      "Competition (economics)"
+    ],
+    [
+      "Backgammon opening theory",
+      "Game tree"
+    ],
+    [
+      "Frisch elasticity of labor supply",
+      "Elasticity of substitution"
+    ],
+    [
+      "Frisch elasticity of labor supply",
+      "Marginal revenue productivity theory of wages"
+    ],
+    [
+      "Manipulated Nash equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Manipulated Nash equilibrium",
+      "Subgame perfect equilibrium"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Evolutionarily stable strategy"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Perfect recall (game theory)"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Dynamic inconsistency"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Glossary of game theory"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Minimax theorem"
+    ],
+    [
+      "Subgame perfect equilibrium",
+      "Solution concept"
+    ],
+    [
+      "Quantum game theory",
+      "Quantum tic-tac-toe"
+    ],
+    [
+      "Quantum game theory",
+      "Quantum pseudo-telepathy"
+    ],
+    [
+      "Quantum game theory",
+      "Quantum refereed game"
+    ],
+    [
+      "Quantum game theory",
+      "Jan Sładkowski"
+    ],
+    [
+      "Quantum game theory",
+      "Jens Eisert"
+    ],
+    [
+      "Tacit collusion",
+      "Competition law"
+    ],
+    [
+      "Tacit collusion",
+      "Nash equilibrium"
+    ],
+    [
+      "Tacit collusion",
+      "Monopoly"
+    ],
+    [
+      "Tacit collusion",
+      "Oligopoly"
+    ],
+    [
+      "Roemer model of political competition",
+      "Nash equilibrium"
+    ],
+    [
+      "Compensation principle",
+      "Pareto efficiency"
+    ],
+    [
+      "Quantum tic-tac-toe",
+      "Quantum game theory"
+    ],
+    [
+      "Quantal response equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Quantal response equilibrium",
+      "Bounded rationality"
+    ],
+    [
+      "Quantal response equilibrium",
+      "Behavioral game theory"
+    ],
+    [
+      "Bayesian regret",
+      "Stochastic game"
+    ],
+    [
+      "CC–PP game",
+      "Externality"
+    ],
+    [
+      "CC–PP game",
+      "Tragedy of the commons"
+    ],
+    [
+      "CC–PP game",
+      "Nash equilibrium"
+    ],
+    [
+      "Economic justice",
+      "Fair division"
+    ],
+    [
+      "Economic justice",
+      "Behavioral economics"
+    ],
+    [
+      "Economic justice",
+      "Pareto efficiency"
+    ],
+    [
+      "Minimum efficient scale",
+      "Free entry"
+    ],
+    [
+      "Equilibrium selection",
+      "Nash equilibrium"
+    ],
+    [
+      "Stochastically stable equilibrium",
+      "Evolutionarily stable state"
+    ],
+    [
+      "Category:FA-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:A-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Game theory articles by quality",
+      "Game theory"
+    ],
+    [
+      "Category:GA-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:B-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Start-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Stub-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Unassessed game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Top-importance game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:High-importance game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Mid-importance game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Low-importance game theory articles",
+      "Game theory"
+    ],
+    [
+      "Category:Non-cooperative games",
+      "List of games in game theory"
+    ],
+    [
+      "Epsilon-equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Screening game",
+      "Cheap talk"
+    ],
+    [
+      "Screening game",
+      "Game theory"
+    ],
+    [
+      "Screening game",
+      "Signalling (economics)"
+    ],
+    [
+      "Subtract a square",
+      "Nim"
+    ],
+    [
+      "Grundy's game",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Grundy's game",
+      "Nim"
+    ],
+    [
+      "Implementation theory",
+      "Welfare economics"
+    ],
+    [
+      "Shapley–Shubik power index",
+      "Banzhaf power index"
+    ],
+    [
+      "Search theory",
+      "Information economics"
+    ],
+    [
+      "Transferable utility",
+      "Cooperative game theory"
+    ],
+    [
+      "Bondareva–Shapley theorem",
+      "Cooperative game theory"
+    ],
+    [
+      "Evolutionarily stable set",
+      "Strategy (game theory)"
+    ],
+    [
+      "Microfoundations",
+      "Microeconomics"
+    ],
+    [
+      "Nanoeconomics",
+      "Information economics"
+    ],
+    [
+      "Nanoeconomics",
+      "Quantum pseudo-telepathy"
+    ],
+    [
+      "Consumption smoothing",
+      "Consumer choice"
+    ],
+    [
+      "Win–stay, lose–switch",
+      "Bounded rationality"
+    ],
+    [
+      "Social value orientations",
+      "Game theory"
+    ],
+    [
+      "Social value orientations",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Marginal use",
+      "Marginalism"
+    ],
+    [
+      "Self-confirming equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Self-confirming equilibrium",
+      "Extensive-form game"
+    ],
+    [
+      "Hidden welfare state",
+      "Welfare spending"
+    ],
+    [
+      "Strong Nash equilibrium",
+      "Evolutionarily stable strategy"
+    ],
+    [
+      "Competitive altruism",
+      "Coopetition"
+    ],
+    [
+      "Differential game",
+      "Mean-field game theory"
+    ],
+    [
+      "Parthasarathy's theorem",
+      "Minimax theorem"
+    ],
+    [
+      "Bayesian efficiency",
+      "Pareto efficiency"
+    ],
+    [
+      "Continuous game",
+      "Nash equilibrium"
+    ],
+    [
+      "Category:C-Class game theory articles",
+      "Game theory"
+    ],
+    [
+      "Search-and-matching theory",
+      "Search theory"
+    ],
+    [
+      "Graphical game theory",
+      "Succinct game"
+    ],
+    [
+      "Surplus procedure",
+      "Equity (economics)"
+    ],
+    [
+      "Octal game",
+      "Nim"
+    ],
+    [
+      "Octal game",
+      "Kayles"
+    ],
+    [
+      "Quantum pseudo-telepathy",
+      "Quantum game theory"
+    ],
+    [
+      "Quantum pseudo-telepathy",
+      "Quantum refereed game"
+    ],
+    [
+      "Game theory in communication networks",
+      "Game theory"
+    ],
+    [
+      "Cram (game)",
+      "Domineering"
+    ],
+    [
+      "Genus theory",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Genus theory",
+      "Mex (mathematics)"
+    ],
+    [
+      "Genus theory",
+      "Indistinguishability quotient"
+    ],
+    [
+      "Indistinguishability quotient",
+      "Sprague–Grundy theorem"
+    ],
+    [
+      "Indistinguishability quotient",
+      "Nim"
+    ],
+    [
+      "Indistinguishability quotient",
+      "Genus theory"
+    ],
+    [
+      "Market design",
+      "Economic efficiency"
+    ],
+    [
+      "Willingness to accept",
+      "Goods"
+    ],
+    [
+      "Strictly determined game",
+      "Determinacy"
+    ],
+    [
+      "Strictly determined game",
+      "Solved game"
+    ],
+    [
+      "Rational irrationality",
+      "Behavioral economics"
+    ],
+    [
+      "Rational irrationality",
+      "Bounded rationality"
+    ],
+    [
+      "Rational irrationality",
+      "Rational ignorance"
+    ],
+    [
+      "Poisson game",
+      "Perfect information"
+    ],
+    [
+      "Marginal utility",
+      "Marginalism"
+    ],
+    [
+      "Marginal utility",
+      "Microeconomics"
+    ],
+    [
+      "Marginal utility",
+      "Pareto efficiency"
+    ],
+    [
+      "Welfare cost of business cycles",
+      "Welfare cost of inflation"
+    ],
+    [
+      "Simultaneous game",
+      "Sequential game"
+    ],
+    [
+      "Simultaneous game",
+      "Simultaneous action selection"
+    ],
+    [
+      "Price of stability",
+      "Nash equilibrium"
+    ],
+    [
+      "International Game Theory Review",
+      "Game theory"
+    ],
+    [
+      "Max-dominated strategy",
+      "Nash equilibrium"
+    ],
+    [
+      "Hot game",
+      "Domineering"
+    ],
+    [
+      "Hot game",
+      "Cooling and heating (combinatorial game theory)"
+    ],
+    [
+      "Coalition-proof Nash equilibrium",
+      "Strong Nash equilibrium"
+    ],
+    [
+      "Welfare cost of inflation",
+      "Welfare cost of business cycles"
+    ],
+    [
+      "Preference (economics)",
+      "Behavioral economics"
+    ],
+    [
+      "Preference (economics)",
+      "Lexicographic preferences"
+    ],
+    [
+      "Preference (economics)",
+      "Revealed preference"
+    ],
+    [
+      "Life satisfaction",
+      "Human Poverty Index"
+    ],
+    [
+      "Life satisfaction",
+      "Welfare economics"
+    ],
+    [
+      "Optimal firm size",
+      "Minimum efficient scale"
+    ],
+    [
+      "Social protection floor",
+      "Social protection"
+    ],
+    [
+      "Poset game",
+      "Nim"
+    ],
+    [
+      "Poset game",
+      "Chomp"
+    ],
+    [
+      "Interdependence theory",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Self-enforcing agreement",
+      "Cooperative game theory"
+    ],
+    [
+      "Self-enforcing agreement",
+      "Nash equilibrium"
+    ],
+    [
+      "Bertrand–Edgeworth model",
+      "Nash equilibrium"
+    ],
+    [
+      "Bertrand–Edgeworth model",
+      "Bertrand paradox (economics)"
+    ],
+    [
+      "Bertrand–Edgeworth model",
+      "Edgeworth paradox"
+    ],
+    [
+      "Market game",
+      "Nash equilibrium"
+    ],
+    [
+      "Almost ideal demand system",
+      "Consumer behaviour"
+    ],
+    [
+      "Market fragmentation",
+      "Competition (economics)"
+    ],
+    [
+      "Lemke–Howson algorithm",
+      "Nash equilibrium"
+    ],
+    [
+      "Mean-field game theory",
+      "Aggregative game"
+    ],
+    [
+      "Mean-field game theory",
+      "Differential game"
+    ],
+    [
+      "Mean-field game theory",
+      "Evolutionary game theory"
+    ],
+    [
+      "Mean-field game theory",
+      "Quantal response equilibrium"
+    ],
+    [
+      "Hobbesian trap",
+      "Nash equilibrium"
+    ],
+    [
+      "Hobbesian trap",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Risk aversion (psychology)",
+      "Loss aversion"
+    ],
+    [
+      "Quantum refereed game",
+      "Game theory"
+    ],
+    [
+      "Quantum refereed game",
+      "Quantum game theory"
+    ],
+    [
+      "Intergenerational struggle",
+      "Intergenerational equity"
+    ],
+    [
+      "Kuhn's theorem",
+      "Extensive-form game"
+    ],
+    [
+      "Pen's parade",
+      "Gini coefficient"
+    ],
+    [
+      "Subjective expected relative similarity",
+      "Game theory"
+    ],
+    [
+      "Divine equilibrium",
+      "Perfect Bayesian equilibrium"
+    ],
+    [
+      "Divine equilibrium",
+      "Signaling game"
+    ],
+    [
+      "Waldegrave problem",
+      "Solution concept"
+    ],
+    [
+      "Pooling equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Pooling equilibrium",
+      "Separating equilibrium"
+    ],
+    [
+      "Notakto",
+      "Misère"
+    ],
+    [
+      "Futile game",
+      "Partisan game"
+    ],
+    [
+      "Futile game",
+      "Impartial game"
+    ],
+    [
+      "Futile game",
+      "Solved game"
+    ],
+    [
+      "Category:Game theory user templates",
+      "Game theory"
+    ],
+    [
+      "Maddison Project",
+      "Penn World Table"
+    ],
+    [
+      "Abstract economy",
+      "Nash equilibrium"
+    ],
+    [
+      "Separating equilibrium",
+      "Pooling equilibrium"
+    ],
+    [
+      "Separating equilibrium",
+      "Cheap talk"
+    ],
+    [
+      "M equilibrium",
+      "Bounded rationality"
+    ],
+    [
+      "M equilibrium",
+      "Behavioral game theory"
+    ],
+    [
+      "Bennett's law",
+      "Engel's law"
+    ],
+    [
+      "Double marginalization",
+      "Externality"
+    ],
+    [
+      "Gift-exchange game",
+      "Game theory"
+    ],
+    [
+      "Gift-exchange game",
+      "Prisoner's dilemma"
+    ],
+    [
+      "Berge equilibrium",
+      "Nash equilibrium"
+    ],
+    [
+      "Price of anarchy in congestion games",
+      "Externality"
+    ],
+    [
+      "Wellbeing economy",
+      "Happiness economics"
+    ],
+    [
+      "Bayes correlated equilibrium",
+      "Correlated equilibrium"
+    ],
+    [
+      "Bayes correlated equilibrium",
+      "Bayesian game"
+    ],
+    [
+      "Duopsony",
+      "Duopoly"
+    ],
+    [
+      "Duopsony",
+      "Monopoly"
+    ],
+    [
+      "Cursed equilibrium",
+      "Bayesian game"
+    ],
+    [
+      "Loopy game",
+      "Finite game"
+    ],
+    [
+      "Perfect recall (game theory)",
+      "Information set (game theory)"
+    ],
+    [
+      "Perfect recall (game theory)",
+      "Kuhn's theorem"
+    ],
+    [
+      "Wealth maximization",
+      "Kaldor–Hicks efficiency"
+    ],
+    [
+      "Nash equilibrium computation",
+      "Nash equilibrium"
+    ],
+    [
+      "Nash equilibrium computation",
+      "Epsilon-equilibrium"
+    ],
+    [
+      "Non-atomic game",
+      "Continuous game"
+    ],
+    [
+      "Concave game",
+      "Nash equilibrium computation"
+    ],
+    [
+      "Concave game",
+      "Fictitious play"
+    ],
+    [
+      "Move generation",
+      "Ply (game theory)"
+    ],
+    [
+      "Move generation",
+      "Move ordering"
+    ],
+    [
+      "Move ordering",
+      "Game tree"
+    ],
+    [
+      "Move ordering",
+      "Minimax"
+    ],
+    [
+      "Move ordering",
+      "Alpha–beta pruning"
+    ],
+    [
+      "Cooperative-competitive value",
+      "Transferable utility"
+    ],
+    [
+      "Explore-then-commit algorithm",
+      "Sequential game"
+    ]
+  ]
+}
